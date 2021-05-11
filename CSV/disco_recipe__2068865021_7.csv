@@ -1,0 +1,2201 @@
+﻿id,Name,SATNO,COSPAR ID,VIMPEL ID,Object Class,Mass (kg),Shape,Length (m),Height (m),Depth (m),Re-entry Epoch,Max.cross section (m²),Min. cross section (m²),Avg. cross section (m²)
+64769,Starlink 1671,46554,2020-070Y,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64770,Starlink 1674,46555,2020-070Z,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64771,Starlink 1676,46556,2020-070AA,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64772,Starlink 1679,46557,2020-070AB,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64773,Starlink 1680,46558,2020-070AC,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64774,Starlink 1681,46559,2020-070AD,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64775,Starlink 1706,46560,2020-070AE,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64776,Starlink 1709,46561,2020-070AF,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64777,Starlink 1714,46562,2020-070AG,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64778,Starlink 1730,46563,2020-070AH,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64779,Starlink 1733,46564,2020-070AJ,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64780,Starlink 1735,46565,2020-070AK,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64781,Starlink 1740,46566,2020-070AL,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64782,Starlink 1741,46567,2020-070AM,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64783,Starlink 1743,46568,2020-070AN,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64784,Starlink 1747,46569,2020-070AP,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64785,Starlink 1748,46570,2020-070AQ,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64786,Starlink 1753,46571,2020-070AR,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64787,Starlink 1531,46572,2020-070AS,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64788,Starlink 1650,46573,2020-070AT,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64789,Starlink 1660,46574,2020-070AU,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64790,Starlink 1675,46575,2020-070AV,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64791,Starlink 1677,46576,2020-070AW,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64792,Starlink 1682,46577,2020-070AX,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64793,Starlink 1683,46578,2020-070AY,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64794,Starlink 1705,46579,2020-070AZ,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64795,Starlink 1708,46580,2020-070BA,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64796,Starlink 1712,46581,2020-070BB,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64797,Starlink 1728,46582,2020-070BC,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64798,Starlink 1729,46583,2020-070BD,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64799,Starlink 1732,46584,2020-070BE,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64800,Starlink 1736,46585,2020-070BF,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64801,Starlink 1737,46586,2020-070BG,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64802,Starlink 1744,46587,2020-070BH,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64803,Starlink 1746,46588,2020-070BJ,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64804,Starlink 1749,46589,2020-070BK,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64805,Starlink 1754,46590,2020-070BL,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64806,Starlink 1755,46591,2020-070BM,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64807,Fregat SBB debris,46615,2011-037MF,,Rocket Fragmentation Debris,,,,,,19/11/2020,,,
+64808,Fregat SBB debris,46616,2011-037MG,,Rocket Fragmentation Debris,,,,,,,,,
+64809,Fregat SBB debris,46617,2011-037MH,,Rocket Fragmentation Debris,,,,,,09/11/2020,,,
+64810,Fregat SBB debris,46618,2011-037MJ,,Rocket Fragmentation Debris,,,,,,,,,
+64811,Fregat SBB debris,46619,2011-037MK,,Rocket Fragmentation Debris,,,,,,,,,
+64812,Fregat SBB debris,46620,2011-037ML,,Rocket Fragmentation Debris,,,,,,,,,
+64813,Fregat SBB debris,46621,2011-037MM,,Rocket Fragmentation Debris,,,,,,,,,
+64814,Fregat SBB debris,46622,2011-037MN,,Rocket Fragmentation Debris,,,,,,,,,
+64815,Fregat SBB debris,46623,2011-037MP,,Rocket Fragmentation Debris,,,,,,,,,
+64816,Fregat SBB debris,46635,2011-037NB,,Rocket Fragmentation Debris,,,,,,,,,
+64817,Fregat SBB debris,46625,2011-037MR,,Rocket Fragmentation Debris,,,,,,,,,
+64818,Fregat SBB debris,46624,2011-037MQ,,Rocket Fragmentation Debris,,,,,,,,,
+64819,Fregat SBB debris,46627,2011-037MT,,Rocket Fragmentation Debris,,,,,,,,,
+64820,Fregat SBB debris,46628,2011-037MU,,Rocket Fragmentation Debris,,,,,,,,,
+64821,Fregat SBB debris,46629,2011-037MV,,Rocket Fragmentation Debris,,,,,,26/10/2020,,,
+64822,Fregat SBB debris,46630,2011-037MW,,Rocket Fragmentation Debris,,,,,,25/12/2020,,,
+64823,Fregat SBB debris,46631,2011-037MX,,Rocket Fragmentation Debris,,,,,,,,,
+64824,Fregat SBB debris,46632,2011-037MY,,Rocket Fragmentation Debris,,,,,,,,,
+64825,Fregat SBB debris,46633,2011-037MZ,,Rocket Fragmentation Debris,,,,,,,,,
+64826,Fregat SBB debris,46634,2011-037NA,,Rocket Fragmentation Debris,,,,,,,,,
+64827,Fregat SBB debris,46626,2011-037MS,,Rocket Fragmentation Debris,,,,,,,,,
+64828,Centaur-5 SEC debris,46637,2014-055CM,,Rocket Fragmentation Debris,,,,,,,,,
+64829,Centaur-5 SEC debris,46638,2014-055CN,,Rocket Fragmentation Debris,,,,,,,,,
+64830,Centaur-5 SEC debris,46639,2014-055CP,,Rocket Fragmentation Debris,,,,,,,,,
+64831,Centaur-5 SEC debris,46640,2014-055CQ,,Rocket Fragmentation Debris,,,,,,,,,
+64832,Centaur-5 SEC debris,46641,2014-055CR,,Rocket Fragmentation Debris,,,,,,,,,
+64833,Centaur-5 SEC debris,46642,2014-055CS,,Rocket Fragmentation Debris,,,,,,,,,
+64834,Centaur-5 SEC debris,46643,2014-055CT,,Rocket Fragmentation Debris,,,,,,,,,
+64835,Centaur-5 SEC debris,46644,2014-055CU,,Rocket Fragmentation Debris,,,,,,,,,
+64836,Centaur-5 SEC debris,46645,2014-055CV,,Rocket Fragmentation Debris,,,,,,,,,
+64837,Centaur-5 SEC debris,46646,2014-055CW,,Rocket Fragmentation Debris,,,,,,,,,
+64838,Centaur-5 SEC debris,46647,2014-055CX,,Rocket Fragmentation Debris,,,,,,,,,
+64839,Centaur-5 SEC debris,46648,2014-055CY,,Rocket Fragmentation Debris,,,,,,,,,
+64840,Centaur-5 SEC debris,46649,2014-055CZ,,Rocket Fragmentation Debris,,,,,,,,,
+64841,Centaur-5 SEC debris,46650,2014-055DA,,Rocket Fragmentation Debris,,,,,,,,,
+64842,Centaur-5 SEC debris,46651,2014-055DB,,Rocket Fragmentation Debris,,,,,,,,,
+64843,Centaur-5 SEC debris,46652,2014-055DC,,Rocket Fragmentation Debris,,,,,,,,,
+64844,Centaur-5 SEC debris,46653,2014-055DD,,Rocket Fragmentation Debris,,,,,,,,,
+64845,Centaur-5 SEC debris,46654,2014-055DE,,Rocket Fragmentation Debris,,,,,,,,,
+64846,Centaur-5 SEC debris,46655,2018-079CH,,Rocket Fragmentation Debris,,,,,,,,,
+64847,Centaur-5 SEC debris,46656,2018-079CJ,,Rocket Fragmentation Debris,,,,,,,,,
+64848,Centaur-5 SEC debris,46657,2018-079CK,,Rocket Fragmentation Debris,,,,,,,,,
+64849,Centaur-5 SEC debris,46658,2018-079CL,,Rocket Fragmentation Debris,,,,,,,,,
+64850,Centaur-5 SEC debris,46659,2018-079CM,,Rocket Fragmentation Debris,,,,,,,,,
+64851,Centaur-5 SEC debris,46660,2018-079CN,,Rocket Fragmentation Debris,,,,,,,,,
+64852,Centaur-5 SEC debris,46661,2018-079CP,,Rocket Fragmentation Debris,,,,,,,,,
+64853,Centaur-5 SEC debris,46662,2018-079CQ,,Rocket Fragmentation Debris,,,,,,,,,
+64854,Centaur-5 SEC debris,46663,2018-079CR,,Rocket Fragmentation Debris,,,,,,,,,
+64855,Centaur-5 SEC debris,46664,2018-079CS,,Rocket Fragmentation Debris,,,,,,,,,
+64856,Centaur-5 SEC debris,46665,2018-079CT,,Rocket Fragmentation Debris,,,,,,,,,
+64857,Centaur-5 SEC debris,46666,2018-079CU,,Rocket Fragmentation Debris,,,,,,,,,
+64858,Centaur-5 SEC debris,46667,2018-079CV,,Rocket Fragmentation Debris,,,,,,,,,
+64859,Centaur-5 SEC debris,46668,2018-079CW,,Rocket Fragmentation Debris,,,,,,,,,
+64860,Falcon 9 Merlin-V (1D+) (Falcon 9 v1.2),46669,2020-070BS,,Rocket Body,4300,Cyl,3.6,16,16,30/10/2020,58.4924538651002,10.1787601976309,50.3283143105085
+64861,,,,155202,Unknown,,,,,,,,,
+64862,,,,152803,Unknown,,,,,,,,,
+64863,,,,139719,Unknown,,,,,,,,,
+64864,,,,26602,Unknown,,,,,,,,,
+64865,,,,114603,Unknown,,,,,,,,,
+64866,,,,66412,Unknown,,,,,,,,,
+64867,,,,82706,Unknown,,,,,,,,,
+64868,,,,72604,Unknown,,,,,,,,,
+64869,Starlink 1819,46670,2020-073A,,Payload,260,Box + 1 Pan,3.3,0.2,9,25/10/2020,23.657,0.9049,13.6031511029411
+64870,Fregat SBB debris,46636,2011-037NC,,Rocket Fragmentation Debris,,,,,,,,,
+64871,Flock 4v-23,46737,2020-061BM,,Payload,5.7,Box + 2 Pan,0.1,0.3,0.3,,0.1911,0.0223,0.107892647058823
+64872,Flock 4v-22,46735,2020-061BL,,Payload,5.7,Box + 2 Pan,0.1,0.3,0.3,,0.1911,0.0223,0.107892647058823
+64873,Flock 4v-24,46738,2020-061BN,,Payload,5.7,Box + 2 Pan,0.1,0.3,0.3,,0.1911,0.0223,0.107892647058823
+64874,,,,140611,Unknown,,,,,,,,,
+64875,,,,60804,Unknown,,,,,,,,,
+64876,,,,136007,Unknown,,,,,,,,,
+64877,,,,142728,Unknown,,,,,,,,,
+64878,,,,71817,Unknown,,,,,,,,,
+64879,,,,74635,Unknown,,,,,,,,,
+64880,,,,29501,Unknown,,,,,,,,,
+64881,,,,134608,Unknown,,,,,,,,,
+64882,,,,64407,Unknown,,,,,,,,,
+64883,,,,112802,Unknown,,,,,,,,,
+64884,,,,141608,Unknown,,,,,,,,,
+64885,,,,64809,Unknown,,,,,,,,,
+64886,,,,143592,Unknown,,,,,,,,,
+64887,,,,64107,Unknown,,,,,,,,,
+64888,,,,152303,Unknown,,,,,,,,,
+64889,,,,96503,Unknown,,,,,,,,,
+64890,,,,121401,Unknown,,,,,,,,,
+64891,,,,103100,Unknown,,,,,,,,,
+64892,,,,93501,Unknown,,,,,,,,,
+64893,,,,93502,Unknown,,,,,,,,,
+64894,Starlink 1822,46719,2020-073BB,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64895,Starlink 1715,46671,2020-073B,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64896,Starlink 1716,46672,2020-073C,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64897,Starlink 1717,46673,2020-073D,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64898,Starlink 1718,46674,2020-073E,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64899,Starlink 1720,46675,2020-073F,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64900,Starlink 1731,46676,2020-073G,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64901,Starlink 1766,46677,2020-073H,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64902,Starlink 1772,46678,2020-073J,,Payload,260,Box + 1 Pan,3.3,0.2,9,28/12/2020,23.657,0.9049,13.6031511029411
+64903,Starlink 1773,46679,2020-073K,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64904,Starlink 1774,46680,2020-073L,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64905,Starlink 1775,46681,2020-073M,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64906,Starlink 1776,46682,2020-073N,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64907,Starlink 1778,46683,2020-073P,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64908,Starlink 1780,46684,2020-073Q,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64909,Starlink 1781,46685,2020-073R,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64910,Starlink 1783,46686,2020-073S,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64911,Starlink 1784,46687,2020-073T,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64912,Starlink 1786,46688,2020-073U,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64913,Starlink 1788,46689,2020-073V,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64914,Starlink 1789,46690,2020-073W,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64915,Starlink 1790,46691,2020-073X,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64916,Starlink 1791,46692,2020-073Y,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64917,Starlink 1792,46693,2020-073Z,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64918,Starlink 1793,46694,2020-073AA,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64919,Starlink 1794,46695,2020-073AB,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64920,Starlink 1795,46696,2020-073AC,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64921,Starlink 1796,46697,2020-073AD,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64922,Starlink 1797,46698,2020-073AE,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64923,Starlink 1799,46699,2020-073AF,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64924,Starlink 1800,46700,2020-073AG,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64925,Starlink 1801,46701,2020-073AH,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64926,Starlink 1802,46702,2020-073AJ,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64927,Starlink 1803,46703,2020-073AK,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64928,Starlink 1804,46704,2020-073AL,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64929,Starlink 1805,46705,2020-073AM,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64930,Starlink 1807,46706,2020-073AN,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64931,Starlink 1808,46707,2020-073AP,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64932,Starlink 1810,46709,2020-073AR,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64933,Starlink 1809,46708,2020-073AQ,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64934,Starlink 1811,46710,2020-073AS,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64935,Starlink 1813,46711,2020-073AT,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64936,Starlink 1814,46712,2020-073AU,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64937,Starlink 1815,46713,2020-073AV,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64938,Starlink 1816,46714,2020-073AW,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64939,Starlink 1817,46715,2020-073AX,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64940,Starlink 1818,46716,2020-073AY,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64941,Starlink 1820,46717,2020-073AZ,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64942,Starlink 1821,46718,2020-073BA,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64943,Starlink 1823,46720,2020-073BC,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64944,Starlink 1824,46721,2020-073BD,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64945,Starlink 1825,46722,2020-073BE,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64946,Starlink 1826,46723,2020-073BF,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64947,Starlink 1827,46724,2020-073BG,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64948,Starlink 1828,46725,2020-073BH,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64949,Starlink 1829,46726,2020-073BJ,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64950,Starlink 1830,46727,2020-073BK,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64951,Starlink 1831,46728,2020-073BL,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64952,Starlink 1841,46729,2020-073BM,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+64953,Starlink operational debris (deployment rail),46730,2020-073BN,,Rocket Mission Related Object,5,Cyl,0.02,7,7,15/11/2020,0.14,0.0003,0.1101
+64954,Starlink operational debris (deployment rail),46731,2020-073BP,,Rocket Mission Related Object,5,Cyl,0.02,7,7,16/11/2020,0.14,0.0003,0.1101
+64955,Starlink operational debris (deployment rail),46732,2020-073BQ,,Rocket Mission Related Object,5,Cyl,0.02,7,7,14/11/2020,0.14,0.0003,0.1101
+64956,Starlink operational debris (deployment rail),46733,2020-073BR,,Rocket Mission Related Object,5,Cyl,0.02,7,7,11/11/2020,0.14,0.0003,0.1101
+64957,Glonass-K No. 15L,46805,2020-075A,,Payload,974,Box + 2 Pan,1,2,5,,6.2003,1,3.5853
+64958,Fregat-M (Soyuz-2-1B Fregat-M),46806,2020-075B,,Rocket Body,920,Irr,3.48,1.74,3.48,,14.8321502905007,6.0552,12.1104
+64959,Yaogan Weixing 30-07-01,46807,2020-076A,,Payload,500,Box + 2 Pan,0.5,0.5,1,,0.6332,0.25,0.446
+64960,Yaogan Weixing 30-07-03,46809,2020-076C,,Payload,500,Box + 2 Pan,0.5,0.5,1,,0.6332,0.25,0.446
+64961,Flock 4v-25,46812,2020-061BP,,Payload,5.7,Box + 2 Pan,0.1,0.3,0.3,,0.1911,0.0223,0.107892647058823
+64962,Yaogan Weixing 30-07-02,46808,2020-076B,,Payload,500,Box + 2 Pan,0.5,0.5,1,,0.6332,0.25,0.446
+64963,Tianqi-6,46810,2020-076D,,Payload,40,Box,0.3,0.5,0.5,,0.230434372436058,0.09,0.195
+64964,L-55 (YF24) (Long March (CZ) 2C),46811,2020-076E,,Rocket Body,3800,Cyl,3.35,9.94,9.94,,26.5945910961915,8.81413088872786,24.113883461251
+64965,Electron second stage (Electron (Curie)),46823,2020-077L,,Rocket Body,250,Cyl,1.2,2.4,1.2,11/11/2020,3.09410742062734,1.13097335529233,2.82743338823081
+64966,Flock 4e'-8,46816,2020-077D,,Payload,5.7,Box + 2 Pan,0.1,0.3,0.3,,0.1911,0.0223,0.107892647058823
+64967,Flock 4e'-5,46817,2020-077E,,Payload,5.7,Box + 2 Pan,0.1,0.3,0.3,,0.1911,0.0223,0.107892647058823
+64968,CE-SAT-IIB,46818,2020-077F,,Payload,35,Box,0.5,0.9,0.9,,0.683739716558867,0.25,0.575
+64969,Flock 4e'-3,46819,2020-077G,,Payload,5.7,Box + 2 Pan,0.1,0.3,0.3,,0.1911,0.0223,0.107892647058823
+64970,Flock 4e'-2,46820,2020-077H,,Payload,5.7,Box + 2 Pan,0.1,0.3,0.3,,0.1911,0.0223,0.107892647058823
+64971,Flock 4e'-4,46821,2020-077J,,Payload,5.7,Box + 2 Pan,0.1,0.3,0.3,,0.1911,0.0223,0.107892647058823
+64972,Flock 4e'-6,46822,2020-077K,,Payload,5.7,Box + 2 Pan,0.1,0.3,0.3,,0.1911,0.0223,0.107892647058823
+64973,Electron kick stage (Electron (Curie)),46824,2020-077M,,Rocket Body,100,Trunc Cone,1,,,,,,
+64974,Flock 4v-26,46825,2020-061BQ,,Payload,5.7,Box + 2 Pan,0.1,0.3,0.3,,0.1911,0.0223,0.107892647058823
+64975,Flock 4e'-1,46813,2020-077A,,Payload,5.7,Box + 2 Pan,0.1,0.3,0.3,,0.1911,0.0223,0.107892647058823
+64976,Flock 4e'-7,46814,2020-077B,,Payload,5.7,Box + 2 Pan,0.1,0.3,0.3,,0.1911,0.0223,0.107892647058823
+64977,Flock 4e'-9,46815,2020-077C,,Payload,5.7,Box + 2 Pan,0.1,0.3,0.3,,0.1911,0.0223,0.107892647058823
+64978,,,,142729,Unknown,,,,,,,,,
+64979,,,,142730,Unknown,,,,,,,,,
+64980,,,,80011,Unknown,,,,,,,,,
+64981,,,,74636,Unknown,,,,,,,,,
+64982,,,,58004,Unknown,,,,,,,,,
+64983,,,,131604,Unknown,,,,,,,,,
+64984,,,,66203,Unknown,,,,,,,,,
+64985,,,,143133,Unknown,,,,,,,,,
+64986,,,,76319,Unknown,,,,,,,,,
+64987,,,,68002,Unknown,,,,,,,,,
+64988,,,,50604,Unknown,,,,,,,,,
+64989,,,,146608,Unknown,,,,,,,,,
+64990,,,,147504,Unknown,,,,,,,,,
+64991,,,,132402,Unknown,,,,,,,,,
+64992,,,,80308,Unknown,,,,,,,,,
+64993,,,,137908,Unknown,,,,,,,,,
+64994,,,,70715,Unknown,,,,,,,,,
+64995,,,,66108,Unknown,,,,,,,,,
+64996,,,,115901,Unknown,,,,,,,,,
+64997,,,,77121,Unknown,,,,,,,,,
+64998,,,,147907,Unknown,,,,,,,,,
+64999,,,,138313,Unknown,,,,,,,,,
+65000,,,,87504,Unknown,,,,,,,,,
+65001,,,,68305,Unknown,,,,,,,,,
+65002,,,,77522,Unknown,,,,,,,,,
+65003,,,,169300,Unknown,,,,,,,,,
+65004,,,,145621,Unknown,,,,,,,,,
+65005,,,,74712,Unknown,,,,,,,,,
+65006,,,,86104,Unknown,,,,,,,,,
+65007,,,,68708,Unknown,,,,,,,,,
+65008,,,,79716,Unknown,,,,,,,,,
+65009,,,,53607,Unknown,,,,,,,,,
+65010,,,,82408,Unknown,,,,,,,,,
+65011,,,,146414,Unknown,,,,,,,,,
+65012,,,,53103,Unknown,,,,,,,,,
+65013,,,,80111,Unknown,,,,,,,,,
+65014,,,,81909,Unknown,,,,,,,,,
+65015,,,,61306,Unknown,,,,,,,,,
+65016,,,,135807,Unknown,,,,,,,,,
+65017,Starlink 1847,46739,2020-074A,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65018,Starlink 1848,46740,2020-074B,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65019,Starlink 1865,46741,2020-074C,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65020,Starlink 1872,46742,2020-074D,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65021,Starlink 1892,46743,2020-074E,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65022,Starlink 1894,46744,2020-074F,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65023,Starlink 1898,46745,2020-074G,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65024,Starlink 1905,46746,2020-074H,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65025,Starlink 1908,46747,2020-074J,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65026,Starlink 1910,46748,2020-074K,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65027,Starlink 1911,46749,2020-074L,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65028,Starlink 1915,46750,2020-074M,,Payload,260,Box + 1 Pan,3.3,0.2,9,06/11/2020,23.657,0.9049,13.6031511029411
+65029,Starlink 1920,46751,2020-074N,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65030,Starlink 1921,46752,2020-074P,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65031,Starlink 1922,46753,2020-074Q,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65032,Starlink 1923,46754,2020-074R,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65033,Starlink 1924,46755,2020-074S,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65034,Starlink 1925,46756,2020-074T,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65035,Starlink 1926,46757,2020-074U,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65036,Starlink 1928,46758,2020-074V,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65037,Starlink 1833,46759,2020-074W,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65038,Starlink 1896,46760,2020-074X,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65039,Starlink 1897,46761,2020-074Y,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65040,Starlink 1901,46762,2020-074Z,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65041,Starlink 1902,46763,2020-074AA,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65042,Starlink 1903,46764,2020-074AB,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65043,Starlink 1906,46765,2020-074AC,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65044,Starlink 1916,46766,2020-074AD,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65045,Starlink 1917,46767,2020-074AE,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65046,Starlink 1918,46768,2020-074AF,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65047,Starlink 1919,46769,2020-074AG,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65048,Starlink 1932,46770,2020-074AH,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65049,Starlink 1935,46771,2020-074AJ,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65050,Starlink 1936,46772,2020-074AK,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65051,Starlink 1937,46773,2020-074AL,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65052,Starlink 1939,46774,2020-074AM,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65053,Starlink 1945,46775,2020-074AN,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65054,Starlink 1946,46776,2020-074AP,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65055,Starlink 1949,46777,2020-074AQ,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65056,Starlink 1950,46778,2020-074AR,,Payload,260,Box + 1 Pan,3.3,0.2,9,06/11/2020,23.657,0.9049,13.6031511029411
+65057,Starlink 1798,46779,2020-074AS,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65058,Starlink 1832,46780,2020-074AT,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65059,Starlink 1834,46781,2020-074AU,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65060,Starlink 1835,46782,2020-074AV,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65061,Starlink 1851,46783,2020-074AW,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65062,Starlink 1882,46784,2020-074AX,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65063,Starlink 1883,46785,2020-074AY,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65064,Starlink 1893,46786,2020-074AZ,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65065,Starlink 1899,46787,2020-074BA,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65066,Starlink 1929,46788,2020-074BB,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65067,Starlink 1930,46789,2020-074BC,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65068,Starlink 1931,46790,2020-074BD,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65069,Starlink 1933,46791,2020-074BE,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65070,Starlink 1934,46792,2020-074BF,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65071,Starlink 1941,46793,2020-074BG,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65072,Starlink 1942,46794,2020-074BH,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65073,Starlink 1943,46795,2020-074BJ,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65074,Starlink 1944,46796,2020-074BK,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65075,Starlink 1947,46797,2020-074BL,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65076,Starlink 1948,46798,2020-074BM,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65077,Starlink operational debris (deployment rail),46799,2020-074BN,,Rocket Mission Related Object,5,Cyl,0.02,7,7,21/11/2020,0.14,0.0003,0.1101
+65078,Starlink operational debris (deployment rail),46800,2020-074BP,,Rocket Mission Related Object,5,Cyl,0.02,7,7,22/11/2020,0.14,0.0003,0.1101
+65079,Starlink operational debris (deployment rail),46801,2020-074BQ,,Rocket Mission Related Object,5,Cyl,0.02,7,7,20/11/2020,0.14,0.0003,0.1101
+65080,Starlink operational debris (deployment rail),46802,2020-074BR,,Rocket Mission Related Object,5,Cyl,0.02,7,7,17/11/2020,0.14,0.0003,0.1101
+65081,Falcon 9 Merlin-V (1D+) (Falcon 9 v1.2),46803,2020-074BS,,Rocket Body,4300,Cyl,3.6,16,16,16/11/2020,58.4924538651002,10.1787601976309,50.3283143105085
+65082,Centaur-5 SEC debris,46848,2018-079DD,,Rocket Fragmentation Debris,,,,,,,,,
+65083,Centaur-5 SEC debris,46849,2018-079DE,,Rocket Fragmentation Debris,,,,,,,,,
+65084,Centaur-5 SEC debris,46850,2018-079DF,,Rocket Fragmentation Debris,,,,,,,,,
+65085,Centaur-5 SEC debris,46851,2018-079DG,,Rocket Fragmentation Debris,,,,,,,,,
+65086,Centaur-5 SEC debris,46852,2018-079DH,,Rocket Fragmentation Debris,,,,,,,,,
+65087,Centaur-5 SEC debris,46853,2018-079DJ,,Rocket Fragmentation Debris,,,,,,,,,
+65088,Centaur-5 SEC debris,46854,2018-079DK,,Rocket Fragmentation Debris,,,,,,,,,
+65089,Centaur-5 SEC debris,46855,2018-079DL,,Rocket Fragmentation Debris,,,,,,,,,
+65090,Centaur-5 SEC debris,46856,2018-079DM,,Rocket Fragmentation Debris,,,,,,,,,
+65091,Centaur-5 SEC debris,46857,2018-079DN,,Rocket Fragmentation Debris,,,,,,,,,
+65092,Centaur-5 SEC debris,46858,2018-079DP,,Rocket Fragmentation Debris,,,,,,,,,
+65093,Centaur-5 SEC debris,46859,2018-079DQ,,Rocket Fragmentation Debris,,,,,,,,,
+65094,Centaur-5 SEC debris,46860,2018-079DR,,Rocket Fragmentation Debris,,,,,,,,,
+65095,Centaur-5 SEC debris,46863,2018-079DU,,Rocket Fragmentation Debris,,,,,,,,,
+65096,Centaur-5 SEC debris,46864,2018-079DV,,Rocket Fragmentation Debris,,,,,,,,,
+65097,Centaur-5 SEC debris,46865,2018-079DW,,Rocket Fragmentation Debris,,,,,,,,,
+65098,Centaur-5 SEC debris,46866,2018-079DX,,Rocket Fragmentation Debris,,,,,,,,,
+65099,Centaur-5 SEC debris,46867,2018-079DY,,Rocket Fragmentation Debris,,,,,,,,,
+65100,Centaur-5 SEC debris,46868,2018-079DZ,,Rocket Fragmentation Debris,,,,,,,,,
+65101,Centaur-5 SEC debris,46869,2018-079EA,,Rocket Fragmentation Debris,,,,,,,,,
+65102,Centaur-5 SEC debris,46870,2018-079EB,,Rocket Fragmentation Debris,,,,,,,,,
+65103,Resurs-O1 N3 debris,46873,1994-074BD,,Payload Fragmentation Debris,,,,,,,,,
+65104,Resurs-O1 N3 debris,46874,1994-074BE,,Payload Fragmentation Debris,,,,,,,,,
+65105,Resurs-O1 N3 debris,46876,1994-074BG,,Payload Fragmentation Debris,,,,,,,,,
+65106,Resurs-O1 N3 debris,46875,1994-074BF,,Payload Fragmentation Debris,,,,,,,,,
+65107,Resurs-O1 N3 debris,46877,1994-074BH,,Payload Fragmentation Debris,,,,,,,,,
+65108,Resurs-O1 N3 debris,46878,1994-074BJ,,Payload Fragmentation Debris,,,,,,,,,
+65109,Resurs-O1 N3 debris,46879,1994-074BK,,Payload Fragmentation Debris,,,,,,,,,
+65110,Resurs-O1 N3 debris,46881,1994-074BM,,Payload Fragmentation Debris,,,,,,,,,
+65111,Resurs-O1 N3 debris,46880,1994-074BL,,Payload Fragmentation Debris,,,,,,,,,
+65112,Resurs-O1 N3 debris,46882,1994-074BN,,Payload Fragmentation Debris,,,,,,,,,
+65113,Resurs-O1 N3 debris,46883,1994-074BP,,Payload Fragmentation Debris,,,,,,,,,
+65114,Resurs-O1 N3 debris,46884,1994-074BQ,,Payload Fragmentation Debris,,,,,,,,,
+65115,Resurs-O1 N3 debris,46885,1994-074BR,,Payload Fragmentation Debris,,,,,,,,,
+65116,Resurs-O1 N3 debris,46887,1994-074BT,,Payload Fragmentation Debris,,,,,,,,,
+65117,Resurs-O1 N3 debris,46888,1994-074BU,,Payload Fragmentation Debris,,,,,,,,,
+65118,Resurs-O1 N3 debris,46886,1994-074BS,,Payload Fragmentation Debris,,,,,,,,,
+65119,Resurs-O1 N3 debris,46889,1994-074BV,,Payload Fragmentation Debris,,,,,,,,,
+65120,Resurs-O1 N3 debris,46890,1994-074BW,,Payload Fragmentation Debris,,,,,,,,,
+65121,Resurs-O1 N3 debris,46892,1994-074BY,,Payload Fragmentation Debris,,,,,,,,,
+65122,Resurs-O1 N3 debris,46893,1994-074BZ,,Payload Fragmentation Debris,,,,,,,,,
+65123,Resurs-O1 N3 debris,46894,1994-074CA,,Payload Fragmentation Debris,,,,,,,,,
+65124,Resurs-O1 N3 debris,46895,1994-074CB,,Payload Fragmentation Debris,,,,,,,,,
+65125,Resurs-O1 N3 debris,46891,1994-074BX,,Payload Fragmentation Debris,,,,,,,,,
+65126,Resurs-O1 N3 debris,46896,1994-074CC,,Payload Fragmentation Debris,,,,,,,,,
+65127,Resurs-O1 N3 debris,46898,1994-074CE,,Payload Fragmentation Debris,,,,,,,,,
+65128,Resurs-O1 N3 debris,46897,1994-074CD,,Payload Fragmentation Debris,,,,,,,,,
+65129,Resurs-O1 N3 debris,46899,1994-074CF,,Payload Fragmentation Debris,,,,,,,,,
+65130,Resurs-O1 N3 debris,46900,1994-074CG,,Payload Fragmentation Debris,,,,,,,,,
+65131,Resurs-O1 N3 debris,46902,1994-074CJ,,Payload Fragmentation Debris,,,,,,,,,
+65132,Resurs-O1 N3 debris,46903,1994-074CK,,Payload Fragmentation Debris,,,,,,,,,
+65133,Resurs-O1 N3 debris,46901,1994-074CH,,Payload Fragmentation Debris,,,,,,,,,
+65134,GPS III SV04,46826,2020-078A,,Payload,4400,Box + 2 Pan,1.8,3.4,14,,9.24155831015527,3.24,7.74
+65135,NuSat 12,46827,2020-079A,,Payload,44,Box,0.4,0.75,0.75,,0.453431361950185,0.16,0.38
+65136,NuSat 9,46828,2020-079B,,Payload,44,Box,0.4,0.75,0.75,,0.453431361950185,0.16,0.38
+65137,NuSat 11,46829,2020-079C,,Payload,44,Box,0.4,0.75,0.75,,0.453431361950185,0.16,0.38
+65138,NuSat 15,46830,2020-079D,,Payload,44,Box,0.4,0.75,0.75,,0.453431361950185,0.16,0.38
+65139,NuSat 14,46831,2020-079E,,Payload,44,Box,0.4,0.75,0.75,,0.453431361950185,0.16,0.38
+65140,NuSat 10,46832,2020-079F,,Payload,44,Box,0.4,0.75,0.75,,0.453431361950185,0.16,0.38
+65141,NuSat 13,46833,2020-079G,,Payload,44,Box,0.4,0.75,0.75,,0.453431361950185,0.16,0.38
+65142,NuSat 16,46840,2020-079P,,Payload,44,Box,0.4,0.75,0.75,,0.453431361950185,0.16,0.38
+65143,NuSat 17,46835,2020-079J,,Payload,44,Box,0.4,0.75,0.75,,0.453431361950185,0.16,0.38
+65144,NuSat 18,46836,2020-079K,,Payload,44,Box,0.4,0.75,0.75,,0.453431361950185,0.16,0.38
+65145,Tianyi-20 (Beihang kongshi 1),46837,2020-079L,,Payload,10,Box + 2 Pan,0.2,0.3,1,,0.2221,0.04,0.1264
+65146,Tianyan 05 (Dianzi keji daxue),46838,2020-079M,,Payload,70,Box + 2 Pan,0.2,0.5,0.5,,0.147,0.04,0.12
+65147,BY70-3,46839,2020-079N,,Payload,30,Box,0.2,0.3,0.2,,0.0938083151964686,0.04,0.08
+65148,CZ-6 operational debris (upper deck adapter),46834,2020-079H,,Rocket Mission Related Object,30,Cyl + 1 Disk,1.5,0.5,1.5,,1.9197,0.75,1.4726
+65149,PBV (Long March (CZ) 6),46841,2020-079Q,,Rocket Body,,Cyl,2.25,0.8,2.25,21/12/2020,9.83916652313633,3.97607820219958,9.05662257167683
+65150,Centaur-5 SEC debris,46842,2018-079CX,,Rocket Fragmentation Debris,,,,,,,,,
+65151,Centaur-5 SEC debris,46843,2018-079CY,,Rocket Fragmentation Debris,,,,,,,,,
+65152,Centaur-5 SEC debris,46844,2018-079CZ,,Rocket Fragmentation Debris,,,,,,,,,
+65153,Centaur-5 SEC debris,46845,2018-079DA,,Rocket Fragmentation Debris,,,,,,,,,
+65154,Centaur-5 SEC debris,46846,2018-079DB,,Rocket Fragmentation Debris,,,,,,,,,
+65155,Centaur-5 SEC debris,46847,2018-079DC,,Rocket Fragmentation Debris,,,,,,,,,
+65156,,,,139908,Unknown,,,,,,,,,
+65157,,,,100102,Unknown,,,,,,,,,
+65158,,,,142731,Unknown,,,,,,,,,
+65159,,,,74637,Unknown,,,,,,,,,
+65160,,,,82707,Unknown,,,,,,,,,
+65161,,,,67610,Unknown,,,,,,,,,
+65162,,,,82208,Unknown,,,,,,,,,
+65163,,,,77729,Unknown,,,,,,,,,
+65164,,,,84002,Unknown,,,,,,,,,
+65165,,,,86305,Unknown,,,,,,,,,
+65166,,,,74916,Unknown,,,,,,,,,
+65167,,,,81711,Unknown,,,,,,,,,
+65168,,,,161201,Unknown,,,,,,,,,
+65169,,,,79028,Unknown,,,,,,,,,
+65170,,,,80706,Unknown,,,,,,,,,
+65171,,,,79819,Unknown,,,,,,,,,
+65172,,,,79820,Unknown,,,,,,,,,
+65173,,,,143695,Unknown,,,,,,,,,
+65174,,,,141015,Unknown,,,,,,,,,
+65175,,,,45403,Unknown,,,,,,,,,
+65176,,,,103902,Unknown,,,,,,,,,
+65177,,,,77920,Unknown,,,,,,,,,
+65178,,,,79717,Unknown,,,,,,,,,
+65179,,,,131301,Unknown,,,,,,,,,
+65180,,,,136806,Unknown,,,,,,,,,
+65181,,,,142822,Unknown,,,,,,,,,
+65182,,,,10601,Unknown,,,,,,,,,
+65183,,,,205800,Unknown,,,,,,,,,
+65184,,,,146415,Unknown,,,,,,,,,
+65185,,,,80112,Unknown,,,,,,,,,
+65186,,,,75515,Unknown,,,,,,,,,
+65187,,,,76414,Unknown,,,,,,,,,
+65188,,,,76415,Unknown,,,,,,,,,
+65189,KSM1-C,46907,2020-081C,,Payload,10,Box,0.2,0.3,0.3,,0.0938083151964686,0.04,0.08
+65190,PSLV fourth stage (PS4) (PSLV-DL),46915,2020-081L,,Rocket Body,920,Cyl + Cyl + 2 Nozzle,2.83,3.238,3.238,,11.1147,6.2902,10.3421
+65191,Tianqi-11,46904,2020-080A,,Payload,40,Box,0.3,0.5,0.5,,0.230434372436058,0.09,0.195
+65192,RISAT-2BR2,46905,2020-081A,,Payload,628,Hex Cyl + 2 Pan + 1 Dish,1,2,5,,5.3031,0.6495,2.9101
+65193,M6P 2,46913,2020-081J,,Payload,6.8,Box,0.2,0.3,0.3,,0.0938083151964686,0.04,0.08
+65194,KSM1-D,46906,2020-081B,,Payload,10,Box,0.2,0.3,0.3,,0.0938083151964686,0.04,0.08
+65195,Lemur-2 Ozarak,46908,2020-081D,,Payload,4.6,Box + 2 Pan,0.1,0.3,0.3,,0.226,0.0246,0.124141176470588
+65196,Lemur-2 Jindra,46909,2020-081E,,Payload,4.6,Box + 2 Pan,0.1,0.3,0.3,,0.226,0.0246,0.124141176470588
+65197,Lemur-2 Wallace,46910,2020-081F,,Payload,4.6,Box + 2 Pan,0.1,0.3,0.3,,0.226,0.0246,0.124141176470588
+65198,Lemur-2 Jeremiah,46911,2020-081G,,Payload,4.6,Box + 2 Pan,0.1,0.3,0.3,,0.226,0.0246,0.124141176470588
+65199,Centaur-5 SEC debris,46872,2018-079ED,,Rocket Fragmentation Debris,,,,,,,,,
+65200,Centaur-5 SEC debris,46871,2018-079EC,,Rocket Fragmentation Debris,,,,,,,,,
+65201,Centaur-5 SEC debris,46862,2018-079DT,,Rocket Fragmentation Debris,,,,,,,,,
+65202,Centaur-5 SEC debris,46861,2018-079DS,,Rocket Fragmentation Debris,,,,,,,,,
+65203,KSM1-A,46912,2020-081H,,Payload,10,Box,0.2,0.3,0.3,,0.0938083151964686,0.04,0.08
+65204,H-18 (Long March (CZ) 3B),46917,2020-082B,,Rocket Body,2800,Cyl + 1 Nozzle,3,12.83,12.83,28/02/2021,39.1337,7.0686,33.7643
+65205,KSM1-B,46914,2020-081K,,Payload,10,Box,0.2,0.3,0.3,,0.0938083151964686,0.04,0.08
+65206,,,,80309,Unknown,,,,,,,,,
+65207,,,,89801,Unknown,,,,,,,,,
+65208,,,,78431,Unknown,,,,,,,,,
+65209,Tiantong-1 02,46916,2020-082A,,Payload,5200,Box + 2 Pan,2.5,5,30,,73.7507,6.25,34.0633
+65210,Centaur-5 SEC (Atlas V 531),46919,2020-083B,,Rocket Body,2020,Cyl + 1 Nozzle,,12.68,,,,,
+65211,USA 310,46918,2020-083A,,Payload,,Box + 1 Dish,,,,,,,
+65212,Fregat-SB (Zenit-3F),46736,2011-037ND,,Rocket Body,1050,Cyl,3.3,1.7,3.3,,10.2286689997234,5.61,8.68257669635879
+65213,Falcon 9 Merlin-V (1D+) (Falcon 9 v1.2),,2020-073IA,,Rocket Body,4300,Cyl,3.6,16,16,18/10/2020,58.4924538651002,10.1787601976309,50.3283143105085
+65215,Dragon C206 (Resilience),46920,2020-084A,,Payload,13000,Cyl + 1 Frust,4,4.9,4.9,,23.2825,12.5664,21.677
+65216,SPOC,46921,1998-067RR,,Payload,4,Box,0.1,0.3,0.3,,0.0435889894354067,0.01,0.035
+65217,Bobcat 1,46922,1998-067RS,,Payload,4,Box,0.1,0.3,0.3,,0.0435889894354067,0.01,0.035
+65218,NEUTRON-1,46923,1998-067RT,,Payload,4,Box,0.1,0.3,0.3,,0.0435889894354067,0.01,0.035
+65219,SATTLA-1,46924,1998-067RU,,Payload,1,Box,0.1,0.1,0.1,,0.0173205080756888,0.01,0.015
+65220,Lemur-2 Baxter-Oliver,46925,1998-067RV,,Payload,4.6,Box + 2 Pan,0.1,0.3,0.3,,0.226,0.0246,0.124141176470588
+65221,Lemur-2 Djara,46926,1998-067RW,,Payload,4.6,Box + 2 Pan,0.1,0.3,0.3,,0.226,0.0246,0.124141176470588
+65222,DESCENT Mother,46927,1998-067RX,,Payload,2,Box,0.1,0.1,0.1,,0.0173205080756888,0.01,0.015
+65223,Aerocube 10 probe,46928,2019-022N,,Payload,0.016,Sphere,0.098,0.098,0.098,13/02/2021,0.00754296396126909,0.00754296396126909,0.00754296396126909
+65224,Iridium 33 debris,46976,1997-051ACJ,,Payload Fragmentation Debris,,,,,,,,,
+65225,Iridium 33 debris,46977,1997-051ACK,,Payload Fragmentation Debris,,,,,,,,,
+65226,Iridium 33 debris,46978,1997-051ACL,,Payload Fragmentation Debris,,,,,,,,,
+65227,Iridium 33 debris,46979,1997-051ACM,,Payload Fragmentation Debris,,,,,,,,,
+65228,Iridium 33 debris,46980,1997-051ACN,,Payload Fragmentation Debris,,,,,,,,,
+65229,Iridium 33 debris,46981,1997-051ACP,,Payload Fragmentation Debris,,,,,,,,,
+65230,Iridium 33 debris,46982,1997-051ACQ,,Payload Fragmentation Debris,,,,,,,,,
+65231,Iridium 33 debris,46983,1997-051ACR,,Payload Fragmentation Debris,,,,,,,,,
+65232,Iridium 33 debris,46734,1997-051ABR,,Payload Fragmentation Debris,,,,,,,,,
+65233,Electron kick stage (Electron (Curie)),46929,2020-085A,,Rocket Body,100,Trunc Cone,1,,,,,,
+65234,Electron second stage (Electron (Curie)),46930,2020-085B,,Rocket Body,250,Cyl,1.2,2.4,1.2,30/11/2020,3.09410742062734,1.13097335529233,2.82743338823081
+65235,APSS 1,46932,2020-085D,,Payload,1,Box,0.1,0.1,0.1,,0.0173205080756888,0.01,0.015
+65236,Iridium 33 debris,46804,1997-051ABS,,Payload Fragmentation Debris,,,,,,,,,
+65237,BRO-3,46943,2020-085Q,,Payload,10,Box,0.2,0.3,0.3,,0.0938083151964686,0.04,0.08
+65238,SpaceBEE 35,46934,2020-085F,,Payload,0.284,Box + 2 Ant,0.1,0.025,0.9,,0.0281,0.0095,0.0155735294117646
+65239,SpaceBEE 23,46960,2020-085AH,,Payload,0.284,Box + 2 Ant,0.1,0.025,0.9,,0.0281,0.0095,0.0155735294117646
+65240,SpaceBEE 37,46936,2020-085H,,Payload,0.284,Box + 2 Ant,0.1,0.025,0.9,,0.0281,0.0095,0.0155735294117646
+65241,SpaceBEE 38,46937,2020-085J,,Payload,0.284,Box + 2 Ant,0.1,0.025,0.9,,0.0281,0.0095,0.0155735294117646
+65242,SpaceBEE NZ-3,46938,2020-085K,,Payload,0.284,Box + 2 Ant,0.1,0.025,0.9,,0.0281,0.0095,0.0155735294117646
+65243,SpaceBEE NZ-4,46939,2020-085L,,Payload,0.284,Box + 2 Ant,0.1,0.025,0.9,,0.0281,0.0095,0.0155735294117646
+65244,SpaceBEE 36,46935,2020-085G,,Payload,0.284,Box + 2 Ant,0.1,0.025,0.9,,0.0281,0.0095,0.0155735294117646
+65245,SpaceBEE NZ-5,46941,2020-085N,,Payload,0.284,Box + 2 Ant,0.1,0.025,0.9,,0.0281,0.0095,0.0155735294117646
+65246,BRO-2,46940,2020-085M,,Payload,10,Box,0.2,0.3,0.3,,0.0938083151964686,0.04,0.08
+65247,SpaceBEE NZ-6,46942,2020-085P,,Payload,0.284,Box + 2 Ant,0.1,0.025,0.9,,0.0281,0.0095,0.0155735294117646
+65248,SpaceBEE 3,46933,2020-085E,,Payload,0.284,Box + 2 Ant,0.1,0.025,0.9,,0.0281,0.0095,0.0155735294117646
+65249,SpaceBEE 33,46944,2020-085R,,Payload,0.284,Box + 2 Ant,0.1,0.025,0.9,,0.0281,0.0095,0.0155735294117646
+65250,SpaceBEE 32,46945,2020-085S,,Payload,0.284,Box + 2 Ant,0.1,0.025,0.9,,0.0281,0.0095,0.0155735294117646
+65251,SpaceBEE 30,46946,2020-085T,,Payload,0.284,Box + 2 Ant,0.1,0.025,0.9,,0.0281,0.0095,0.0155735294117646
+65252,SpaceBEE 28,46948,2020-085V,,Payload,0.284,Box + 2 Ant,0.1,0.025,0.9,,0.0281,0.0095,0.0155735294117646
+65253,SpaceBEE 29,46949,2020-085W,,Payload,0.284,Box + 2 Ant,0.1,0.025,0.9,,0.0281,0.0095,0.0155735294117646
+65254,SpaceBEE 27,46950,2020-085X,,Payload,0.284,Box + 2 Ant,0.1,0.025,0.9,,0.0281,0.0095,0.0155735294117646
+65255,SpaceBEE 25,46951,2020-085Y,,Payload,0.284,Box + 2 Ant,0.1,0.025,0.9,,0.0281,0.0095,0.0155735294117646
+65256,SpaceBEE 24,46952,2020-085Z,,Payload,0.284,Box + 2 Ant,0.1,0.025,0.9,,0.0281,0.0095,0.0155735294117646
+65257,SpaceBEE 22,46953,2020-085AA,,Payload,0.284,Box + 2 Ant,0.1,0.025,0.9,,0.0281,0.0095,0.0155735294117646
+65258,Dragracer A,46954,2020-085AB,,Payload,12,Box + 1 Tether,0.2,0.3,70,,0.0938,0.04,0.08
+65259,SpaceBEE 31,46947,2020-085U,,Payload,0.284,Box + 2 Ant,0.1,0.025,0.9,,0.0281,0.0095,0.0155735294117646
+65260,Dragracer B,46955,2020-085AC,,Payload,12,Box,0.2,0.3,0.3,,0.0938083151964686,0.04,0.08
+65261,Iridium 33 debris,46961,1997-051ABT,,Payload Fragmentation Debris,,,,,,,,,
+65262,Iridium 33 debris,46962,1997-051ABU,,Payload Fragmentation Debris,,,,,,,,,
+65263,Iridium 33 debris,46963,1997-051ABV,,Payload Fragmentation Debris,,,,,,,,,
+65264,Iridium 33 debris,46964,1997-051ABW,,Payload Fragmentation Debris,,,,,,,,,
+65265,Iridium 33 debris,46965,1997-051ABX,,Payload Fragmentation Debris,,,,,,,,,
+65266,Iridium 33 debris,46966,1997-051ABY,,Payload Fragmentation Debris,,,,,,,,,
+65267,Iridium 33 debris,46967,1997-051ABZ,,Payload Fragmentation Debris,,,,,,,,,
+65268,Iridium 33 debris,46968,1997-051ACA,,Payload Fragmentation Debris,,,,,,,,,
+65269,Iridium 33 debris,46969,1997-051ACB,,Payload Fragmentation Debris,,,,,,,,,
+65270,Iridium 33 debris,46970,1997-051ACC,,Payload Fragmentation Debris,,,,,,,,,
+65271,Iridium 33 debris,46971,1997-051ACD,,Payload Fragmentation Debris,,,,,,,,,
+65272,Iridium 33 debris,46972,1997-051ACE,,Payload Fragmentation Debris,,,,,,,,,
+65273,Iridium 33 debris,46973,1997-051ACF,,Payload Fragmentation Debris,,,,,,,,,
+65274,Iridium 33 debris,46974,1997-051ACG,,Payload Fragmentation Debris,,,,,,,,,
+65275,Iridium 33 debris,46975,1997-051ACH,,Payload Fragmentation Debris,,,,,,,,,
+65276,,,,125005,Unknown,,,,,,,,,
+65277,,,,71726,Unknown,,,,,,,,,
+65278,,,,145428,Unknown,,,,,,,,,
+65279,,,,33918,Unknown,,,,,,,,,
+65280,Sentinel 6 Michael Freilich,46984,2020-086A,,Payload,1349.6,Hex Cyl,4.37,2.35,5.15,,16.1033,8.8936,13.904
+65281,Falcon 9 Merlin-V (1D+) (Falcon 9 v1.2),46985,2020-086B,,Rocket Body,4300,Cyl,3.6,16,16,22/11/2020,58.4924538651002,10.1787601976309,50.3283143105085
+65282,Fengyun 1C debris,46986,1999-025EZL,,Payload Fragmentation Debris,,,,,,,,,
+65283,Fengyun 1C debris,46987,1999-025EZM,,Payload Fragmentation Debris,,,,,,,,,
+65284,Fengyun 1C debris,46988,1999-025EZN,,Payload Fragmentation Debris,,,,,,,,,
+65285,Fengyun 1C debris,46989,1999-025EZP,,Payload Fragmentation Debris,,,,,,,,,
+65286,Fengyun 1C debris,46990,1999-025EZQ,,Payload Fragmentation Debris,,,,,,,,,
+65287,Fengyun 1C debris,46991,1999-025EZR,,Payload Fragmentation Debris,,,,,,,,,
+65288,Fengyun 1C debris,46992,1999-025EZS,,Payload Fragmentation Debris,,,,,,,,,
+65289,Fengyun 1C debris,46993,1999-025EZT,,Payload Fragmentation Debris,,,,,,,,,
+65290,Fengyun 1C debris,46994,1999-025EZU,,Payload Fragmentation Debris,,,,,,,,,
+65291,Fengyun 1C debris,46995,1999-025EZV,,Payload Fragmentation Debris,,,,,,,,,
+65292,Fengyun 1C debris,46996,1999-025EZW,,Payload Fragmentation Debris,,,,,,,,,
+65293,Fengyun 1C debris,46997,1999-025EZX,,Payload Fragmentation Debris,,,,,,,,,
+65294,Fengyun 1C debris,46998,1999-025EZY,,Payload Fragmentation Debris,,,,,,,,,
+65295,Fengyun 1C debris,46999,1999-025EZZ,,Payload Fragmentation Debris,,,,,,,,,
+65296,Fengyun 1C debris,47000,1999-025FAA,,Payload Fragmentation Debris,,,,,,,,,
+65297,Fengyun 1C debris,47001,1999-025FAB,,Payload Fragmentation Debris,,,,,,,,,
+65298,Fengyun 1C debris,47002,1999-025FAC,,Payload Fragmentation Debris,,,,,,,,,
+65299,Fengyun 1C debris,47003,1999-025FAD,,Payload Fragmentation Debris,,,,,,,,,
+65300,Fengyun 1C debris,47004,1999-025FAE,,Payload Fragmentation Debris,,,,,,,,,
+65301,Fengyun 1C debris,47005,1999-025FAF,,Payload Fragmentation Debris,,,,,,,,,
+65302,Fengyun 1C debris,47006,1999-025FAG,,Payload Fragmentation Debris,,,,,,,,,
+65303,Fengyun 1C debris,47007,1999-025FAH,,Payload Fragmentation Debris,,,,,,,,,
+65304,Fengyun 1C debris,47008,1999-025FAJ,,Payload Fragmentation Debris,,,,,,,,,
+65305,Fengyun 1C debris,47009,1999-025FAK,,Payload Fragmentation Debris,,,,,,,,,
+65306,Fengyun 1C debris,47010,1999-025FAL,,Payload Fragmentation Debris,,,,,,,,,
+65307,Fengyun 1C debris,47011,1999-025FAM,,Payload Fragmentation Debris,,,,,,,,,
+65308,Fengyun 1C debris,47012,1999-025FAN,,Payload Fragmentation Debris,,,,,,,,,
+65309,Fengyun 1C debris,47013,1999-025FAP,,Payload Fragmentation Debris,,,,,,,,,
+65310,Fengyun 1C debris,47014,1999-025FAQ,,Payload Fragmentation Debris,,,,,,,,,
+65311,Fengyun 1C debris,47015,1999-025FAR,,Payload Fragmentation Debris,,,,,,,,,
+65312,Fengyun 1C debris,47016,1999-025FAS,,Payload Fragmentation Debris,,,,,,,,,
+65313,Fengyun 1C debris,47017,1999-025FAT,,Payload Fragmentation Debris,,,,,,,,,
+65314,Fengyun 1C debris,47018,1999-025FAU,,Payload Fragmentation Debris,,,,,,,,,
+65315,Fengyun 1C debris,47019,1999-025FAV,,Payload Fragmentation Debris,,,,,,,,,
+65316,Fengyun 1C debris,47020,1999-025FAW,,Payload Fragmentation Debris,,,,,,,,,
+65317,Fengyun 1C debris,47021,1999-025FAX,,Payload Fragmentation Debris,,,,,,,,,
+65318,Fengyun 1C debris,47022,1999-025FAY,,Payload Fragmentation Debris,,,,,,,,,
+65319,Fengyun 1C debris,47023,1999-025FAZ,,Payload Fragmentation Debris,,,,,,,,,
+65320,Fengyun 1C debris,47024,1999-025FBA,,Payload Fragmentation Debris,,,,,,,,,
+65321,Fengyun 1C debris,47025,1999-025FBB,,Payload Fragmentation Debris,,,,,,,,,
+65322,Fengyun 1C debris,47026,1999-025FBC,,Payload Fragmentation Debris,,,,,,,,,
+65323,Fengyun 1C debris,47027,1999-025FBD,,Payload Fragmentation Debris,,,,,,,,,
+65324,Fengyun 1C debris,47028,1999-025FBE,,Payload Fragmentation Debris,,,,,,,,,
+65325,Fengyun 1C debris,47029,1999-025FBF,,Payload Fragmentation Debris,,,,,,,,,
+65326,Fengyun 1C debris,47030,1999-025FBG,,Payload Fragmentation Debris,,,,,,,,,
+65327,Fengyun 1C debris,47031,1999-025FBH,,Payload Fragmentation Debris,,,,,,,,,
+65328,Fengyun 1C debris,47032,1999-025FBJ,,Payload Fragmentation Debris,,,,,,,,,
+65329,Fengyun 1C debris,47033,1999-025FBK,,Payload Fragmentation Debris,,,,,,,,,
+65330,Fengyun 1C debris,47034,1999-025FBL,,Payload Fragmentation Debris,,,,,,,,,
+65331,Fengyun 1C debris,47035,1999-025FBM,,Payload Fragmentation Debris,,,,,,,,,
+65332,Fengyun 1C debris,47036,1999-025FBN,,Payload Fragmentation Debris,,,,,,,,,
+65333,Fengyun 1C debris,47037,1999-025FBP,,Payload Fragmentation Debris,,,,,,,,,
+65334,Fengyun 1C debris,47038,1999-025FBQ,,Payload Fragmentation Debris,,,,,,,,,
+65335,Fengyun 1C debris,47039,1999-025FBR,,Payload Fragmentation Debris,,,,,,,,,
+65336,Fengyun 1C debris,47040,1999-025FBS,,Payload Fragmentation Debris,,,,,,,,,
+65337,Fengyun 1C debris,47041,1999-025FBT,,Payload Fragmentation Debris,,,,,,,,,
+65338,Fengyun 1C debris,47042,1999-025FBU,,Payload Fragmentation Debris,,,,,,,,,
+65339,Fengyun 1C debris,47043,1999-025FBV,,Payload Fragmentation Debris,,,,,,,,,
+65340,Fengyun 1C debris,47044,1999-025FBW,,Payload Fragmentation Debris,,,,,,,,,
+65341,Cosmos-2251 debris,47045,1993-036BWX,,Payload Fragmentation Debris,,,,,,,,,
+65342,Cosmos-2251 debris,47046,1993-036BWY,,Payload Fragmentation Debris,,,,,,,,,
+65343,Cosmos-2251 debris,47047,1993-036BWZ,,Payload Fragmentation Debris,,,,,,,,,
+65344,Cosmos-2251 debris,47048,1993-036BXA,,Payload Fragmentation Debris,,,,,,,,,
+65345,Cosmos-2251 debris,47049,1993-036BXB,,Payload Fragmentation Debris,,,,,,,,,
+65346,Cosmos-2251 debris,47050,1993-036BXC,,Payload Fragmentation Debris,,,,,,,,,
+65347,Cosmos-2251 debris,47051,1993-036BXD,,Payload Fragmentation Debris,,,,,,,,,
+65348,Cosmos-2251 debris,47052,1993-036BXE,,Payload Fragmentation Debris,,,,,,,,,
+65349,Cosmos-2251 debris,47053,1993-036BXF,,Payload Fragmentation Debris,,,,,,,,,
+65350,Cosmos-2251 debris,47054,1993-036BXG,,Payload Fragmentation Debris,,,,,,,,,
+65351,Cosmos-2251 debris,47055,1993-036BXH,,Payload Fragmentation Debris,,,,,,,,,
+65352,Cosmos-2251 debris,47056,1993-036BXJ,,Payload Fragmentation Debris,,,,,,,,,
+65353,Cosmos-2251 debris,47057,1993-036BXK,,Payload Fragmentation Debris,,,,,,,,,
+65354,Cosmos-2251 debris,47058,1993-036BXL,,Payload Fragmentation Debris,,,,,,,,,
+65355,Cosmos-2251 debris,47059,1993-036BXM,,Payload Fragmentation Debris,,,,,,,,,
+65356,Cosmos-2251 debris,47060,1993-036BXN,,Payload Fragmentation Debris,,,,,,,,,
+65357,Cosmos-2251 debris,47061,1993-036BXP,,Payload Fragmentation Debris,,,,,,,,,
+65358,Cosmos-2251 debris,47062,1993-036BXQ,,Payload Fragmentation Debris,,,,,,,,,
+65359,Cosmos-2251 debris,47063,1993-036BXR,,Payload Fragmentation Debris,,,,,,,,,
+65360,Cosmos-2251 debris,47064,1993-036BXS,,Payload Fragmentation Debris,,,,,,,,,
+65361,Cosmos-2251 debris,47065,1993-036BXT,,Payload Fragmentation Debris,,,,,,,,,
+65362,Cosmos-2251 debris,47066,1993-036BXU,,Payload Fragmentation Debris,,,,,,,,,
+65363,Cosmos-2251 debris,47067,1993-036BXV,,Payload Fragmentation Debris,,,,,,,,,
+65364,Cosmos-2251 debris,47068,1993-036BXW,,Payload Fragmentation Debris,,,,,,,,,
+65365,Cosmos-2251 debris,47069,1993-036BXX,,Payload Fragmentation Debris,,,,,,,,,
+65366,Cosmos-2251 debris,47070,1993-036BXY,,Payload Fragmentation Debris,,,,,,,,,
+65367,Cosmos-2251 debris,47071,1993-036BXZ,,Payload Fragmentation Debris,,,,,,,,,
+65368,Cosmos-2251 debris,47073,1993-036BYB,,Payload Fragmentation Debris,,,,,,,,,
+65369,Cosmos-2251 debris,47074,1993-036BYC,,Payload Fragmentation Debris,,,,,,,,,
+65370,Cosmos-2251 debris,47075,1993-036BYD,,Payload Fragmentation Debris,,,,,,,,,
+65371,Cosmos-2251 debris,47076,1993-036BYE,,Payload Fragmentation Debris,,,,,,,,,
+65372,Cosmos-2251 debris,47077,1993-036BYF,,Payload Fragmentation Debris,,,,,,,,,
+65373,Tsyklon-3-3 debris,47078,1991-056DC,,Rocket Fragmentation Debris,,,,,,,,,
+65374,Tsyklon-3-3 debris,47079,1991-056DD,,Rocket Fragmentation Debris,,,,,,,,,
+65375,Tsyklon-3-3 debris,47080,1991-056DE,,Rocket Fragmentation Debris,,,,,,,,,
+65376,Tsyklon-3-3 debris,47081,1991-056DF,,Rocket Fragmentation Debris,,,,,,,,,
+65377,Tsyklon-3-3 debris,47082,1991-056DG,,Rocket Fragmentation Debris,,,,,,,,,
+65378,Tsyklon-3-3 debris,47083,1991-056DH,,Rocket Fragmentation Debris,,,,,,,,,
+65379,Tsyklon-3-3 debris,47084,1991-056DJ,,Rocket Fragmentation Debris,,,,,,,,,
+65380,Tsyklon-3-3 debris,47085,1991-056DK,,Rocket Fragmentation Debris,,,,,,,,,
+65381,Tsyklon-3-3 debris,47086,1991-056DL,,Rocket Fragmentation Debris,,,,,,,,,
+65382,Tsyklon-3-3 debris,47087,1991-056DM,,Rocket Fragmentation Debris,,,,,,,,,
+65383,Tsyklon-3-3 debris,47088,1991-056DN,,Rocket Fragmentation Debris,,,,,,,,,
+65384,Tsyklon-3-3 debris,47089,1991-056DP,,Rocket Fragmentation Debris,,,,,,,,,
+65385,Tsyklon-3-3 debris,47090,1991-056DQ,,Rocket Fragmentation Debris,,,,,,,,,
+65386,Tsyklon-3-3 debris,47091,1991-056DR,,Rocket Fragmentation Debris,,,,,,,,,
+65387,Tsyklon-3-3 debris,47092,1991-056DS,,Rocket Fragmentation Debris,,,,,,,,,
+65388,,47094,2011-037NF,,Rocket Fragmentation Debris,,,,,,,,,
+65389,,47095,2011-037NG,,Rocket Fragmentation Debris,,,,,,,,,
+65390,Centaur AV-049 debris,47096,2014-055DF,,Rocket Fragmentation Debris,,,,,,,,,
+65391,Chang'e-5 Guidao,47097,2020-087A,,Payload,8250,Cyl + 2 Pan,4,2,10,,34.097,8,19.0077
+65392,Fengyun 1C debris,47104,1999-025FCC,,Payload Fragmentation Debris,,,,,,,,,
+65393,Fengyun 1C debris,47105,1999-025FCD,,Payload Fragmentation Debris,,,,,,07/12/2020,,,
+65394,Fengyun 1C debris,47106,1999-025FCE,,Payload Fragmentation Debris,,,,,,,,,
+65395,H10 debris,47107,1992-052N,,Rocket Fragmentation Debris,,,,,,,,,
+65396,H10 debr,47108,1992-052P,,Rocket Fragmentation Debris,,,,,,,,,
+65397,Briz-M (88515) fragmentation debris,47109,2006-006DH,,Rocket Fragmentation Debris,,,,,,,,,
+65398,Cosmos-2491 debris,47110,2013-076AF,,Payload Fragmentation Debris,,,,,,,,,
+65399,Cosmos-2491 debris,47111,2013-076AG,,Payload Fragmentation Debris,,,,,,,,,
+65400,Fregat SBB debris,47113,2011-037NJ,,Rocket Fragmentation Debris,,,,,,,,,
+65401,Delta 300 fragmentation,47114,1973-086JF,,Rocket Fragmentation Debris,,,,,,,,,
+65402,Cosmos-1484 debris,47115,1983-075BJ,,Rocket Debris,,,,,,,,,
+65403,Cosmos-2251 debris,47116,1993-036BYG,,Payload Fragmentation Debris,,,,,,,,,
+65404,Cosmos-2251 debris,47117,1993-036BYH,,Payload Fragmentation Debris,,,,,,,,,
+65405,Cosmos-2251 debris,47118,1993-036BYJ,,Payload Fragmentation Debris,,,,,,,,,
+65406,Cosmos-2251 debris,47119,1993-036BYK,,Payload Fragmentation Debris,,,,,,,,,
+65407,Centaur-5 SEC debris,47120,2014-055DG,,Rocket Fragmentation Debris,,,,,,,,,
+65408,Proton-M/DM-2 ullage motor (SOZ) debris,47121,2008-067Z,,Rocket Fragmentation Debris,,,,,,,,,
+65409,Cosmos-2251 debris,47072,1993-036BYA,,Payload Fragmentation Debris,,,,,,,,,
+65410,SpaceBEE 26,46956,2020-085AD,,Payload,0.284,Box + 2 Ant,0.1,0.025,0.9,,0.0281,0.0095,0.0155735294117646
+65411,SpaceBEE NZ-2,46957,2020-085AE,,Payload,0.284,Box + 2 Ant,0.1,0.025,0.9,,0.0281,0.0095,0.0155735294117646
+65412,Fengyun 1C debris,47099,1999-025FBX,,Payload Fragmentation Debris,,,,,,,,,
+65413,Fengyun 1C debris,47100,1999-025FBY,,Payload Fragmentation Debris,,,,,,,,,
+65414,Fengyun 1C debris,47101,1999-025FBZ,,Payload Fragmentation Debris,,,,,,,,,
+65415,Fengyun 1C debris,47102,1999-025FCA,,Payload Fragmentation Debris,,,,,,,,,
+65416,Fengyun 1C debris,47103,1999-025FCB,,Payload Fragmentation Debris,,,,,,,,,
+65417,Nimbus 2 debris,47186,1966-040BW,,Payload Fragmentation Debris,,,,,,,,,
+65418,H-IIA 202 lower payload fairing half debris,47187,2018-084CU,,Rocket Fragmentation Debris,,,,,,,,,
+65419,H-IIA 202 lower payload fairing half debris,47188,2018-084CV,,Rocket Fragmentation Debris,,,,,,12/12/2020,,,
+65420,H-IIA 202 lower payload fairing half debris,47189,2018-084CW,,Rocket Fragmentation Debris,,,,,,,,,
+65421,H-IIA 202 lower payload fairing half debris,47190,2018-084CX,,Rocket Fragmentation Debris,,,,,,26/02/2021,,,
+65422,H-IIA 202 lower payload fairing half debris,47191,2018-084CY,,Rocket Fragmentation Debris,,,,,,22/02/2021,,,
+65423,H-IIA 202 lower payload fairing half debris,47192,2018-084CZ,,Rocket Fragmentation Debris,,,,,,11/02/2021,,,
+65424,H-IIA 202 lower payload fairing half debris,47193,2018-084DA,,Rocket Fragmentation Debris,,,,,,,,,
+65425,H-IIA 202 lower payload fairing half debris,47194,2018-084DB,,Rocket Fragmentation Debris,,,,,,26/01/2021,,,
+65426,H-IIA 202 lower payload fairing half debris,47195,2018-084DC,,Rocket Fragmentation Debris,,,,,,07/02/2021,,,
+65427,H-IIA 202 lower payload fairing half debris,47196,2018-084DD,,Rocket Fragmentation Debris,,,,,,01/12/2020,,,
+65428,H-IIA 202 lower payload fairing half debris,47197,2018-084DE,,Rocket Fragmentation Debris,,,,,,,,,
+65429,Resurs-O1 N3 debris,47198,1994-074CL,,Payload Fragmentation Debris,,,,,,,,,
+65430,Resurs-O1 N3 debris,47200,1994-074CN,,Payload Fragmentation Debris,,,,,,,,,
+65431,Resurs-O1 N3 debris,47201,1994-074CP,,Payload Fragmentation Debris,,,,,,,,,
+65432,Resurs-O1 N3 debris,47199,1994-074CM,,Payload Fragmentation Debris,,,,,,,,,
+65433,Fregat SBB debris,47112,2011-037NH,,Rocket Fragmentation Debris,,,,,,,,,
+65434,SpaceBEE 39,46958,2020-085AF,,Payload,0.284,Box + 2 Ant,0.1,0.025,0.9,,0.0281,0.0095,0.0155735294117646
+65435,SpaceBEE NZ-1,46959,2020-085AG,,Payload,0.284,Box + 2 Ant,0.1,0.025,0.9,,0.0281,0.0095,0.0155735294117646
+65436,,,,9601,Unknown,,,,,,,,,
+65437,,,,90502,Unknown,,,,,,,,,
+65438,,,,63111,Unknown,,,,,,,,,
+65439,,,,46603,Unknown,,,,,,,,,
+65440,,,,80012,Unknown,,,,,,,,,
+65441,,,,74638,Unknown,,,,,,,,,
+65442,,,,147214,Unknown,,,,,,,,,
+65443,,,,13205,Unknown,,,,,,,,,
+65444,,,,68506,Unknown,,,,,,,,,
+65445,,,,138907,Unknown,,,,,,,,,
+65446,,,,134306,Unknown,,,,,,,,,
+65447,,,,60707,Unknown,,,,,,,,,
+65448,,,,71727,Unknown,,,,,,,,,
+65449,,,,125103,Unknown,,,,,,,,,
+65450,,,,143031,Unknown,,,,,,,,,
+65451,,,,126905,Unknown,,,,,,,,,
+65452,,,,56002,Unknown,,,,,,,,,
+65453,,,,64208,Unknown,,,,,,,,,
+65454,,,,87505,Unknown,,,,,,,,,
+65455,,,,37202,Unknown,,,,,,,,,
+65456,,,,105300,Unknown,,,,,,,,,
+65457,,,,130004,Unknown,,,,,,,,,
+65458,,,,38102,Unknown,,,,,,,,,
+65459,,,,77014,Unknown,,,,,,,,,
+65460,,,,111702,Unknown,,,,,,,,,
+65461,,,,143593,Unknown,,,,,,,,,
+65462,,,,143594,Unknown,,,,,,,,,
+65463,,,,64108,Unknown,,,,,,,,,
+65464,,,,29301,Unknown,,,,,,,,,
+65465,,,,79222,Unknown,,,,,,,,,
+65466,,,,65405,Unknown,,,,,,,,,
+65467,H-II LE-5B (H-IIA 202),47203,2020-089B,,Rocket Body,4000,Cyl,4,9.2,9.2,,38.8864201285928,12.5663706143592,35.1858377202057
+65468,Deta chukei eisei 1 (DRS-1),47202,2020-089A,,Payload,3800,Box + 2 Pan,2.4,2.2,17,,37.4629,5.28,17.5655
+65469,Resurs-O1 N3 debris,47223,1994-074DJ,,Payload Fragmentation Debris,,,,,,,,,
+65470,Resurs-O1 N3 debris,47204,1994-074CQ,,Payload Fragmentation Debris,,,,,,,,,
+65471,Resurs-O1 N3 debris,47205,1994-074CR,,Payload Fragmentation Debris,,,,,,,,,
+65472,Resurs-O1 N3 debris,47206,1994-074CS,,Payload Fragmentation Debris,,,,,,,,,
+65473,Resurs-O1 N3 debris,47207,1994-074CT,,Payload Fragmentation Debris,,,,,,,,,
+65474,Resurs-O1 N3 deb,47208,1994-074CU,,Payload Fragmentation Debris,,,,,,,,,
+65475,Resurs-O1 N3 debris,47209,1994-074CV,,Payload Fragmentation Debris,,,,,,,,,
+65476,Resurs-O1 N3 debris,47210,1994-074CW,,Payload Fragmentation Debris,,,,,,,,,
+65477,Resurs-O1 N3 debris,47211,1994-074CX,,Payload Fragmentation Debris,,,,,,,,,
+65478,Cosmos-2506 operational debris,47212,2015-029C,,Payload Mission Related Object,,,,,,,,,
+65479,Resurs-O1 N3 debris,47213,1994-074CY,,Payload Fragmentation Debris,,,,,,,,,
+65480,Resurs-O1 N3 debris,47214,1994-074CZ,,Payload Fragmentation Debris,,,,,,,,,
+65481,Resurs-O1 N3 debris,47215,1994-074DA,,Payload Fragmentation Debris,,,,,,,,,
+65482,CORVUS BC5,46931,2020-085C,,Payload,10,Box + 2 Pan,0.2,0.3,0.4,,0.126,0.04,0.0924
+65483,Resurs-O1 N3 debris,47217,1994-074DC,,Payload Fragmentation Debris,,,,,,,,,
+65484,Resurs-O1 N3 debris,47216,1994-074DB,,Payload Fragmentation Debris,,,,,,,,,
+65485,Resurs-O1 N3 debris,47219,1994-074DE,,Payload Fragmentation Debris,,,,,,,,,
+65486,Resurs-O1 N3 debris,47220,1994-074DF,,Payload Fragmentation Debris,,,,,,,,,
+65487,Resurs-O1 N3debris,47218,1994-074DD,,Payload Fragmentation Debris,,,,,,,,,
+65488,Resurs-O1 N3 debris,47221,1994-074DG,,Payload Fragmentation Debris,,,,,,,,,
+65489,Resurs-O1 N3 debris,47224,1994-074DK,,Payload Fragmentation Debris,,,,,,,,,
+65490,Resurs-O1 N3 debris,47225,1994-074DL,,Payload Fragmentation Debris,,,,,,,,,
+65491,Resurs-O1 N3 debris,47222,1994-074DH,,Payload Fragmentation Debris,,,,,,,,,
+65492,Starlink 1777,47122,2020-088A,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65493,Starlink 1779,47123,2020-088B,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65494,Starlink 1785,47124,2020-088C,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65495,Starlink 1787,47125,2020-088D,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65496,Starlink 1812,47126,2020-088E,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65497,Starlink 1836,47127,2020-088F,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65498,Starlink 1837,47128,2020-088G,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65499,Starlink 1838,47129,2020-088H,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65500,Starlink 1839,47130,2020-088J,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65501,Starlink 1840,47131,2020-088K,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65502,Starlink 1842,47132,2020-088L,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65503,Starlink 1843,47133,2020-088M,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65504,Starlink 1844,47134,2020-088N,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65505,Starlink 1845,47135,2020-088P,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65506,Starlink 1846,47136,2020-088Q,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65507,Starlink 1849,47137,2020-088R,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65508,Starlink 1850,47138,2020-088S,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65509,Starlink 1852,47139,2020-088T,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65510,Starlink 1853,47140,2020-088U,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65511,Starlink 1855,47142,2020-088W,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65512,Starlink 1856,47143,2020-088X,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65513,Starlink 1857,47144,2020-088Y,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65514,Starlink 1858,47145,2020-088Z,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65515,Starlink 1859,47146,2020-088AA,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65516,Starlink 1860,47147,2020-088AB,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65517,Starlink 1861,47148,2020-088AC,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65518,Starlink 1862,47149,2020-088AD,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65519,Starlink 1863,47150,2020-088AE,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65520,Starlink 1864,47151,2020-088AF,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65521,Starlink 1866,47152,2020-088AG,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65522,Starlink 1867,47153,2020-088AH,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65523,Starlink 1868,47154,2020-088AJ,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65524,Starlink 1869,47155,2020-088AK,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65525,Starlink 1870,47156,2020-088AL,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65526,Starlink 1871,47157,2020-088AM,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65527,Starlink 1873,47158,2020-088AN,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65528,Starlink 1874,47159,2020-088AP,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65529,Starlink 1875,47160,2020-088AQ,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65530,Starlink 1876,47161,2020-088AR,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65531,Starlink 1877,47162,2020-088AS,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65532,Starlink 1879,47164,2020-088AU,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65533,Starlink 1880,47165,2020-088AV,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65534,Starlink 1881,47166,2020-088AW,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65535,Starlink 1884,47167,2020-088AX,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65536,Starlink 1885,47168,2020-088AY,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65537,Starlink 1886,47169,2020-088AZ,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65538,Starlink 1887,47170,2020-088BA,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65539,Starlink 1888,47171,2020-088BB,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65540,Starlink 1889,47172,2020-088BC,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65541,Starlink 1890,47173,2020-088BD,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65542,Starlink 1891,47174,2020-088BE,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65543,Starlink 1895,47175,2020-088BF,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65544,Starlink 1900,47176,2020-088BG,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65545,Starlink 1907,47177,2020-088BH,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65546,Starlink 1912,47178,2020-088BJ,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65547,Starlink 1913,47179,2020-088BK,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65548,Starlink 1914,47180,2020-088BL,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65549,Starlink 1927,47181,2020-088BM,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65550,Starlink operational debris (deployment rail),47182,2020-088BN,,Rocket Mission Related Object,5,Cyl,0.02,7,7,19/12/2020,0.14,0.0003,0.1101
+65551,Starlink operational debris (deployment rail),47183,2020-088BP,,Rocket Mission Related Object,5,Cyl,0.02,7,7,19/12/2020,0.14,0.0003,0.1101
+65552,Starlink operational debris (deployment rail),47184,2020-088BQ,,Rocket Mission Related Object,5,Cyl,0.02,7,7,19/12/2020,0.14,0.0003,0.1101
+65553,Starlink operational debris (deployment rail),47185,2020-088BR,,Rocket Mission Related Object,5,Cyl,0.02,7,7,19/12/2020,0.14,0.0003,0.1101
+65554,FalconEye 2,47226,2020-090A,,Payload,1197,Hex Cyl + 3 Pan,2,4,8,,22.8117,2.5981,12.145
+65555,Starlink 1854,47141,2020-088V,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65556,Starlink 1878,47163,2020-088AT,,Payload,260,Box + 1 Pan,3.3,0.2,9,,23.657,0.9049,13.6031511029411
+65557,Gonets-M No. 32,47229,2020-091C,,Payload,225,Cyl + 1 Ant,0.8,1.6,7,,2.1324,1.5721,1.79827132352941
+65558,Gonets-M No. 30,47227,2020-091A,,Payload,225,Cyl + 1 Ant,0.8,1.6,7,,2.1324,1.5721,1.79827132352941
+65559,Gonets-M No. 31,47228,2020-091B,,Payload,225,Cyl + 1 Ant,0.8,1.6,7,,2.1324,1.5721,1.79827132352941
+65560,Cosmos-2548,47230,2020-091D,,Payload,4,Box,0.1,0.3,0.3,,0.0435889894354067,0.01,0.035
+65561,,,,20801,Unknown,,,,,,,,,
+65562,,,,132802,Unknown,,,,,,,,,
+65563,,,,57604,Unknown,,,,,,,,,
+65564,,,,71309,Unknown,,,,,,,,,
+65565,,,,126801,Unknown,,,,,,,,,
+65566,,,,79315,Unknown,,,,,,,,,
+65567,,,,51605,Unknown,,,,,,,,,
+65568,,,,44502,Unknown,,,,,,,,,
+65569,,,,114902,Unknown,,,,,,,,,
+65570,,,,88600,Unknown,,,,,,,,,
+65571,,,,83804,Unknown,,,,,,,,,
+65572,,,,69414,Unknown,,,,,,,,,
+65573,,,,144230,Unknown,,,,,,,,,
+65574,,,,143595,Unknown,,,,,,,,,
+65575,,,,51005,Unknown,,,,,,,,,
+65576,,,,154801,Unknown,,,,,,,,,
+65577,,,,18301,Unknown,,,,,,,,,
+65578,H-18 (Long March (CZ) YF) (Long March (CZ) 3B),47232,2020-092B,,Rocket Body,2800,Cyl + 1 Nozzle,3,12.83,12.83,,39.1336807913658,7.06858347057703,33.7642670444563
+65579,Dragon CRS-21,47233,2020-093A,,Payload,15000,Trunc Cone + Cyl + 2 Pan,3.7,5.3,16.5,14/01/2021,60.2525,10.7521,33.4694
+65580,Gaofen 14,47231,2020-092A,,Payload,6500,Box + 2 Pan,2.5,6,15,,47.1151,6.25,26.5133
+65581,GECAM A,47234,2020-094A,,Payload,150,Box + Half Sphere + 1 Pan,0.3,1,1.5,,0.5538,0.09,0.3875
+65582,GECAM B,47235,2020-094B,,Payload,150,Box + Half Sphere + 1 Pan,0.3,1,1.5,,0.5538,0.09,0.3875
+65583,CZ-11 operational debris (GECAM adapter),47236,2020-094C,,Rocket Mission Related Object,,,,,,,,,
+65584,Falcon 9 Merlin-V (1D+) (Falcon 9 v1.2),,2020-088IA,,Rocket Body,4300,Cyl,3.6,16,16,25/11/2020,58.4924538651002,10.1787601976309,50.3283143105085
+65586,,47093,2011-037NE,,Rocket Fragmentation Debris,,,,,,,,,
+65587,Long March (CZ) 11 Stage 4,47239,2020-094D,,Rocket Body,500,Cyl,1.2,,,22/12/2020,,,
+65588,,,,72709,Unknown,,,,,,,,,
+65589,,,,84105,Unknown,,,,,,,,,
+65590,,,,32207,Unknown,,,,,,,,,
+65591,,,,74639,Unknown,,,,,,,,,
+65592,,,,143696,Unknown,,,,,,,,,
+65593,,,,35603,Unknown,,,,,,,,,
+65594,,,,58005,Unknown,,,,,,,,,
+65595,,,,28700,Unknown,,,,,,,,,
+65596,,,,78754,Unknown,,,,,,,,,
+65597,,,,63909,Unknown,,,,,,,,,
+65598,,,,32806,Unknown,,,,,,,,,
+65599,,,,128302,Unknown,,,,,,,,,
+65600,,,,146416,Unknown,,,,,,,,,
+65601,,,,72313,Unknown,,,,,,,,,
+65602,Delta IV DCSS 5 (Delta 4H),47238,2020-095B,,Rocket Body,3510,Cyl + 1 Nozzle,5.09,8.8,8.8,,64.3802344786689,20.3481741571174,58.1462068988749
+65603,USA 311,47237,2020-095A,,Payload,,Box + 2 Pan + 1 Dish,,,,,,,
+65604,SXM 7,47240,2020-096A,,Payload,7000,Box + 2 Pan,5.6,5.2,30,,161.0752,29.12,81.3485
+65605,Falcon 9 Merlin-V (1D+) (Falcon 9 v1.2),47241,2020-096B,,Rocket Body,4300,Cyl,3.6,16,16,,58.4924538651002,10.1787601976309,50.3283143105085
+65606,Centaur-5 SEC debris,47248,2018-079EG,,Rocket Fragmentation Debris,,,,,,,,,
+65607,Centaur-5 SEC debris,47251,2018-079EK,,Rocket Fragmentation Debris,,,,,,,,,
+65608,Centaur-5 SEC debris,47245,2018-079EF,,Rocket Fragmentation Debris,,,,,,,,,
+65610,Centaur-5 SEC debris,47244,2018-079EE,,Rocket Fragmentation Debris,,,,,,,,,
+65611,Centaur-5 SEC debris,47249,2018-079EH,,Rocket Fragmentation Debris,,,,,,,,,
+65612,Gonets operational debris,47252,2020-091E,,Payload Mission Related Object,,,,,,,,,
+65613,StriX-Alpha,47253,2020-098A,,Payload,150,Box + 2 Pan,0.5,0.7,4.7,,2.2351,0.25,1.0517
+65614,Electron kick stage (Electron (Curie)),47254,2020-098B,,Rocket Body,100,Trunc Cone,1,,,,,,
+65615,Electron second stage (Electron (Curie)),47255,2020-098C,,Rocket Body,250,Cyl,1.2,2.4,1.2,28/12/2020,3.09410742062734,1.13097335529233,2.82743338823081
+65616,Centaur-5 SEC debris,47250,2018-079EJ,,Rocket Fragmentation Debris,,,,,,,,,
+65617,Briz-M auxiliary tank (DTB),47243,2020-097B,,Payload Mission Related Object,1000,Torus,4,2.1,4,,12.5663706143592,7.45360590058275,8.21789806830189
+65618,Fregat SBB debris,47247,2011-037NL,,Rocket Fragmentation Debris,,,,,,,,,
+65619,Fregat SBB debris,47246,2011-037NK,,Rocket Fragmentation Debris,,,,,,,,,
+65620,CMS 1,47256,2020-099A,,Payload,1410,Box + 2 Pan,1.5,1.5,10,,14.0975,2.25,6.8113
+65621,PSLV fourth stage (PS4) (PSLV-XL),47257,2020-099B,,Rocket Body,920,Cyl + Cyl + 2 Nozzle,2.83,3.238,3.238,,6.64420543289802,3.46360590058275,6.18501053675491
+65622,OneWeb 0102,47258,2020-100A,,Payload,148,Box + 2 Pan,1,1.3,5,,4.0496,1.4342,2.95680294117647
+65623,OneWeb 0111,47261,2020-100D,,Payload,148,Box + 2 Pan,1,1.3,5,,4.0496,1.4342,2.95680294117647
+65624,OneWeb 0114,47262,2020-100E,,Payload,148,Box + 2 Pan,1,1.3,5,,4.0496,1.4342,2.95680294117647
+65625,OneWeb 0117,47263,2020-100F,,Payload,148,Box + 2 Pan,1,1.3,5,,4.0496,1.4342,2.95680294117647
+65626,OneWeb 0118,47264,2020-100G,,Payload,148,Box + 2 Pan,1,1.3,5,,4.0496,1.4342,2.95680294117647
+65627,OneWeb 0119,47265,2020-100H,,Payload,148,Box + 2 Pan,1,1.3,5,,4.0496,1.4342,2.95680294117647
+65628,OneWeb 0120,47266,2020-100J,,Payload,148,Box + 2 Pan,1,1.3,5,,4.0496,1.4342,2.95680294117647
+65629,OneWeb 0121,47267,2020-100K,,Payload,148,Box + 2 Pan,1,1.3,5,,4.0496,1.4342,2.95680294117647
+65630,OneWeb 0122,47268,2020-100L,,Payload,148,Box + 2 Pan,1,1.3,5,,4.0496,1.4342,2.95680294117647
+65631,OneWeb 0123,47269,2020-100M,,Payload,148,Box + 2 Pan,1,1.3,5,,4.0496,1.4342,2.95680294117647
+65632,OneWeb 0124,47270,2020-100N,,Payload,148,Box + 2 Pan,1,1.3,5,,4.0496,1.4342,2.95680294117647
+65633,OneWeb 0125,47271,2020-100P,,Payload,148,Box + 2 Pan,1,1.3,5,,4.0496,1.4342,2.95680294117647
+65634,OneWeb 0126,47272,2020-100Q,,Payload,148,Box + 2 Pan,1,1.3,5,,4.0496,1.4342,2.95680294117647
+65635,OneWeb 0127,47273,2020-100R,,Payload,148,Box + 2 Pan,1,1.3,5,,4.0496,1.4342,2.95680294117647
+65636,OneWeb 0128,47274,2020-100S,,Payload,148,Box + 2 Pan,1,1.3,5,,4.0496,1.4342,2.95680294117647
+65637,OneWeb 0129,47275,2020-100T,,Payload,148,Box + 2 Pan,1,1.3,5,,4.0496,1.4342,2.95680294117647
+65638,OneWeb 0130,47276,2020-100U,,Payload,148,Box + 2 Pan,1,1.3,5,,4.0496,1.4342,2.95680294117647
+65639,OneWeb 0131,47277,2020-100V,,Payload,148,Box + 2 Pan,1,1.3,5,,4.0496,1.4342,2.95680294117647
+65640,OneWeb 0132,47278,2020-100W,,Payload,148,Box + 2 Pan,1,1.3,5,,4.0496,1.4342,2.95680294117647
+65641,OneWeb 0133,47279,2020-100X,,Payload,148,Box + 2 Pan,1,1.3,5,,4.0496,1.4342,2.95680294117647
+65642,OneWeb 0134,47280,2020-100Y,,Payload,148,Box + 2 Pan,1,1.3,5,,4.0496,1.4342,2.95680294117647
+65643,OneWeb 0135,47281,2020-100Z,,Payload,148,Box + 2 Pan,1,1.3,5,,4.0496,1.4342,2.95680294117647
+65644,OneWeb 0136,47282,2020-100AA,,Payload,148,Box + 2 Pan,1,1.3,5,,4.0496,1.4342,2.95680294117647
+65645,OneWeb 0137,47283,2020-100AB,,Payload,148,Box + 2 Pan,1,1.3,5,,4.0496,1.4342,2.95680294117647
+65646,OneWeb 0138,47284,2020-100AC,,Payload,148,Box + 2 Pan,1,1.3,5,,4.0496,1.4342,2.95680294117647
+65647,OneWeb 0139,47285,2020-100AD,,Payload,148,Box + 2 Pan,1,1.3,5,,4.0496,1.4342,2.95680294117647
+65648,OneWeb 0140,47286,2020-100AE,,Payload,148,Box + 2 Pan,1,1.3,5,,4.0496,1.4342,2.95680294117647
+65649,OneWeb 0141,47287,2020-100AF,,Payload,148,Box + 2 Pan,1,1.3,5,,4.0496,1.4342,2.95680294117647
+65650,OneWeb 0142,47288,2020-100AG,,Payload,148,Box + 2 Pan,1,1.3,5,,4.0496,1.4342,2.95680294117647
+65651,OneWeb 0143,47289,2020-100AH,,Payload,148,Box + 2 Pan,1,1.3,5,,4.0496,1.4342,2.95680294117647
+65652,OneWeb 0144,47290,2020-100AJ,,Payload,148,Box + 2 Pan,1,1.3,5,,4.0496,1.4342,2.95680294117647
+65653,OneWeb 0145,47291,2020-100AK,,Payload,148,Box + 2 Pan,1,1.3,5,,4.0496,1.4342,2.95680294117647
+65654,OneWeb 0146,47292,2020-100AL,,Payload,148,Box + 2 Pan,1,1.3,5,,4.0496,1.4342,2.95680294117647
+65655,OneWeb 0147,47293,2020-100AM,,Payload,148,Box + 2 Pan,1,1.3,5,,4.0496,1.4342,2.95680294117647
+65656,,,,76320,Unknown,,,,,,,,,
+65657,,,,70305,Unknown,,,,,,,,,
+65658,,,,135808,Unknown,,,,,,,,,
+65659,,,,148307,Unknown,,,,,,,,,
+65660,OneWeb 0110,47260,2020-100C,,Payload,148,Box + 2 Pan,1,1.3,5,,4.0496,1.4342,2.95680294117647
+65661,OneWeb 0109,47259,2020-100B,,Payload,148,Box + 2 Pan,1,1.3,5,,4.0496,1.4342,2.95680294117647
+65662,USA 313,47295,2020-101B,,Payload,2000,Box + 2 Pan,2.5,4,10,,30.4619,6.25,18.1633
+65663,USA 312,47294,2020-101A,,Payload,2000,Box + 2 Pan,2.5,4,10,,30.4619,6.25,18.1633
+65664,Tianqi-8,47296,2020-102A,,Payload,40,Box,0.3,0.5,0.5,,0.230434372436058,0.09,0.195
+65665,Haisi-1,47297,2020-102B,,Payload,185,Box + 2 Pan,0.2,0.3,1,,0.2221,0.04,0.1264
+65666,Tongxin Jishu Shiyan 7,47298,2020-102C,,Payload,5000,Box + 2 Pan + 1 Dish,3,5,9,,37.4436,9,24.336
+65667,Yuanguang,47299,2020-102D,,Payload,20,Box + 2 Pan,0.5,1,3,,1.7503,0.25,0.9693
+65668,ET-SMART-RSS,47300,2020-102E,,Payload,10,Box,0.2,0.3,0.3,,0.0938083151964686,0.04,0.08
+65669,H-18 (Long March (CZ) YF) (Long March (CZ) 8),47301,2020-102F,,Rocket Body,2800,Cyl + 1 Nozzle,3,12.83,12.83,,39.1336807913658,7.06858347057703,33.7642670444563
+65670,,,,144129,Unknown,,,,,,,,,
+65671,,,,52802,Unknown,,,,,,,,,
+65672,,,,142220,Unknown,,,,,,,,,
+65673,,,,164300,Unknown,,,,,,,,,
+65674,,,,69712,Unknown,,,,,,,,,
+65675,,,,136208,Unknown,,,,,,,,,
+65676,,,,55001,Unknown,,,,,,,,,
+65677,,,,150106,Unknown,,,,,,,,,
+65678,,,,79518,Unknown,,,,,,,,,
+65679,,,,83105,Unknown,,,,,,,,,
+65680,,,,68709,Unknown,,,,,,,,,
+65681,,,,79718,Unknown,,,,,,,,,
+65682,,,,75115,Unknown,,,,,,,,,
+65683,,,,151403,Unknown,,,,,,,,,
+65684,,,,164400,Unknown,,,,,,,,,
+65685,,,,85107,Unknown,,,,,,,,,
+65686,,,,127103,Unknown,,,,,,,,,
+65687,L-14B-res (YF40B-res) (Long March (CZ) 4C),47304,2020-103C,,Rocket Body,1000,Cyl,2.9,1.92,2.9,,8.63893928327101,5.568,7.67569625088326
+65688,Yaogan Weixing 33,47302,2020-103A,,Payload,1040,Box + 2 Pan,1.5,1.5,5,,8.0973,2.25,4.7947
+65689,Weina Jishu Shiyan Weixing 2,47303,2020-103B,,Payload,10,Box,0.1,0.3,0.3,,0.0435889894354067,0.01,0.035
+65690,CSO-2,47305,2020-104A,,Payload,,Hex Cone + 4 Pan,,,,,,,
+65691,,,,121601,Unknown,,,,,,,,,
+65692,,,,54405,Unknown,,,,,,,,,
+65693,,,,145429,Unknown,,,,,,,,,
+65694,,,,72605,Unknown,,,,,,,,,
+65695,,,,146207,Unknown,,,,,,,,,
+65696,,,,81312,Unknown,,,,,,,,,
+65697,,,,79519,Unknown,,,,,,,,,
+65698,,,,77730,Unknown,,,,,,,,,
+65699,,,,150303,Unknown,,,,,,,,,
+65700,,,,88102,Unknown,,,,,,,,,
+65701,,,,130603,Unknown,,,,,,,,,
+65702,,,,41008,Unknown,,,,,,,,,
+65703,,,,71728,Unknown,,,,,,,,,
+65704,,,,81712,Unknown,,,,,,,,,
+65705,,,,67514,Unknown,,,,,,,,,
+65706,,,,71117,Unknown,,,,,,,,,
+65707,,,,162901,Unknown,,,,,,,,,
+65708,,,,80215,Unknown,,,,,,,,,
+65709,,,,68710,Unknown,,,,,,,,,
+65710,,,,142823,Unknown,,,,,,,,,
+65711,,,,144231,Unknown,,,,,,,,,
+65712,,,,60406,Unknown,,,,,,,,,
+65713,,,,138108,Unknown,,,,,,,,,
+65714,,,,80510,Unknown,,,,,,,,,
+65715,Turksat 5A,47306,2021-001A,,Payload,3500,Box + 2 Pan,,,,,,,
+65716,,47307,2021-001B,,Unknown,,,,,,,,,
+65717,,,,82308,Unknown,,,,,,,,,
+65718,,,,63302,Unknown,,,,,,,,,
+65719,,,,139720,Unknown,,,,,,,,,
+65720,,,,141609,Unknown,,,,,,,,,
+65721,,,,62607,Unknown,,,,,,,,,
+65722,Dragon operational debris (Trunk),47308,2020-093B,,Other Mission Related Object,2000,Cyl + 2 Pan,,,,03/02/2021,,,
+65723,,,,155302,Unknown,,,,,,,,,
+65724,,,,43401,Unknown,,,,,,,,,
+65725,,,,72909,Unknown,,,,,,,,,
+65726,,,,143438,Unknown,,,,,,,,,
+65727,,,,67409,Unknown,,,,,,,,,
+65728,,,,36701,Unknown,,,,,,,,,
+65729,CAPE 3,47309,2021-002A,,Payload,1,Box + 1 Ant,,,,,,,
+65730,PolarCube,47310,2021-002B,,Payload,4,Box + 2 Pan,,,,,,,
+65731,RadFxSat-2,47311,2021-002C,,Payload,1,Box + 1 Ant,,,,,,,
+65732,TechEdSat-7,47312,2021-002D,,Payload,4,Box + 1 Sail + 1 Truss,,,,,,,
+65733,Prometheus 2.11,47313,2021-002E,,Payload,2,Box,,,,,0.0173205080756888,0.01,0.015
+65734,MiTEE 1,47314,2021-002F,,Payload,3,Box + 1 Rod,,,,,,,
+65735,Q-PACE,47315,2021-002G,,Payload,3,Box,,,,,0.0435889894354067,0.01,0.035
+65736,Tiantong-1 03,47321,2021-003A,,Payload,5200,Box + 2 Pan,,,,,,,
+65737,H-18 (Long March (CZ) YF) (Long March (CZ) 3B),47322,2021-003B,,Rocket Body,2800,Cyl + 1 Nozzle,3,12.83,12.83,,39.1336807913658,7.06858347057703,33.7642670444563
+65738,Resurs-O1 N3 debris,47323,1994-074DM,,Payload Fragmentation Debris,,,,,,,,,
+65739,Resurs-O1 N3 debris,47324,1994-074DN,,Payload Fragmentation Debris,,,,,,,,,
+65740,Resurs-O1 N3 debris,47325,1994-074DP,,Payload Fragmentation Debris,,,,,,,,,
+65741,Resurs-O1 N3 debris,47326,1994-074DQ,,Payload Fragmentation Debris,,,,,,,,,
+65742,Resurs-O1 N3 debris,47327,1994-074DR,,Payload Fragmentation Debris,,,,,,,,,
+65743,Resurs-O1 N3 debris,47328,1994-074DS,,Payload Fragmentation Debris,,,,,,,,,
+65744,Resurs-O1 N3 debris,47329,1994-074DT,,Payload Fragmentation Debris,,,,,,,,,
+65745,Fregat SBB debris,47331,2011-037NN,,Rocket Fragmentation Debris,,,,,,,,,
+65746,Fregat SBB debris,47332,2011-037NP,,Rocket Fragmentation Debris,,,,,,,,,
+65747,Fregat SBB debris,47333,2011-037NQ,,Rocket Fragmentation Debris,,,,,,,,,
+65748,Fregat SBB debris,47334,2011-037NR,,Rocket Fragmentation Debris,,,,,,,,,
+65749,Fregat SBB debris,47335,2011-037NS,,Rocket Fragmentation Debris,,,,,,,,,
+65750,Fregat SBB debris,47336,2011-037NT,,Rocket Fragmentation Debris,,,,,,,,,
+65751,Fregat SBB debris,47337,2011-037NU,,Rocket Fragmentation Debris,,,,,,,,,
+65752,Fregat SBB debris,47338,2011-037NV,,Rocket Fragmentation Debris,,,,,,,,,
+65753,Centaur-5 SEC debris,47339,2018-079EL,,Rocket Fragmentation Debris,,,,,,,,,
+65754,Centaur-5 SEC debris,47340,2018-079EM,,Rocket Fragmentation Debris,,,,,,,,,
+65755,Centaur-5 SEC debris,47341,2018-079EN,,Rocket Fragmentation Debris,,,,,,,,,
+65756,Proton-K/DM-2 ullage motor (SOZ) debris,47344,1991-025AR,,Rocket Fragmentation Debris,,,,,,,,,
+65757,CACTUS-1,47320,2021-002M,,Payload,4,Box,,,,,0.0435889894354067,0.01,0.035
+65758,ExoCube 2,47319,2021-002L,,Payload,4,Box,,,,,0.0435889894354067,0.01,0.035
+65759,PICS 2,47318,2021-002K,,Payload,1,Box,,,,,0.0173205080756888,0.01,0.015
+65760,PICS 1,47317,2021-002J,,Payload,1,Box,,,,,0.0173205080756888,0.01,0.015
+65761,NewtonFour (LauncherOne),47316,2021-002H,,Rocket Body,,Cyl,,,,,5.39748131238378,1.76714586764426,4.88910356714911
+65762,CZ-5-HO (Long March (CZ) 5),47098,2020-087B,,Rocket Body,3400,Step Cyl,,,,30/11/2020,56.520185968533,19.6349540849362,46.8205637697221
+65763,CZ-5-HO (Long March (CZ) 5),45936,2020-049B,,Rocket Body,3400,Step Cyl,,,,,56.520185968533,19.6349540849362,46.8205637697221
+65764,Prometheus 2.8,47345,2021-002N,,Payload,2,Box,,,,,0.0173205080756888,0.01,0.015
+65765,GMS-T,47346,2021-004A,,Payload,50,Box + 1 Pan,,,,,,,
+65766,Electron kick stage (Electron (Curie)),47347,2021-004B,,Rocket Body,100,Trunc Cone,1,,,,,,
+65767,Electron second stage (Electron (Curie)),47348,2021-004C,,Rocket Body,250,Cyl,1.2,2.4,1.2,,3.09410742062734,1.13097335529233,2.82743338823081
+65768,Centaur-5 SEC debris,47342,2018-079EP,,Rocket Fragmentation Debris,,,,,,,,,
+65769,,,,73312,Unknown,,,,,,,,,
+65770,,,,54406,Unknown,,,,,,,,,
+65771,,,,32104,Unknown,,,,,,,,,
+65772,,,,130604,Unknown,,,,,,,,,
+65773,,,,27002,Unknown,,,,,,,,,
+65774,,,,36702,Unknown,,,,,,,,,
+65775,,,,33919,Unknown,,,,,,,,,
+65776,Starlink 2199,47413,2021-006A,,Payload,260,Box + 1 Ant,,,,,,,
+65777,Starlink 2200,47414,2021-006B,,Payload,260,Box + 1 Ant,,,,,,,
+65778,Starlink 2201,47415,2021-006C,,Payload,260,Box + 1 Ant,,,,,,,
+65779,Starlink 2202,47416,2021-006D,,Payload,260,Box + 1 Ant,,,,,,,
+65780,Starlink 2203,47417,2021-006E,,Payload,260,Box + 1 Ant,,,,,,,
+65781,Starlink 2204,47418,2021-006F,,Payload,260,Box + 1 Ant,,,,,,,
+65782,Starlink 2205,47419,2021-006G,,Payload,260,Box + 1 Ant,,,,,,,
+65783,Starlink 2206,47420,2021-006H,,Payload,260,Box + 1 Ant,,,,,,,
+65784,Starlink 2207,47421,2021-006J,,Payload,260,Box + 1 Ant,,,,,,,
+65785,Starlink 2208,47422,2021-006K,,Payload,260,Box + 1 Ant,,,,,,,
+65786,Starlink operational debris (deployment rail),47423,2021-006L,,Rocket Mission Related Object,5,Cyl,,,,,0.140000352485428,0.000314159265358979,0.110112822508322
+65787,Starlink operational debris (deployment rail),47424,2021-006M,,Rocket Mission Related Object,5,Cyl,,,,,0.140000352485428,0.000314159265358979,0.110112822508322
+65788,SpaceBEE-52,47425,2021-006N,,Payload,0.284,Box + 2 Ant,,,,,,,
+65789,SpaceBEE-46,47426,2021-006P,,Payload,0.284,Box + 2 Ant,,,,,,,
+65790,SpaceBEE-47,47427,2021-006Q,,Payload,0.284,Box + 2 Ant,,,,,,,
+65791,SpaceBEE-59,47428,2021-006R,,Payload,0.284,Box + 2 Ant,,,,,,,
+65792,SpaceBEE-62,47429,2021-006S,,Payload,0.284,Box + 2 Ant,,,,,,,
+65793,Astrocast-0101,47430,2021-006T,,Payload,5,Box,,,,,0.0435889894354067,0.01,0.035
+65794,SpaceBEE-61,47431,2021-006U,,Payload,0.284,Box + 2 Ant,,,,,,,
+65795,SpaceBEE-49,47432,2021-006V,,Payload,0.284,Box + 2 Ant,,,,,,,
+65796,SpaceBEE-60,47433,2021-006W,,Payload,0.284,Box + 2 Ant,,,,,,,
+65797,SpaceBEE-53,47434,2021-006X,,Payload,0.284,Box + 2 Ant,,,,,,,
+65798,SpaceBEE-40,47449,2021-006AN,,Payload,0.284,Box + 2 Ant,,,,,,,
+65799,Lemur-2-Neva,47450,2021-006AP,,Payload,4.6,Box + 2 Pan,,,,,,,
+65800,SpaceBEE-41,47451,2021-006AQ,,Payload,0.284,Box + 2 Ant,,,,,,,
+65801,Flock 4s-22,47452,2021-006AR,,Payload,5.7,Box + 2 Pan,,,,,,,
+65802,Lemur-2-SaoirseDH5Guo,47453,2021-006AS,,Payload,4.6,Box + 2 Pan,,,,,,,
+65803,Lucky,47454,2021-006AT,,Payload,15,Box + 2 Pan,,,,,,,
+65804,SpaceBEE-42,47455,2021-006AU,,Payload,0.284,Box + 2 Ant,,,,,,,
+65805,Flock 4s-21,47456,2021-006AV,,Payload,5.7,Box + 2 Pan,,,,,,,
+65806,Lemur-2-NallyWacker,47457,2021-006AW,,Payload,4.6,Box + 2 Pan,,,,,,,
+65807,IDEASSat,47458,2021-006AX,,Payload,4,Box,,,,,0.0435889894354067,0.01,0.035
+65808,SpaceBEE-55,47459,2021-006AY,,Payload,0.284,Box + 2 Ant,,,,,,,
+65809,SpaceBEE-54,47460,2021-006AZ,,Payload,0.284,Box + 2 Ant,,,,,,,
+65810,SudoRmRf,47461,2021-006BA,,Payload,15,Box + 2 Pan,,,,,,,
+65811,Flock 4s-11,47462,2021-006BB,,Payload,5.7,Box + 2 Pan,,,,,,,
+65812,V-R3X 3,47524,2021-006DQ,,Payload,1,Box,,,,,0.0173205080756888,0.01,0.015
+65813,SpaceBEE-58,47464,2021-006BD,,Payload,0.284,Box + 2 Ant,,,,,,,
+65814,SpaceBEE-57,47465,2021-006BE,,Payload,0.284,Box + 2 Ant,,,,,,,
+65815,SpaceBEE-44,47466,2021-006BF,,Payload,0.284,Box + 2 Ant,,,,,,,
+65816,Prometheus 2.10,47616,2021-006EH,,Payload,2,Box,,,,,0.0173205080756888,0.01,0.015
+65817,SpaceBEE-56,47468,2021-006BH,,Payload,0.284,Box + 2 Ant,,,,,,,
+65818,Flock 4s-33,47469,2021-006BJ,,Payload,5.7,Box + 2 Pan,,,,,,,
+65819,SpaceBEE-45,47470,2021-006BK,,Payload,0.284,Box + 2 Ant,,,,,,,
+65820,Flock 4s-12,47471,2021-006BL,,Payload,5.7,Box + 2 Pan,,,,,,,
+65821,Flock 4s-13,47472,2021-006BM,,Payload,5.7,Box + 2 Pan,,,,,,,
+65822,Flock 4s-35,47473,2021-006BN,,Payload,5.7,Box + 2 Pan,,,,,,,
+65823,Flock 4s-8,47474,2021-006BP,,Payload,5.7,Box + 2 Pan,,,,,,,
+65824,Flock 4s-31,47475,2021-006BQ,,Payload,5.7,Box + 2 Pan,,,,,,,
+65825,QPS-SAR 2,47485,2021-006CA,,Payload,120,Hex Cyl + 2 Pan + 1 Dish,,,,,,,
+65826,Kepler 14,47526,2021-006DS,,Payload,15,Box + 2 Pan,,,,,,,
+65827,Astrocast-0103,47487,2021-006CC,,Payload,5,Box,,,,,0.0435889894354067,0.01,0.035
+65828,Astrocast-0102,47488,2021-006CD,,Payload,5,Box,,,,,0.0435889894354067,0.01,0.035
+65829,Capella 3,47489,2021-006CE,,Payload,112,Box + 1 Pan + 1 Dish + 1 Rod,,,,,0.951063097925127,0.09,0.4458
+65830,Flock 4s-39,47490,2021-006CF,,Payload,5.7,Box + 2 Pan,,,,,,,
+65831,Flock 4s-4,47491,2021-006CG,,Payload,5.7,Box + 2 Pan,,,,,,,
+65832,Flock 4s-17,47492,2021-006CH,,Payload,5.7,Box +  2 Pan,,,,,,,
+65833,Lemur-2 Mango1,47493,2021-006CJ,,Payload,4.6,Box + 2 Pan,,,,,,,
+65834,Flock 4s-3,47494,2021-006CK,,Payload,5.7,Box + 2 Pan,,,,,,,
+65835,Flock 4s-27,47495,2021-006CL,,Payload,5.7,Box + 2 Pan,,,,,,,
+65836,Flock 4s-18,47496,2021-006CM,,Payload,5.7,Box + 2 Pan,,,,,,,
+65837,Flock 4s-26,47497,2021-006CN,,Payload,5.7,Box + 2 Pan,,,,,,,
+65838,Flock 4s-2,47498,2021-006CP,,Payload,5.7,Box + 2 Pan,,,,,,,
+65839,Flock 4s-40,47499,2021-006CQ,,Payload,5.7,Box + 2 Pan,,,,,,,
+65840,Flock 4s-19,47500,2021-006CR,,Payload,5.7,Box + 2 Pan,,,,,,,
+65841,Kepler 10 (Baby Yoda),47501,2021-006CS,,Payload,15,Box + 2 Pan,,,,,,,
+65842,Hawk 2C,47502,2021-006CT,,Payload,31,Box + 2 Pan,,,,,,,
+65843,Kepler 11 (Daneel),47503,2021-006CU,,Payload,15,Box + 2 Pan,,,,,,,
+65844,ION-SCV 002,47504,2021-006CV,,Payload,220,Box,,,,,0.27712812921102,0.16,0.24
+65845,Hawk 2A,47505,2021-006CW,,Payload,31,Box + 2 Pan,,,,,,,
+65846,ICEYE-X9,47506,2021-006CX,,Payload,80,Box + 1 Pan,,,,,,,
+65847,XR 1,47507,2021-006CY,,Payload,80,Box + 1 Pan,,,,,,,
+65848,Hawk 2B,47508,2021-006CZ,,Payload,31,Box + 2 Pan,,,,,,,
+65849,GHGSat C2,47509,2021-006DA,,Payload,15,Box,,,,,0.12,0.04,0.1
+65850,ICEYE-X8,47510,2021-006DB,,Payload,80,Box + 1 Pan,,,,,,,
+65851,Lemur-2 Ruairi-Elidh,47511,2021-006DC,,Payload,4.6,Box + 2 Pan,,,,,,,
+65852,Flock 4s-38,47512,2021-006DD,,Payload,5.7,Box + 2 Pan,,,,,,,
+65853,Starlink 2071,47361,2021-005N,,Payload,260,Box + 1 Pan,,,,,,,
+65854,Starlink 2080,47365,2021-005S,,Payload,260,Box + 1 Pan,,,,,,,
+65855,Starlink 2084,47368,2021-005V,,Payload,260,Box + 1 Pan,,,,,,,
+65856,Starlink 2094,47375,2021-005AC,,Payload,260,Box + 1 Pan,,,,,,,
+65857,Starlink 2017,47351,2021-005C,,Payload,260,Box + 1 Pan,,,,,,,
+65858,Starlink 2109,47388,2021-005AR,,Payload,260,Box + 1 Pan,,,,,,,
+65859,Starlink 2112,47391,2021-005AU,,Payload,260,Box + 1 Pan,,,,,,,
+65860,Starlink 2034,47352,2021-005D,,Payload,260,Box + 1 Pan,,,,,,,
+65861,Starlink 2045,47353,2021-005E,,Payload,260,Box + 1 Pan,,,,,,,
+65862,Starlink 2046,47354,2021-005F,,Payload,260,Box + 1 Pan,,,,,,,
+65863,Starlink 2127,47403,2021-005BG,,Payload,260,Box + 1 Pan,,,,,,,
+65864,Starlink 2128,47404,2021-005BH,,Payload,260,Box + 1 Pan,,,,,,,
+65865,Starlink 2047,47355,2021-005G,,Payload,260,Box + 1 Pan,,,,,,,
+65866,Starlink operational debris (deployment rail),47410,2021-005BP,,Other Mission Related Object,5,Cyl,,,,20/02/2021,0.140000352485428,0.000314159265358979,0.110112822508322
+65867,Starlink operational debris (deployment rail),47411,2021-005BQ,,Other Mission Related Object,5,Cyl,,,,19/02/2021,0.140000352485428,0.000314159265358979,0.110112822508322
+65868,Starlink operational debris (deployment rail),47412,2021-005BR,,Other Mission Related Object,5,Cyl,,,,16/02/2021,0.140000352485428,0.000314159265358979,0.110112822508322
+65869,Starlink 2050,47357,2021-005J,,Payload,260,Box + 1 Pan,,,,,,,
+65870,Transporter-1 operational debris (Adapter Stack),47435,2021-006Y,,Rocket Mission Related Object,500,Cyl,,,,,1.96388652296106,0.785398163397448,1.80641577581413
+65871,SHERPA-FX 1,47486,2021-006CB,,Payload,130,Cyl,,,,,0.595870684517948,0.32,0.502654824574367
+65872,Starlink operational debris (deployment rail),47437,2021-006AA,,Rocket Mission Related Object,5,Cyl,,,,,0.140000352485428,0.000314159265358979,0.110112822508322
+65873,UVSQ-SAT,47438,2021-006AB,,Payload,1.6,Box,,,,,0.0173205080756888,0.01,0.015
+65874,Yushan Weixing,47439,2021-006AC,,Payload,2,Box,,,,,0.03,0.01,0.025
+65875,AII-Charlie,47440,2021-006AD,,Payload,10,Box + 2 Pan,,,,,,,
+65876,ASELSAT,47441,2021-006AE,,Payload,4,Box + 2 Pan,,,,,,,
+65877,SpaceBEE-63,47442,2021-006AF,,Payload,0.284,Box + 2 Pan,,,,,,,
+65878,SpaceBEE-50,47443,2021-006AG,,Payload,0.284,Box + 2 Pan,,,,,,,
+65879,SpaceBEE-51,47444,2021-006AH,,Payload,0.284,Box + 2 Pan,,,,,,,
+65880,SOMP 2b,47445,2021-006AJ,,Payload,2,Box,,,,,0.03,0.01,0.025
+65881,Boba,47446,2021-006AK,,Payload,15,Box + 2 Pan,,,,,,,
+65882,SpaceBEE-48,47447,2021-006AL,,Payload,0.284,Box + 2 Ant,,,,,,,
+65883,CubeL,47448,2021-006AM,,Payload,4,Box,,,,,0.0435889894354067,0.01,0.035
+65884,Amarok,47476,2021-006BR,,Payload,15,Box + 2 Pan,,,,,,,
+65885,Starlink 1952,47349,2021-005A,,Payload,260,Box + 1 Pan,,,,,,,
+65886,Starlink 2011,47350,2021-005B,,Payload,260,Box + 1 Pan,,,,,,,
+65887,Flock 4s-32,47479,2021-006BU,,Payload,5.7,Box + 2 Pan,,,,,,,
+65888,SpaceBEE-43,47480,2021-006BV,,Payload,0.284,Box + 2 Ant,,,,,,,
+65889,Capella 4,47481,2021-006BW,,Payload,112,Box + 1 Pan + 1 Dish + 1 Rod,,,,,0.951063097925127,0.09,0.4458
+65890,Starlink operational debris (deployment rail),47436,2021-006Z,,Rocket Mission Related Object,5,Cyl,,,,,0.140000352485428,0.000314159265358979,0.110112822508322
+65891,V-R3X 1,47463,2021-006BC,,Payload,1,Box,,,,,0.0173205080756888,0.01,0.015
+65892,ARCE 1A,47483,2021-006BY,,Payload,0.5,Box,,,,,0.0122474487139159,0.005,0.01
+65893,Flock 4s-34,47477,2021-006BS,,Payload,5.7,Box + 2 Pan,,,,,,,
+65894,Flock 4s-9,47478,2021-006BT,,Payload,5.7,Box + 2 Pan,,,,,,,
+65895,Starlink 2069,47359,2021-005L,,Payload,260,Box + 1 Pan,,,,,,,
+65896,Starlink 2070,47360,2021-005M,,Payload,260,Box + 1 Pan,,,,,,,
+65897,Starlink 2076,47362,2021-005P,,Payload,260,Box + 1 Pan,,,,,,,
+65898,Starlink 2077,47363,2021-005Q,,Payload,260,Box + 1 Pan,,,,,,,
+65899,Starlink 2079,47364,2021-005R,,Payload,260,Box + 1 Pan,,,,,,,
+65900,Starlink 2081,47366,2021-005T,,Payload,260,Box + 1 Pan,,,,,,,
+65901,Starlink 2082,47367,2021-005U,,Payload,260,Box + 1 Pan,,,,,,,
+65902,Starlink 2085,47369,2021-005W,,Payload,260,Box + 1 Pan,,,,,,,
+65903,Starlink 2086,47370,2021-005X,,Payload,260,Box + 1 Pan,,,,,,,
+65904,Starlink 2088,47371,2021-005Y,,Payload,260,Box + 1 Pan,,,,,,,
+65905,Starlink 2089,47372,2021-005Z,,Payload,260,Box + 1 Pan,,,,,,,
+65906,Starlink 2092,47373,2021-005AA,,Payload,260,Box + 1 Pan,,,,,,,
+65907,Starlink 2093,47374,2021-005AB,,Payload,260,Box + 1 Pan,,,,,,,
+65908,Starlink 2096,47376,2021-005AD,,Payload,260,Box + 1 Pan,,,,,,,
+65909,Starlink 2097,47377,2021-005AE,,Payload,260,Box + 1 Pan,,,,,,,
+65910,Starlink 2098,47378,2021-005AF,,Payload,260,Box + 1 Pan,,,,,,,
+65911,Starlink 2099,47379,2021-005AG,,Payload,260,Box + 1 Pan,,,,,,,
+65912,Starlink 2100,47380,2021-005AH,,Payload,260,Box + 1 Pan,,,,,,,
+65913,Starlink 2101,47381,2021-005AJ,,Payload,260,Box + 1 Pan,,,,,,,
+65914,Starlink 2102,47382,2021-005AK,,Payload,260,Box + 1 Pan,,,,,,,
+65915,Starlink 2103,47383,2021-005AL,,Payload,260,Box + 1 Pan,,,,,,,
+65916,Starlink 2104,47384,2021-005AM,,Payload,260,Box + 1 Pan,,,,,,,
+65917,Starlink 2105,47385,2021-005AN,,Payload,260,Box + 1 Pan,,,,,,,
+65918,Starlink 2106,47386,2021-005AP,,Payload,260,Box + 1 Pan,,,,,,,
+65919,Starlink 2108,47387,2021-005AQ,,Payload,260,Box + 1 Pan,,,,,,,
+65920,Starlink 2110,47389,2021-005AS,,Payload,260,Box + 1 Pan,,,,,,,
+65921,Starlink 2111,47390,2021-005AT,,Payload,260,Box + 1 Pan,,,,,,,
+65922,Starlink 2113,47392,2021-005AV,,Payload,260,Box + 1 Pan,,,,,,,
+65923,Starlink 2114,47393,2021-005AW,,Payload,260,Box + 1 Pan,,,,,,,
+65924,Starlink 2115,47394,2021-005AX,,Payload,260,Box + 1 Pan,,,,,,,
+65925,Starlink 2117,47395,2021-005AY,,Payload,260,Box + 1 Pan,,,,,,,
+65926,Starlink 2118,47396,2021-005AZ,,Payload,260,Box + 1 Pan,,,,,,,
+65927,Starlink 2119,47397,2021-005BA,,Payload,260,Box + 1 Pan,,,,,,,
+65928,Starlink 2120,47398,2021-005BB,,Payload,260,Box + 1 Pan,,,,,,,
+65929,Starlink 2121,47399,2021-005BC,,Payload,260,Box + 1 Pan,,,,,,,
+65930,Starlink 2122,47400,2021-005BD,,Payload,260,Box + 1 Pan,,,,,,,
+65931,Starlink 2123,47401,2021-005BE,,Payload,260,Box + 1 Pan,,,,,,,
+65932,Starlink 2124,47402,2021-005BF,,Payload,260,Box + 1 Pan,,,,,,,
+65933,Starlink 2130,47405,2021-005BJ,,Payload,260,Box + 1 Pan,,,,,,,
+65934,Starlink 2133,47406,2021-005BK,,Payload,260,Box + 1 Pan,,,,,,,
+65935,Starlink 2134,47407,2021-005BL,,Payload,260,Box + 1 Pan,,,,,,,
+65936,Starlink 2135,47408,2021-005BM,,Payload,260,Box + 1 Pan,,,,,,,
+65937,Starlink operational debris (deployment rail),47409,2021-005BN,,Other Mission Related Object,5,Cyl,,,,20/02/2021,0.140000352485428,0.000314159265358979,0.110112822508322
+65938,Starlink 2049,47356,2021-005H,,Payload,260,Box + 1 Pan,,,,,,,
+65939,Starlink 2055,47358,2021-005K,,Payload,260,Box + 1 Pan,,,,,,,
+65940,Fregat-M (Soyuz-2-1B Fregat-M),,2020-008IA,,Rocket Body,920,Irr,3.48,1.74,3.48,07/02/2020,14.8321502905007,6.0552,12.1104
+65941,Falcon 9 Merlin-V (1D+) (Falcon 9 v1.2),,2020-016IA,,Rocket Body,4300,Cyl,3.6,16,16,07/03/2020,58.4924538651002,10.1787601976309,50.3283143105085
+65942,Fregat-M (Soyuz-2-1B Fregat-M),,2020-020IA,,Rocket Body,920,Irr,3.48,1.74,3.48,21/03/2020,14.8321502905007,6.0552,12.1104
+65943,Centaur-5 SEC (Atlas V 501),,2020-029IA,,Rocket Body,2020,Cyl + 1 Nozzle,,12.68,,,,,
+65944,H-II LE-5B (H-IIB),,2020-030IA,,Rocket Body,4000,Cyl,4,9.2,9.2,20/05/2020,38.8864201285928,12.5663706143592,35.1858377202057
+65945,Falcon 9 Merlin-V (1D+) (Falcon 9 v1.2),,2020-033IA,,Rocket Body,4300,Cyl,3.6,16,16,31/05/2020,58.4924538651002,10.1787601976309,50.3283143105085
+65946,Falcon 9 Merlin-V (1D+) (Falcon 9 v1.2),,2020-041IA,,Rocket Body,4300,Cyl,3.6,16,16,01/07/2020,58.4924538651002,10.1787601976309,50.3283143105085
+65947,L-53 (YF24B) (Long March (CZ) 2D),,2020-043IA,,Rocket Body,4000,Cyl,3.35,8.9,8.9,05/07/2020,31.0905633323622,8.81413088872786,27.8237116860589
+65948,L-53 (YF24B) (Long March (CZ) 2D),,2020-054IA,,Rocket Body,4000,Cyl,3.35,8.9,8.9,06/08/2020,31.0905633323622,8.81413088872786,27.8237116860589
+65949,L-53 (YF24B) (Long March (CZ) 2D),,2020-058IA,,Rocket Body,4000,Cyl,3.35,8.9,8.9,23/08/2020,31.0905633323622,8.81413088872786,27.8237116860589
+65950,Falcon 9 Merlin-V (1D+) (Falcon 9 v1.2),,2020-059IA,,Rocket Body,4300,Cyl,3.6,16,16,31/08/2020,58.4924538651002,10.1787601976309,50.3283143105085
+65951,AVUM (Vega),,2020-061IA,,Rocket Body,170,Cone + Cyl,2.1,1.3,2.1,03/09/2020,4.41015485380634,2.73,3.87593993636641
+65952,Falcon 9 Merlin-V (1D+) (Falcon 9 v1.2),,2020-062IA,,Rocket Body,4300,Cyl,3.6,16,16,03/09/2020,58.4924538651002,10.1787601976309,50.3283143105085
+65953,Fregat-M (Soyuz-2-1B Fregat-M),,2020-068IA,,Rocket Body,920,Irr,3.48,1.74,3.48,28/09/2020,14.8321502905007,6.0552,12.1104
+65954,Falcon 9 Merlin-V (1D+) (Falcon 9 v1.2),,2020-078IA,,Rocket Body,4300,Cyl,3.6,16,16,06/11/2020,58.4924538651002,10.1787601976309,50.3283143105085
+65955,Ceres-1 upperstage,,2020-080IA,,Rocket Body,,Cyl,1.1,,,07/11/2020,,,
+65956,Falcon 9 Merlin-V (1D+) (Falcon 9 v1.2),,2020-084IA,,Rocket Body,4300,Cyl,3.6,16,16,16/11/2020,58.4924538651002,10.1787601976309,50.3283143105085
+65957,Fregat-M (Soyuz-ST-A Fregat-M),,2020-090IA,,Rocket Body,920,Irr,3.48,1.74,3.48,02/12/2020,14.8321502905007,6.0552,12.1104
+65958,Fregat (Soyuz-2-1B Fregat),,2020-091IA,,Rocket Body,1000,Cyl,2.7,1.5,6.7,03/12/2020,10.1459119020237,5.025,8.35369121543611
+65959,Falcon 9 Merlin-V (1D+) (Falcon 9 v1.2),,2020-093IA,,Rocket Body,4300,Cyl,3.6,16,16,06/12/2020,58.4924538651002,10.1787601976309,50.3283143105085
+65961,Fregat (Soyuz-2-1B Fregat),,2020-100IA,,Rocket Body,1000,Cyl,2.7,1.5,6.7,18/12/2020,10.1459119020237,5.025,8.35369121543611
+65962,Falcon 9 Merlin-V (1D+) (Falcon 9 v1.2),,2020-101IA,,Rocket Body,4300,Cyl,3.6,16,16,19/12/2020,58.4924538651002,10.1787601976309,50.3283143105085
+65963,Fregat-M (Soyuz-ST-A Fregat-M),,2020-104IA,,Rocket Body,920,Irr,3.48,1.74,3.48,29/12/2020,14.8321502905007,6.0552,12.1104
+65964,ISS operational debris (Columbus Ka-band antenna cover),47513,1998-067RY,,Other Mission Related Object,15,Box,,,,,0.75,0.25,0.625
+65965,Flock 4s-28,47514,2021-006DE,,Payload,5.7,Box + 2 Pan,,,,,,,
+65966,Flock 4s-5,47515,2021-006DF,,Payload,5.7,Box + 2 Pan,,,,,,,
+65967,Flock 4s-16,47516,2021-006DG,,Payload,5.7,Box + 2 Pan,,,,,,,
+65968,Astrocast-0105,47517,2021-006DH,,Payload,5,Box,,,,,0.0435889894354067,0.01,0.035
+65969,Flock 4s-6,47518,2021-006DJ,,Payload,5.7,Box + 2 Pan,,,,,,,
+65970,Flock 4s-29,47520,2021-006DL,,Payload,5.7,Box + 2 Pan,,,,,,,
+65971,Flock 4s-15,47521,2021-006DM,,Payload,5.7,Box + 2 Pan,,,,,,,
+65972,Flock 4s-37,47522,2021-006DN,,Payload,5.7,Box + 2 Pan,,,,,,,
+65973,Flock 4s-10,47523,2021-006DP,,Payload,5.7,Box + 2 Pan,,,,,,,
+65974,V-R3X 2,47467,2021-006BG,,Payload,1,Box,,,,,0.0173205080756888,0.01,0.015
+65975,Lemur-2 JenniferSong,47525,2021-006DR,,Payload,4.6,Box + 2 Pan,,,,,,,
+65976,PTD 1,47482,2021-006BX,,Payload,11,Box,,,,,0.0435889894354067,0.01,0.035
+65977,Flock 4s-7,47527,2021-006DT,,Payload,5.7,Box + 2 Pan,,,,,,,
+65978,Flock 4s-14,47528,2021-006DU,,Payload,5.7,Box + 2 Pan,,,,,,,
+65979,Lemur-2 Chantal,47529,2021-006DV,,Payload,4.6,Box + 2 Pan,,,,,,,
+65980,Flock 4s-36,47530,2021-006DW,,Payload,5.7,Box + 2 Pan,,,,,,,
+65981,Kepler 9 (Artemis),47531,2021-006DX,,Payload,15,Box + 2 Pan,,,,,,,
+65982,Astrocast-0104,47519,2021-006DK,,Payload,5,Box,,,,,0.0435889894354067,0.01,0.035
+65983,Centaur-5 SEC debris,47343,2018-079EQ,,Rocket Fragmentation Debris,,,,,,,,,
+65984,,,,37700,Unknown,,,,,,,,,
+65985,,,,133509,Unknown,,,,,,,,,
+65986,,,,65003,Unknown,,,,,,,,,
+65987,,,,33008,Unknown,,,,,,,,,
+65988,,,,143831,Unknown,,,,,,,,,
+65989,,,,163000,Unknown,,,,,,,,,
+65990,,,,97503,Unknown,,,,,,,,,
+65991,Yaogan Weixing 31-02-01,47532,2021-007A,,Payload,500,Box + 2 Pan,,,,,,,
+65992,Yaogan Weixing 31-02-02,47533,2021-007B,,Payload,500,Box + 2 Pan,,,,,,,
+65993,CZ-4C operational debris (adapter),47534,2021-007C,,Rocket Mission Related Object,,,,,,,,,
+65994,CZ-4C operational debris (adapter),47535,2021-007D,,Rocket Mission Related Object,,,,,,,,,
+65995,Yaogan Weixing 31-02-03,47536,2021-007E,,Payload,500,Box + 2 Pan,,,,,,,
+65996,L-14B-res (YF40B-res) (Long March (CZ) 4C),47537,2021-007F,,Rocket Body,1000,Cyl,2.9,1.92,2.9,,8.63893928327101,5.568,7.67569625088326
+65997,Lemur-2 NoobNoob,47538,2021-006DY,,Payload,4.6,Box + 2 Pan,,,,,,,
+65998,Flock 4s-24,47539,2021-006DZ,,Payload,5.7,Box + 2 Pan,,,,,,,
+65999,Flock 4s-20,47540,2021-006EA,,Payload,5.7,Box + 2 Pan,,,,,,,
+66000,Hiber 4,47541,2021-006EB,,Payload,4,Box + 2 Pan,,,,,,,
+66001,Flock 4s-25,47542,2021-006EC,,Payload,5.7,Box + 2 Pan,,,,,,,
+66002,Flock 4s-1,47543,2021-006ED,,Payload,5.7,Box + 2 Pan,,,,,,,
+66003,Flock 4s-30,47544,2021-006EE,,Payload,5.7,Box + 2 Pan,,,,,,,
+66004,Flock 4s-23,47545,2021-006EF,,Payload,5.7,Box + 2 Pan,,,,,,,
+66005,Cosmos-2549,47546,2021-008A,,Payload,6575,Cyl + 2 Pan,,,,,,,
+66006,Blok-I (Soyuz-2-1B),47547,2021-008B,,Rocket Body,2710,Cyl,3.3,6.7,3.3,,18.668308636051,5.55716324493499,16.7759476905368
+66007,Tongxin Jishu Shiyan 6,47613,2021-010A,,Payload,4000,Box + 2 Pan,,,,,,,
+66008,H-18 (Long March (CZ) YF) (Long March (CZ) 3B),47614,2021-010B,,Rocket Body,2800,Cyl + 1 Nozzle,3,12.83,12.83,,39.1336807913658,7.06858347057703,33.7642670444563
+66009,,,,48800,Unknown,,,,,,,,,
+66010,,,,117700,Unknown,,,,,,,,,
+66011,,,,78828,Unknown,,,,,,,,,
+66012,,,,78544,Unknown,,,,,,,,,
+66013,,,,63509,Unknown,,,,,,,,,
+66014,,,,166901,Unknown,,,,,,,,,
+66015,,,,47703,Unknown,,,,,,,,,
+66016,,,,155803,Unknown,,,,,,,,,
+66017,,,,89500,Unknown,,,,,,,,,
+66018,,,,56605,Unknown,,,,,,,,,
+66019,ARCE 1C,47484,2021-006BZ,,Payload,0.5,Box,,,,,0.0122474487139159,0.005,0.01
+66020,Flock 4s-48,47617,2021-006EJ,,Payload,5.7,Box + 2 Pan,,,,,,,
+66021,ARCE 1B,47615,2021-006EG,,Payload,0.5,Box,,,,,0.0122474487139159,0.005,0.01
+66022,Cosmos-1677 reactor core,,1985-075IA,,Payload Mission Related Object,53,,,,,,,,
+66023,Cosmos-1670 reactor core,,1985-064IA,,Payload Mission Related Object,53,,,,,,,,
+66024,Cosmos-1900 reactor core,,1987-101IA,,Payload Mission Related Object,53,,,,,,,,
+66025,Starlink 2003,47598,2021-009BC,,Payload,260,Box + 1 Pan,,,,,,,
+66026,Starlink 1782,47548,2021-009A,,Payload,260,Box + 1 Pan,,,,,,,
+66027,Starlink 1806,47549,2021-009B,,Payload,260,Box + 1 Pan,,,,,,,
+66028,Starlink 1909,47550,2021-009C,,Payload,260,Box + 1 Pan,,,,,,,
+66029,Starlink 1938,47551,2021-009D,,Payload,260,Box + 1 Pan,,,,,,,
+66030,Starlink 1940,47552,2021-009E,,Payload,260,Box + 1 Pan,,,,,,,
+66031,Starlink 1951,47553,2021-009F,,Payload,260,Box + 1 Pan,,,,,,,
+66032,Starlink 1953,47554,2021-009G,,Payload,260,Box + 1 Pan,,,,,,,
+66033,Starlink 1954,47555,2021-009H,,Payload,260,Box + 1 Pan,,,,,,,
+66034,Starlink 1955,47556,2021-009J,,Payload,260,Box + 1 Pan,,,,,,,
+66035,Starlink 1956,47557,2021-009K,,Payload,260,Box + 1 Pan,,,,,,,
+66036,Starlink 1957,47558,2021-009L,,Payload,260,Box + 1 Pan,,,,,,,
+66037,Starlink 1958,47559,2021-009M,,Payload,260,Box + 1 Pan,,,,,,,
+66038,Starlink 1959,47560,2021-009N,,Payload,260,Box + 1 Pan,,,,,,,
+66039,Starlink 1960,47561,2021-009P,,Payload,260,Box + 1 Pan,,,,,,,
+66040,Starlink 1961,47562,2021-009Q,,Payload,260,Box + 1 Pan,,,,,,,
+66041,Starlink 1962,47563,2021-009R,,Payload,260,Box + 1 Pan,,,,,,,
+66042,Starlink 1963,47564,2021-009S,,Payload,260,Box + 1 Pan,,,,,,,
+66043,Starlink 1964,47565,2021-009T,,Payload,260,Box + 1 Pan,,,,,,,
+66044,Starlink 1965,47566,2021-009U,,Payload,260,Box + 1 Pan,,,,,,,
+66045,Starlink 1966,47567,2021-009V,,Payload,260,Box + 1 Pan,,,,,,,
+66046,Starlink 1967,47568,2021-009W,,Payload,260,Box + 1 Pan,,,,,,,
+66047,Starlink 1968,47569,2021-009X,,Payload,260,Box + 1 Pan,,,,,,,
+66048,Starlink 1969,47570,2021-009Y,,Payload,260,Box + 1 Pan,,,,,,,
+66049,Starlink 1970,47571,2021-009Z,,Payload,260,Box + 1 Pan,,,,,,,
+66050,Starlink 1971,47572,2021-009AA,,Payload,260,Box + 1 Pan,,,,,,,
+66051,Starlink 1975,47573,2021-009AB,,Payload,260,Box + 1 Pan,,,,,,,
+66052,Starlink 1976,47574,2021-009AC,,Payload,260,Box + 1 Pan,,,,,,,
+66053,Starlink 1977,47575,2021-009AD,,Payload,260,Box + 1 Pan,,,,,,,
+66054,Starlink 1978,47576,2021-009AE,,Payload,260,Box + 1 Pan,,,,,,,
+66055,Starlink 1979,47577,2021-009AF,,Payload,260,Box + 1 Pan,,,,,,,
+66056,Starlink 1980,47578,2021-009AG,,Payload,260,Box + 1 Pan,,,,,,,
+66057,Starlink 1981,47579,2021-009AH,,Payload,260,Box + 1 Pan,,,,,,,
+66058,Starlink 1982,47580,2021-009AJ,,Payload,260,Box + 1 Pan,,,,,,,
+66059,Starlink 1984,47581,2021-009AK,,Payload,260,Box + 1 Pan,,,,,,,
+66060,Starlink 1986,47582,2021-009AL,,Payload,260,Box + 1 Pan,,,,,,,
+66061,Starlink 1987,47583,2021-009AM,,Payload,260,Box + 1 Pan,,,,,,,
+66062,Starlink 1988,47584,2021-009AN,,Payload,260,Box + 1 Pan,,,,,,,
+66063,Starlink 1989,47585,2021-009AP,,Payload,260,Box + 1 Pan,,,,,,,
+66064,Starlink 1990,47586,2021-009AQ,,Payload,260,Box + 1 Pan,,,,,,,
+66065,Starlink 1991,47587,2021-009AR,,Payload,260,Box + 1 Pan,,,,,,,
+66066,Starlink 1993,47588,2021-009AS,,Payload,260,Box + 1 Pan,,,,,,,
+66067,Starlink 1994,47589,2021-009AT,,Payload,260,Box + 1 Pan,,,,,,,
+66068,Starlink 1995,47590,2021-009AU,,Payload,260,Box + 1 Pan,,,,,,,
+66069,Starlink 1996,47591,2021-009AV,,Payload,260,Box + 1 Pan,,,,,,,
+66070,Starlink 1997,47592,2021-009AW,,Payload,260,Box + 1 Pan,,,,,,,
+66071,Starlink 1998,47593,2021-009AX,,Payload,260,Box + 1 Pan,,,,,,,
+66072,Starlink 1999,47594,2021-009AY,,Payload,260,Box + 1 Pan,,,,,,,
+66073,Starlink 2000,47595,2021-009AZ,,Payload,260,Box + 1 Pan,,,,,,,
+66074,Starlink 2001,47596,2021-009BA,,Payload,260,Box + 1 Pan,,,,,,,
+66075,Starlink 2002,47597,2021-009BB,,Payload,260,Box + 1 Pan,,,,,,,
+66076,Starlink 2004,47599,2021-009BD,,Payload,260,Box + 1 Pan,,,,,,,
+66077,Starlink 2005,47600,2021-009BE,,Payload,260,Box + 1 Pan,,,,,,,
+66078,Starlink 2006,47601,2021-009BF,,Payload,260,Box + 1 Pan,,,,,,,
+66079,Starlink 2007,47602,2021-009BG,,Payload,260,Box + 1 Pan,,,,,,,
+66080,Starlink 2008,47603,2021-009BH,,Payload,260,Box + 1 Pan,,,,,,,
+66081,Starlink 2021,47604,2021-009BJ,,Payload,260,Box + 1 Pan,,,,,,,
+66082,Starlink 2023,47605,2021-009BK,,Payload,260,Box + 1 Pan,,,,,,,
+66083,Starlink 2024,47606,2021-009BL,,Payload,260,Box + 1 Pan,,,,,,,
+66084,Starlink 2025,47607,2021-009BM,,Payload,260,Box + 1 Pan,,,,,,,
+66085,,47608,2021-009BN,,Unknown,,,,,,,,,
+66086,,47609,2021-009BP,,Unknown,,,,,,,,,
+66087,,47610,2021-009BQ,,Unknown,,,,,,,,,
+66088,,47611,2021-009BR,,Unknown,,,,,,,,,
+66099,,,,44003,Unknown,,,,,,,,,
+66100,,,,84106,Unknown,,,,,,,,,
+66101,,,,148108,Unknown,,,,,,,,,
+66102,,,,71213,Unknown,,,,,,,,,
+66103,,,,33009,Unknown,,,,,,,,,
+66104,,,,56502,Unknown,,,,,,,,,
+66106,Progress MS-16,47618,2021-011A,,Payload,7420,Cyl + Sphere + Cone + 2 Pan,,,,,,,
+66108,Blok-I (Soyuz-2-1A),47619,2021-011B,,Rocket Body,2350,Cyl,2.7,6.7,6.7,17/02/2021,24.5506163444191,5.55716324493499,21.560122063056
+66109,Flock 4s-47,47685,2021-006EL,,Payload,5.7,Box + 2 Pan,,,,,,,
+66110,Flock 4s-46,47684,2021-006EK,,Payload,5.7,Box + 2 Pan,,,,,,,
+66117,Flock 4s-45,47688,2021-006EP,,Payload,5.7,Box + 2 Pan,,,,,,,
+66118,Flock 4s-44,47686,2021-006EM,,Payload,5.7,Box + 2 Pan,,,,,,,
+66119,Flock 4s-43,47687,2021-006EN,,Payload,5.7,Box + 2 Pan,,,,,,,
+66124,,,,59403,Unknown,,,,,,,,,
+66125,Antares second stage (Castor 30XL) (Antares 230),47690,2021-013B,,Rocket Body,1185,Cyl,3.9,3.1,3.9,01/03/2021,16.9962575798432,11.9459060652752,15.4684168281127
+66126,Cygnus CRS-15,47689,2021-013A,,Payload,8050,Cyl + 2 Pan,,,,,,,
+66127,Starlink 1528,47620,2021-012A,,Payload,260,Box + 1 Pan,,,,,,,
+66128,Starlink 1609,47621,2021-012B,,Payload,260,Box + 1 Pan,,,,,,,
+66129,Starlink 1645,47622,2021-012C,,Payload,260,Box + 1 Pan,,,,,,,
+66130,Starlink 1655,47623,2021-012D,,Payload,260,Box + 1 Pan,,,,,,,
+66131,Starlink 1669,47624,2021-012E,,Payload,260,Box + 1 Pan,,,,,,,
+66132,Starlink 1704,47625,2021-012F,,Payload,260,Box + 1 Pan,,,,,,,
+66133,Starlink 1761,47626,2021-012G,,Payload,260,Box + 1 Pan,,,,,,,
+66134,Starlink 1972,47627,2021-012H,,Payload,260,Box + 1 Pan,,,,,,,
+66135,Starlink 1973,47628,2021-012J,,Payload,260,Box + 1 Pan,,,,,,,
+66136,Starlink 1974,47629,2021-012K,,Payload,260,Box + 1 Pan,,,,,,,
+66137,Starlink 1983,47630,2021-012L,,Payload,260,Box + 1 Pan,,,,,,,
+66138,Starlink 1985,47631,2021-012M,,Payload,260,Box + 1 Pan,,,,,,,
+66139,Starlink 1992,47632,2021-012N,,Payload,260,Box + 1 Pan,,,,,,,
+66140,Starlink 2009,47633,2021-012P,,Payload,260,Box + 1 Pan,,,,,,,
+66141,Starlink 2010,47634,2021-012Q,,Payload,260,Box + 1 Pan,,,,,,,
+66142,Starlink 2012,47635,2021-012R,,Payload,260,Box + 1 Pan,,,,,,,
+66143,Starlink 2013,47636,2021-012S,,Payload,260,Box + 1 Pan,,,,,,,
+66144,Starlink 2014,47637,2021-012T,,Payload,260,Box + 1 Pan,,,,,,,
+66145,Starlink 2015,47638,2021-012U,,Payload,260,Box + 1 Pan,,,,,,,
+66146,Starlink 2016,47639,2021-012V,,Payload,260,Box + 1 Pan,,,,,,,
+66147,Starlink 2018,47640,2021-012W,,Payload,260,Box + 1 Pan,,,,,,,
+66148,Starlink 2019,47641,2021-012X,,Payload,260,Box + 1 Pan,,,,,,,
+66149,Starlink 2020,47642,2021-012Y,,Payload,260,Box + 1 Pan,,,,,,,
+66150,Starlink 2022,47643,2021-012Z,,Payload,260,Box + 1 Pan,,,,,,,
+66151,Starlink 2026,47644,2021-012AA,,Payload,260,Box + 1 Pan,,,,,,,
+66152,Starlink 2027,47645,2021-012AB,,Payload,260,Box + 1 Pan,,,,,,,
+66153,Starlink 2028,47646,2021-012AC,,Payload,260,Box + 1 Pan,,,,,,,
+66154,Starlink 2030,47647,2021-012AD,,Payload,260,Box + 1 Pan,,,,,,,
+66155,Starlink 2031,47648,2021-012AE,,Payload,260,Box + 1 Pan,,,,,,,
+66156,Starlink 2032,47649,2021-012AF,,Payload,260,Box + 1 Pan,,,,,,,
+66157,Starlink 2033,47650,2021-012AG,,Payload,260,Box + 1 Pan,,,,,,,
+66158,Starlink 2035,47651,2021-012AH,,Payload,260,Box + 1 Pan,,,,,,,
+66159,Starlink 2036,47652,2021-012AJ,,Payload,260,Box + 1 Pan,,,,,,,
+66160,Starlink 2037,47653,2021-012AK,,Payload,260,Box + 1 Pan,,,,,,,
+66161,Starlink 2038,47654,2021-012AL,,Payload,260,Box + 1 Pan,,,,,,,
+66162,Starlink 2039,47655,2021-012AM,,Payload,260,Box + 1 Pan,,,,,,,
+66163,Starlink 2040,47656,2021-012AN,,Payload,260,Box + 1 Pan,,,,,,,
+66164,Starlink 2041,47657,2021-012AP,,Payload,260,Box + 1 Pan,,,,,,,
+66165,Starlink 2042,47658,2021-012AQ,,Payload,260,Box + 1 Pan,,,,,,,
+66166,Starlink 2043,47659,2021-012AR,,Payload,260,Box + 1 Pan,,,,,,,
+66167,Starlink 2044,47660,2021-012AS,,Payload,260,Box + 1 Pan,,,,,,,
+66168,Starlink 2051,47661,2021-012AT,,Payload,260,Box + 1 Pan,,,,,,,
+66169,Starlink 2052,47662,2021-012AU,,Payload,260,Box + 1 Pan,,,,,,,
+66170,Starlink 2053,47663,2021-012AV,,Payload,260,Box + 1 Pan,,,,,,,
+66171,Starlink 2054,47664,2021-012AW,,Payload,260,Box + 1 Pan,,,,,,,
+66172,Starlink 2056,47665,2021-012AX,,Payload,260,Box + 1 Pan,,,,,,,
+66173,Starlink 2057,47666,2021-012AY,,Payload,260,Box + 1 Pan,,,,,,,
+66174,Starlink 2058,47667,2021-012AZ,,Payload,260,Box + 1 Pan,,,,,,,
+66175,Starlink 2059,47668,2021-012BA,,Payload,260,Box + 1 Pan,,,,,,,
+66176,Starlink 2060,47669,2021-012BB,,Payload,260,Box + 1 Pan,,,,,,,
+66177,Starlink 2062,47670,2021-012BC,,Payload,260,Box + 1 Pan,,,,,,,
+66178,Starlink 2064,47671,2021-012BD,,Payload,260,Box + 1 Pan,,,,,,,
+66179,Starlink 2065,47672,2021-012BE,,Payload,260,Box + 1 Pan,,,,,,,
+66180,Starlink 2066,47673,2021-012BF,,Payload,260,Box + 1 Pan,,,,,,,
+66181,Starlink 2067,47674,2021-012BG,,Payload,260,Box + 1 Pan,,,,,,,
+66182,Starlink 2078,47675,2021-012BH,,Payload,260,Box + 1 Pan,,,,,,,
+66183,Starlink 2083,47676,2021-012BJ,,Payload,260,Box + 1 Pan,,,,,,,
+66184,Starlink 2090,47677,2021-012BK,,Payload,260,Box + 1 Pan,,,,,,,
+66185,Starlink 2091,47678,2021-012BL,,Payload,260,Box + 1 Pan,,,,,,,
+66186,Starlink 2095,47679,2021-012BM,,Payload,260,Box + 1 Pan,,,,,,,
+66187,Starlink operational debris (deployment rail),47680,2021-012BN,,Rocket Mission Related Object,5,Cyl,,,,14/03/2021,0.140000352485428,0.000314159265358979,0.110112822508322
+66188,Starlink operational debris (deployment rail),47681,2021-012BP,,Rocket Mission Related Object,5,Cyl,,,,14/03/2021,0.140000352485428,0.000314159265358979,0.110112822508322
+66189,Starlink operational debris (deployment rail),47682,2021-012BQ,,Rocket Mission Related Object,5,Cyl,,,,13/03/2021,0.140000352485428,0.000314159265358979,0.110112822508322
+66190,Starlink operational debris (deployment rail),47683,2021-012BR,,Rocket Mission Related Object,5,Cyl,,,,11/03/2021,0.140000352485428,0.000314159265358979,0.110112822508322
+66191,Flock 4s-42,47612,2021-006EQ,,Payload,5.7,Box + 2 Pan,,,,,,,
+66192,Yaogan Weixing 31-03-01,47691,2021-014A,,Payload,500,Box + 2 Pan,,,,,,,
+66193,CZ-4C operational debris (adapter),47692,2021-014B,,Rocket Mission Related Object,,,,,,,,,
+66194,Yaogan Weixing 31-03-02,47693,2021-014C,,Payload,500,Box + 2 Pan,,,,,,,
+66195,CZ-4C operational debris (adapter),47694,2021-014D,,Rocket Mission Related Object,,,,,,,,,
+66196,Yaogan Weixing 31-03-03,47695,2021-014E,,Payload,500,Box + 2 Pan,,,,,,,
+66197,L-14B-res (YF40B-res) (Long March (CZ) 4C),47696,2021-014F,,Rocket Body,1000,Cyl,2.9,1.92,2.9,,8.63893928327101,5.568,7.67569625088326
+66198,Flock 4s-41,47698,2021-006ER,,Payload,5.7,Box + 2 Pan,,,,,,,
+66227,GVM (attached to Briz-M (Angara A5)),47242,2020-097A,,Rocket Body,5600,,,,,,,,
+66229,Elysium Star 2 (attached to LFF),43760,2018-099C,,Payload,421,,,,,,,,
+66231,DOSAAF-85 and Blits-M (attached to Rokot-KM third stage),44909,2019-096E,,Rocket Body,2387,,,,,,,,
+66232,,,,88802,Unknown,,,,,,,,,
+66233,,,,43301,Unknown,,,,,,,,,
+66234,,,,21901,Unknown,,,,,,,,,
+66235,,,,133202,Unknown,,,,,,,,,
+66236,,,,69107,Unknown,,,,,,,,,
+66237,,,,141016,Unknown,,,,,,,,,
+66238,,,,52604,Unknown,,,,,,,,,
+66239,,,,70111,Unknown,,,,,,,,,
+66240,CZ-4C operational debris (sep motor cover),47697,2021-014G,,Rocket Mission Related Object,,,,,,,,,
+66241,Amazonia-1,47699,2021-015A,,Payload,637,Box + 2 Pan,,,,,,,
+66242,PSLV fourth stage (PS4) (PSLV-DL),47700,2021-015B,,Rocket Body,920,Cyl + Cyl + 2 Nozzle,2.83,3.238,3.238,,6.64420543289802,3.46360590058275,6.18501053675491
+66244,ATLAS E/F (Atlas F),,1976-038IA,,Rocket Body,161.55,Cyl,1.65,1.85,1.85,,2.55104830364984,0.18,1.41371669411541
+66246,ATLAS E/F (Atlas F),,1977-112IA,,Rocket Body,161.55,Cyl,1.65,1.85,1.85,,2.55104830364984,0.18,1.41371669411541
+66247,ATLAS E/F (Atlas F),,1980-019IA,,Rocket Body,161.55,Cyl,1.65,1.85,1.85,,2.55104830364984,0.18,1.41371669411541
+66248,ATLAS G/H/I (Atlas H),,1983-008IA,,Rocket Body,20,Cyl,3.1,22.2,22.2,,69.2326499441421,7.54767635024948,57.8249397801371
+66249,ATLAS G/H/I (Atlas H),,1983-056IA,,Rocket Body,20,Cyl,3.1,22.2,22.2,,69.2326499441421,7.54767635024948,57.8249397801371
+66251,ATLAS G/H/I (Atlas H),,1984-012IA,,Rocket Body,20,Cyl,3.1,22.2,22.2,,69.2326499441421,7.54767635024948,57.8249397801371
+66253,ATLAS G/H/I (Atlas H),,1986-014IA,,Rocket Body,20,Cyl,3.1,22.2,22.2,,69.2326499441421,7.54767635024948,57.8249397801371
+66254,SAI-1 NanoConnect-2,47701,2021-015C,,Payload,2,Box,,,,,0.07,0.02,0.055
+66255,Sindhu Netra,47702,2021-015D,,Payload,10,Box,,,,,0.155884572681199,0.09,0.135
+66256,UNITYSat 1,47721,2021-015V,,Payload,0.25,Box,,,,,0.0106066017177982,0.0025,0.0075
+66257,UNITYSat 2,47718,2021-015U,,Payload,0.25,Box,,,,,0.0106066017177982,0.0025,0.0075
+66258,UNITYSat 3,47717,2021-015T,,Payload,0.25,Box,,,,,0.0106066017177982,0.0025,0.0075
+66259,PSLV operational debris,47716,2021-015S,,Rocket Mission Related Object,,,,,,,,,
+66260,SpaceBEE 76,47711,2021-015N,,Payload,0.284,Box + 2 Ant,,,,,,,
+66261,SpaceBEE 77,47714,2021-015Q,,Payload,0.284,Box + 2 Ant,,,,,,,
+66262,SpaceBEE 78,47715,2021-015R,,Payload,0.284,Box + 2 Ant,,,,,,,
+66263,SpaceBEE 79,47712,2021-015P,,Payload,0.284,Box + 2 Ant,,,,,,,
+66264,SpaceBEE 81,47709,2021-015L,,Payload,0.284,Box + 2 Ant,,,,,,,
+66265,Titan IIIC debris (Transtage 8),47713,1965-108DS,,Other Debris,,,,,,,,,
+66266,SpaceBEE 83,47707,2021-015J,,Payload,0.284,Box + 2 Ant,,,,,,,
+66267,SpaceBEE 84,47706,2021-015H,,Payload,0.284,Box + 2 Ant,,,,,0.0910304787693306,0.0025,0.0375
+66268,SpaceBEE 85,47705,2021-015G,,Payload,0.284,Box + 2 Ant,,,,,0.0910304787693306,0.0025,0.0375
+66269,SpaceBEE 86,47704,2021-015F,,Payload,0.284,Box + 2 Ant,,,,,0.0910304787693306,0.0025,0.0375
+66270,SpaceBEE 87,47703,2021-015E,,Payload,0.284,Box + 2 Ant,,,,,0.0910304787693306,0.0025,0.0375
+66271,SpaceBEE 80,47710,2021-015M,,Payload,0.284,Box + 2 Ant,,,,,,,
+66272,SpaceBEE 82,47708,2021-015K,,Payload,,,,,,,,,
+66273,Fregat (Soyuz-2-1B Fregat),47720,2021-016B,,Rocket Body,1000,Cyl,2.7,1.5,6.7,,10.1459119020237,5.025,8.35369121543611
+66274,Arktika M-1,47719,2021-016A,,Payload,2200,Box + 2 Pan,,,,,,,
+66275,,,,133703,Unknown,,,,,,,,,
+66276,,,,45004,Unknown,,,,,,,,,
+66277,,,,154701,Unknown,,,,,,,,,
+66278,,,,64209,Unknown,,,,,,,,,
+66279,,,,54802,Unknown,,,,,,,,,
+66280,,,,55002,Unknown,,,,,,,,,
+66281,,,,132702,Unknown,,,,,,,,,
+66282,,,,143134,Unknown,,,,,,,,,
+66283,,,,64810,Unknown,,,,,,,,,
+66284,,,,143596,Unknown,,,,,,,,,
+66285,,,,130605,Unknown,,,,,,,,,
+66286,,,,45102,Unknown,,,,,,,,,
+66287,,,,141808,Unknown,,,,,,,,,
+66288,,,,71729,Unknown,,,,,,,,,
+66289,,,,149811,Unknown,,,,,,,,,
+66290,,,,62004,Unknown,,,,,,,,,
+66291,,,,140408,Unknown,,,,,,,,,
+66292,,,,129402,Unknown,,,,,,,,,
+66293,,,,51006,Unknown,,,,,,,,,
+66294,,,,63807,Unknown,,,,,,,,,
+66296,Starlink 2068,47722,2021-017A,,Payload,260,Box + 1 Pan,,,,,,,
+66297,Starlink 2107,47723,2021-017B,,Payload,260,Box + 1 Pan,,,,,,,
+66298,Starlink 2116,47724,2021-017C,,Payload,260,Box + 1 Pan,,,,,,,
+66299,Starlink 2125,47725,2021-017D,,Payload,260,Box + 1 Pan,,,,,,,
+66300,Starlink 2126,47726,2021-017E,,Payload,260,Box + 1 Pan,,,,,,,
+66301,Starlink 2129,47727,2021-017F,,Payload,260,Box + 1 Pan,,,,,,,
+66302,Starlink 2131,47728,2021-017G,,Payload,260,Box + 1 Pan,,,,,,,
+66303,Starlink 2132,47729,2021-017H,,Payload,260,Box + 1 Pan,,,,,,,
+66304,Starlink 2140,47730,2021-017J,,Payload,260,Box + 1 Pan,,,,,,,
+66305,Starlink 2141,47731,2021-017K,,Payload,260,Box + 1 Pan,,,,,,,
+66306,Starlink 2142,47732,2021-017L,,Payload,260,Box + 1 Pan,,,,,,,
+66307,Starlink 2143,47733,2021-017M,,Payload,260,Box + 1 Pan,,,,,,,
+66308,Starlink 2144,47734,2021-017N,,Payload,260,Box + 1 Pan,,,,,,,
+66309,Starlink 2146,47735,2021-017P,,Payload,260,Box + 1 Pan,,,,,,,
+66310,Starlink 2147,47736,2021-017Q,,Payload,260,Box + 1 Pan,,,,,,,
+66311,Starlink 2148,47737,2021-017R,,Payload,260,Box + 1 Pan,,,,,,,
+66312,Starlink 2149,47738,2021-017S,,Payload,260,Box + 1 Pan,,,,,,,
+66313,Starlink 2150,47739,2021-017T,,Payload,260,Box + 1 Pan,,,,,,,
+66314,Starlink 2152,47740,2021-017U,,Payload,260,Box + 1 Pan,,,,,,,
+66315,Starlink 2154,47741,2021-017V,,Payload,260,Box + 1 Pan,,,,,,,
+66316,Starlink 2156,47742,2021-017W,,Payload,260,Box + 1 Pan,,,,,,,
+66317,Starlink 2157,47743,2021-017X,,Payload,260,Box + 1 Pan,,,,,,,
+66318,Starlink 2158,47744,2021-017Y,,Payload,260,Box + 1 Pan,,,,,,,
+66319,Starlink 2159,47745,2021-017Z,,Payload,260,Box + 1 Pan,,,,,,,
+66320,Starlink 2160,47746,2021-017AA,,Payload,260,Box + 1 Pan,,,,,,,
+66321,Starlink 2161,47747,2021-017AB,,Payload,260,Box + 1 Pan,,,,,,,
+66322,Starlink 2162,47748,2021-017AC,,Payload,260,Box + 1 Pan,,,,,,,
+66323,Starlink 2163,47749,2021-017AD,,Payload,260,Box + 1 Pan,,,,,,,
+66324,Starlink 2164,47750,2021-017AE,,Payload,260,Box + 1 Pan,,,,,,,
+66325,Starlink 2168,47751,2021-017AF,,Payload,260,Box + 1 Pan,,,,,,,
+66326,Starlink 2169,47752,2021-017AG,,Payload,260,Box + 1 Pan,,,,,,,
+66327,Starlink 2170,47753,2021-017AH,,Payload,260,Box + 1 Pan,,,,,,,
+66328,Starlink 2171,47754,2021-017AJ,,Payload,260,Box + 1 Pan,,,,,,,
+66329,Starlink 2172,47755,2021-017AK,,Payload,260,Box + 1 Pan,,,,,,,
+66330,Starlink 2174,47756,2021-017AL,,Payload,260,Box + 1 Pan,,,,,,,
+66331,Starlink 2175,47757,2021-017AM,,Payload,260,Box + 1 Pan,,,,,,,
+66332,Starlink 2176,47758,2021-017AN,,Payload,260,Box + 1 Pan,,,,,,,
+66333,Starlink 2177,47759,2021-017AP,,Payload,260,Box + 1 Pan,,,,,,,
+66334,Starlink 2178,47760,2021-017AQ,,Payload,260,Box + 1 Pan,,,,,,,
+66335,Starlink 2179,47761,2021-017AR,,Payload,260,Box + 1 Pan,,,,,,,
+66336,Starlink 2180,47762,2021-017AS,,Payload,260,Box + 1 Pan,,,,,,,
+66337,Starlink 2181,47763,2021-017AT,,Payload,260,Box + 1 Pan,,,,,,,
+66338,Starlink 2182,47764,2021-017AU,,Payload,260,Box + 1 Pan,,,,,,,
+66339,Starlink 2183,47765,2021-017AV,,Payload,260,Box + 1 Pan,,,,,,,
+66340,Starlink 2184,47766,2021-017AW,,Payload,260,Box + 1 Pan,,,,,,,
+66341,Starlink 2185,47767,2021-017AX,,Payload,260,Box + 1 Pan,,,,,,,
+66342,Starlink 2189,47768,2021-017AY,,Payload,260,Box + 1 Pan,,,,,,,
+66343,Starlink 2192,47769,2021-017AZ,,Payload,260,Box + 1 Pan,,,,,,,
+66344,Starlink 2193,47770,2021-017BA,,Payload,260,Box + 1 Pan,,,,,,,
+66345,Starlink 2194,47771,2021-017BB,,Payload,260,Box + 1 Pan,,,,,,,
+66346,Starlink 2195,47772,2021-017BC,,Payload,260,Box + 1 Pan,,,,,,,
+66347,Starlink 2196,47773,2021-017BD,,Payload,260,Box + 1 Pan,,,,,,,
+66348,Starlink 2197,47774,2021-017BE,,Payload,260,Box + 1 Pan,,,,,,,
+66349,Starlink 2198,47775,2021-017BF,,Payload,260,Box + 1 Pan,,,,,,,
+66350,Starlink 2209,47776,2021-017BG,,Payload,260,Box + 1 Pan,,,,,,,
+66351,Starlink 2210,47777,2021-017BH,,Payload,260,Box + 1 Pan,,,,,,,
+66352,Starlink 2211,47778,2021-017BJ,,Payload,260,Box + 1 Pan,,,,,,,
+66353,Starlink 2212,47779,2021-017BK,,Payload,260,Box + 1 Pan,,,,,,,
+66354,Starlink 2213,47780,2021-017BL,,Payload,260,Box + 1 Pan,,,,,,,
+66355,Starlink 2223,47781,2021-017BM,,Payload,260,Box + 1 Pan,,,,,,,
+66356,Starlink operational debris (deployment rail),47786,2021-017BS,,Rocket Mission Related Object,5,Cyl,,,,29/03/2021,0.140000352485428,0.000314159265358979,0.110112822508322
+66357,Starlink operational debris (deployment rail),47783,2021-017BP,,Rocket Mission Related Object,5,Cyl,,,,30/03/2021,0.140000352485428,0.000314159265358979,0.110112822508322
+66358,Starlink operational debris (deployment rail),47784,2021-017BQ,,Rocket Mission Related Object,5,Cyl,,,,04/04/2021,0.140000352485428,0.000314159265358979,0.110112822508322
+66359,Starlink operational debris (deployment rail),47785,2021-017BR,,Rocket Mission Related Object,5,Cyl,,,,29/03/2021,0.140000352485428,0.000314159265358979,0.110112822508322
+66361,Shiyan 9,47851,2021-019A,,Payload,5000,Box + 2 Pan,,,,,37.4436422421467,9,24.336
+66362,H-18 (Long March (CZ) YF) (Long March (CZ) 7A),47852,2021-019B,,Rocket Body,2800,Cyl + 1 Nozzle,3,12.83,12.83,,39.1336807913658,7.06858347057703,33.7642670444563
+66363,ISS operational debris (HTV-9 Exposed Pallet EP-9),47853,1998-067RZ,,Other Mission Related Object,2633,Poly,,,,,16.2480768092719,1.5707963267949,8.30995329913909
+66364,,,,54803,Unknown,,,,,,,,,
+66365,,,,18201,Unknown,,,,,,,,,
+66366,,,,48602,Unknown,,,,,,,,,
+66367,,,,31201,Unknown,,,,,,,,,
+66368,,,,62307,Unknown,,,,,,,,,
+66369,,,,67308,Unknown,,,,,,,,,
+66370,,,,75116,Unknown,,,,,,,,,
+66371,,,,68910,Unknown,,,,,,,,,
+66372,,,,115703,Unknown,,,,,,,,,
+66373,,,,14905,Unknown,,,,,,,,,
+66374,,,,64509,Unknown,,,,,,,,,
+66375,Yaogan Weixing 31-04-01,47854,2021-020A,,Payload,500,Box + 2 Pan,,,,,0.633235078264092,0.25,0.446
+66376,Yaogan Weixing 31 operational debris (adapter),47855,2021-020B,,Rocket Mission Related Object,,,,,,,,,
+66377,Yaogan Weixing 31-04-02,47856,2021-020C,,Payload,500,Box + 2 Pan,,,,,0.633235078264092,0.25,0.446
+66378,Yaogan Weixing 31-04-03,47857,2021-020D,,Payload,500,Box + 2 Pan,,,,,0.633235078264092,0.25,0.446
+66379,L-14B-res (YF40B-res) (Long March (CZ) 4C),47858,2021-020E,,Rocket Body,1000,Cyl,2.9,1.92,2.9,,8.63893928327101,5.568,7.67569625088326
+66380,Yaogan Weixing 31 operational debris (adapter),47859,2021-020F,,Rocket Mission Related Object,,,,,,,,,
+66381,Starlink 2257,47787,2021-018A,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66382,Starlink 2314,47788,2021-018B,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66383,Starlink 2315,47789,2021-018C,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66384,Starlink 2319,47790,2021-018D,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66385,Starlink 2322,47791,2021-018E,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66386,Starlink 2334,47792,2021-018F,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66387,Starlink 2338,47793,2021-018G,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66388,Starlink 2341,47794,2021-018H,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66389,Starlink 2347,47795,2021-018J,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66390,Starlink 2373,47796,2021-018K,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66391,Starlink 2377,47797,2021-018L,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66392,Starlink 2379,47798,2021-018M,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66393,Starlink 2380,47799,2021-018N,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66394,Starlink 2381,47800,2021-018P,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66395,Starlink 2382,47801,2021-018Q,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66396,Starlink 2383,47802,2021-018R,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66397,Starlink 2384,47803,2021-018S,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66398,Starlink 2385,47804,2021-018T,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66399,Starlink 2386,47805,2021-018U,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66400,Starlink 2387,47806,2021-018V,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66401,Starlink 2388,47807,2021-018W,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66402,Starlink 2389,47808,2021-018X,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66403,Starlink 2390,47809,2021-018Y,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66404,Starlink 2391,47810,2021-018Z,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66405,Starlink 2392,47811,2021-018AA,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66406,Starlink 2393,47812,2021-018AB,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66407,Starlink 2394,47813,2021-018AC,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66408,Starlink 2395,47814,2021-018AD,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66409,Starlink 2396,47815,2021-018AE,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66410,Starlink 2399,47816,2021-018AF,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66411,Starlink 2400,47817,2021-018AG,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66412,Starlink 2401,47818,2021-018AH,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66413,Starlink 2402,47819,2021-018AJ,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66414,Starlink 2403,47820,2021-018AK,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66415,Starlink 2406,47821,2021-018AL,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66416,Starlink 2407,47822,2021-018AM,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66417,Starlink 2408,47823,2021-018AN,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66418,Starlink 2409,47824,2021-018AP,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66419,Starlink 2410,47825,2021-018AQ,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66420,Starlink 2411,47826,2021-018AR,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66421,Starlink 2413,47827,2021-018AS,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66422,Starlink 2415,47828,2021-018AT,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66423,Starlink 2416,47829,2021-018AU,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66424,Starlink 2419,47830,2021-018AV,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66425,Starlink 2420,47831,2021-018AW,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66426,Starlink 2422,47832,2021-018AX,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66427,Starlink 2423,47833,2021-018AY,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66428,Starlink 2424,47834,2021-018AZ,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66429,Starlink 2425,47835,2021-018BA,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66430,Starlink 2426,47836,2021-018BB,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66431,Starlink 2427,47837,2021-018BC,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66432,Starlink 2429,47838,2021-018BD,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66433,Starlink 2431,47839,2021-018BE,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66434,Starlink 2432,47840,2021-018BF,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66435,Starlink 2433,47841,2021-018BG,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66436,Starlink 2434,47842,2021-018BH,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66437,Starlink 2435,47843,2021-018BJ,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66438,Starlink 2453,47845,2021-018BL,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66439,Starlink 2456,47846,2021-018BM,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66440,Starlink operational debris (deployment rail),47847,2021-018BN,,Rocket Mission Related Object,5,Cyl,,,,,0.140000352485428,0.000314159265358979,0.110112822508322
+66441,Starlink operational debris (deployment rail),47848,2021-018BP,,Rocket Mission Related Object,5,Cyl,,,,,0.140000352485428,0.000314159265358979,0.110112822508322
+66442,Starlink operational debris (deployment rail),47849,2021-018BQ,,Rocket Mission Related Object,5,Cyl,,,,,0.140000352485428,0.000314159265358979,0.110112822508322
+66443,Starlink operational debris (deployment rail),47850,2021-018BR,,Other Mission Related Object,5,Cyl,,,,04/04/2021,0.140000352485428,0.000314159265358979,0.110112822508322
+66444,Starlink 2446,47844,2021-018BK,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66470,Maya-2,47924,1998-067SA,,Payload,1,Box,,,,,0.0173205080756888,0.01,0.015
+66471,Selfie-sh,47925,1998-067SB,,Payload,1,Box,,,,,0.0173205080756888,0.01,0.015
+66472,TAU-Sat-1,47926,1998-067SC,,Payload,4,Box,,,,,0.0435889894354067,0.01,0.035
+66473,Tsuru,47927,1998-067SD,,Payload,1,Box,,,,,0.0173205080756888,0.01,0.015
+66474,Sanko,47928,1998-067SE,,Payload,1.4,Box,,,,,0.0173205080756888,0.01,0.015
+66475,Nichirin,47929,1998-067SF,,Payload,1,Box,,,,,0.0173205080756888,0.01,0.015
+66476,GuaraniSat,47931,1998-067SH,,Payload,1,Box,,,,,0.0173205080756888,0.01,0.015
+66477,Hirogari,47930,1998-067SG,,Payload,2.368,Box + 1 Truss,,,,,0.03,0.01,0.025
+66478,,,,147009,Unknown,,,,,,,,,
+66479,,,,160904,Unknown,,,,,,,,,
+66480,,,,71916,Unknown,,,,,,,,,
+66481,,,,131804,Unknown,,,,,,,,,
+66482,,,,59901,Unknown,,,,,,,,,
+66486,Starlink 2328,47872,2021-021N,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66487,Starlink 2329,47873,2021-021P,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66488,Starlink 2330,47874,2021-021Q,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66489,Starlink 2331,47875,2021-021R,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66490,Starlink 2332,47876,2021-021S,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66491,Starlink 2333,47877,2021-021T,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66492,Starlink 2335,47878,2021-021U,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66493,Starlink 2336,47879,2021-021V,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66494,Starlink 2337,47880,2021-021W,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66495,Starlink 2339,47881,2021-021X,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66496,Starlink 2340,47882,2021-021Y,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66497,Starlink 2342,47883,2021-021Z,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66498,Starlink 2343,47884,2021-021AA,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66499,Starlink 2344,47885,2021-021AB,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66500,Starlink 2345,47886,2021-021AC,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66501,Starlink 2346,47887,2021-021AD,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66502,Starlink 2348,47888,2021-021AE,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66503,Starlink 2349,47889,2021-021AF,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66504,Starlink 2350,47890,2021-021AG,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66505,Starlink 2351,47891,2021-021AH,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66506,Starlink 2352,47892,2021-021AJ,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66507,Starlink 2353,47893,2021-021AK,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66508,Starlink 2354,47894,2021-021AL,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66509,Starlink 2355,47895,2021-021AM,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66510,Starlink 2356,47896,2021-021AN,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66511,Starlink 2357,47897,2021-021AP,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66512,Starlink 2358,47898,2021-021AQ,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66513,Starlink 2359,47899,2021-021AR,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66514,Starlink 2360,47900,2021-021AS,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66515,Starlink 2361,47901,2021-021AT,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66516,Starlink 2362,47902,2021-021AU,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66517,Starlink 2363,47903,2021-021AV,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66518,Starlink 2364,47904,2021-021AW,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66519,Starlink 2365,47905,2021-021AX,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66520,Starlink 2366,47906,2021-021AY,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66521,Starlink 2367,47907,2021-021AZ,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66522,Starlink 2368,47908,2021-021BA,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66523,Starlink 2369,47909,2021-021BB,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66524,Starlink 2370,47910,2021-021BC,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66525,Starlink 2371,47911,2021-021BD,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66526,Starlink 2372,47912,2021-021BE,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66527,Starlink 2374,47913,2021-021BF,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66528,Starlink 2375,47914,2021-021BG,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66529,Starlink 2376,47915,2021-021BH,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66530,Starlink 2378,47916,2021-021BJ,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66531,Starlink 2397,47917,2021-021BK,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66532,Starlink 2398,47918,2021-021BL,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66533,Starlink 2405,47919,2021-021BM,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66534,Starlink operational debris (deployment rail),47920,2021-021BN,,Rocket Mission Related Object,5,Cyl,,,,,0.140000352485428,0.000314159265358979,0.110112822508322
+66535,Starlink operational debris (deployment rail),47921,2021-021BP,,Rocket Mission Related Object,5,Cyl,,,,,0.140000352485428,0.000314159265358979,0.110112822508322
+66536,Starlink operational debris (deployment rail),47922,2021-021BQ,,Rocket Mission Related Object,5,Cyl,,,,,0.140000352485428,0.000314159265358979,0.110112822508322
+66537,Starlink operational debris (deployment rail),47923,2021-021BR,,Rocket Mission Related Object,5,Cyl,,,,,0.140000352485428,0.000314159265358979,0.110112822508322
+66538,CAS500-1,47932,2021-022A,,Payload,500,Box + 4 Pan,,,,,21.0523339513072,3.61,11.5172666666667
+66539,GRUS 1C,47933,2021-022B,,Payload,80,Box,,,,,0.433012701892219,0.25,0.375
+66540,GRUS 1B,47934,2021-022C,,Payload,80,Box,,,,,0.433012701892219,0.25,0.375
+66541,GRUS 1E,47935,2021-022D,,Payload,80,Box,,,,,0.433012701892219,0.25,0.375
+66542,GRUS 1D,47936,2021-022E,,Payload,80,Box,,,,,0.433012701892219,0.25,0.375
+66543,BeeSat 8,47937,2021-022F,,Payload,0.3,Box,,,,,0.0106066017177982,0.0025,0.0075
+66544,Unisat-7,47938,2021-022G,,Payload,32,Poly,,,,,0.433012701892219,0.196349540849362,0.285674770424681
+66545,Starlink 2258,47860,2021-021A,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66546,Starlink 2280,47861,2021-021B,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66547,Starlink 2291,47862,2021-021C,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66548,Starlink 2293,47863,2021-021D,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66549,Starlink 2304,47864,2021-021E,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66550,Starlink 2310,47865,2021-021F,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66551,Starlink 2320,47866,2021-021G,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66552,Starlink 2321,47867,2021-021H,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66553,Starlink 2323,47868,2021-021J,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66554,Starlink 2324,47869,2021-021K,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66555,Starlink 2326,47870,2021-021L,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66556,Starlink 2327,47871,2021-021M,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66557,Najm-1,47939,2021-022H,,Payload,50,Box,,,,,0.230434372436058,0.09,0.195
+66558,DMSat-1,47940,2021-022J,,Payload,15,Box,,,,,0.12,0.04,0.1
+66559,BeeSat 7,47941,2021-022K,,Payload,0.3,Box,,,,,0.0106066017177982,0.0025,0.0075
+66560,Hiber 3,47942,2021-022L,,Payload,4,Box + 2 Pan,,,,,0.0435889894354067,0.01,0.035
+66561,Yunhai 1-02 operational debris,47974,2019-063D,,Payload Mission Related Object,,,,,,,,,
+66562,Yunhai 1-02 operational debris,47975,2019-063E,,Payload Mission Related Object,,,,,,,,,
+66563,Lawkanat 1,47976,1998-067SJ,,Payload,50,Box+ 2 pan,,,,,,,
+66564,NanoSatC-Br 2,47943,2021-022M,,Payload,2,Box,,,,,0.03,0.01,0.025
+66565,ELSA-D,47944,2021-022N,,Payload,175,Box + 2 Pan,,,,,2.29671668687564,0.36,1.2842
+66566,Canyval-C 1,47945,2021-022P,,Payload,2.7,Box,,,,,0.03,0.01,0.025
+66567,NIU VsHE-DZZ,47946,2021-022Q,,Payload,4,Box,,,,,0.0435889894354067,0.01,0.035
+66568,BeeSat 5,47947,2021-022R,,Payload,0.3,Box,,,,,0.0106066017177982,0.0025,0.0075
+66569,LacunaSat 2b,47948,2021-022S,,Payload,4,Box,,,,,0.0435889894354067,0.01,0.035
+66570,Kepler 7,47949,2021-022T,,Payload,15,Box + 2 Pan,,,,,0.174028262840431,0.04,0.1094
+66571,KMSL,47950,2021-022U,,Payload,3,Box,,,,,0.0435889894354067,0.01,0.035
+66572,Sirius-DZZ,47951,2021-022V,,Payload,4,Box,,,,,0.0435889894354067,0.01,0.035
+66573,SAMSON 2,47952,2021-022W,,Payload,12,Box + 4 Pan,,,,,0.254248210484393,0.04,0.1388
+66574,SAMSON 3,47953,2021-022X,,Payload,12,Box + 4 Pan,,,,,0.254248210484393,0.04,0.1388
+66575,Sateliot 1,47954,2021-022Y,,Payload,4,Box,,,,,0.0435889894354067,0.01,0.035
+66576,Kepler 6,47955,2021-022Z,,Payload,15,Box + 2 Pan,,,,,0.174028262840431,0.04,0.1094
+66577,ChallengeOne,47956,2021-022AA,,Payload,2,Box,,,,,0.03,0.01,0.025
+66578,GRB-Alpha,47957,2021-022AB,,Payload,1,Box,,,,,0.0173205080756888,0.01,0.015
+66580,OneWeb 0115,48042,2021-025A,,Payload,148,Box + 2 Pan,,,,,5.2931349405062,1,2.88533333333333
+66581,OneWeb 0152,48043,2021-025B,,Payload,148,Box + 2 Pan,,,,,5.2931349405062,1,2.88533333333333
+66582,OneWeb 0153,48044,2021-025C,,Payload,148,Box + 2 Pan,,,,,5.2931349405062,1,2.88533333333333
+66583,OneWeb 0154,48045,2021-025D,,Payload,148,Box + 2 Pan,,,,,5.2931349405062,1,2.88533333333333
+66584,OneWeb 0116,48046,2021-025E,,Payload,148,Box + 2 Pan,,,,,5.2931349405062,1,2.88533333333333
+66585,OneWeb 0150,48047,2021-025F,,Payload,148,Box + 2 Pan,,,,,5.2931349405062,1,2.88533333333333
+66586,OneWeb 0107,48048,2021-025G,,Payload,148,Box + 2 Pan,,,,,5.2931349405062,1,2.88533333333333
+66587,OneWeb 0101,48049,2021-025H,,Payload,148,Box + 2 Pan,,,,,5.2931349405062,1,2.88533333333333
+66588,OneWeb 0113,48050,2021-025J,,Payload,148,Box + 2 Pan,,,,,5.2931349405062,1,2.88533333333333
+66589,OneWeb 0112,48051,2021-025K,,Payload,148,Box + 2 Pan,,,,,5.2931349405062,1,2.88533333333333
+66590,OneWeb 0156,48052,2021-025L,,Payload,148,Box + 2 Pan,,,,,5.2931349405062,1,2.88533333333333
+66591,OneWeb 0161,48053,2021-025M,,Payload,148,Box + 2 Pan,,,,,5.2931349405062,1,2.88533333333333
+66592,OneWeb 0158,48054,2021-025N,,Payload,148,Box + 2 Pan,,,,,5.2931349405062,1,2.88533333333333
+66593,OneWeb 0157,48055,2021-025P,,Payload,148,Box + 2 Pan,,,,,5.2931349405062,1,2.88533333333333
+66594,OneWeb 0162,48056,2021-025Q,,Payload,148,Box + 2 Pan,,,,,5.2931349405062,1,2.88533333333333
+66595,OneWeb 0155,48057,2021-025R,,Payload,148,Box + 2 Pan,,,,,5.2931349405062,1,2.88533333333333
+66596,OneWeb 0149,48058,2021-025S,,Payload,148,Box + 2 Pan,,,,,5.2931349405062,1,2.88533333333333
+66597,OneWeb 0148,48059,2021-025T,,Payload,148,Box + 2 Pan,,,,,5.2931349405062,1,2.88533333333333
+66598,OneWeb 0160,48060,2021-025U,,Payload,148,Box + 2 Pan,,,,,5.2931349405062,1,2.88533333333333
+66599,OneWeb 0163,48061,2021-025V,,Payload,148,Box + 2 Pan,,,,,5.2931349405062,1,2.88533333333333
+66600,OneWeb 0159,48062,2021-025W,,Payload,148,Box + 2 Pan,,,,,5.2931349405062,1,2.88533333333333
+66601,OneWeb 0164,48063,2021-025X,,Payload,148,Box + 2 Pan,,,,,5.2931349405062,1,2.88533333333333
+66602,OneWeb 0167,48064,2021-025Y,,Payload,148,Box + 2 Pan,,,,,5.2931349405062,1,2.88533333333333
+66603,OneWeb 0166,48065,2021-025Z,,Payload,148,Box + 2 Pan,,,,,5.2931349405062,1,2.88533333333333
+66604,OneWeb 0151,48066,2021-025AA,,Payload,148,Box + 2 Pan,,,,,5.2931349405062,1,2.88533333333333
+66605,OneWeb 0170,48067,2021-025AB,,Payload,148,Box + 2 Pan,,,,,5.2931349405062,1,2.88533333333333
+66606,OneWeb 0168,48068,2021-025AC,,Payload,148,Box + 2 Pan,,,,,5.2931349405062,1,2.88533333333333
+66607,OneWeb 0173,48069,2021-025AD,,Payload,148,Box + 2 Pan,,,,,5.2931349405062,1,2.88533333333333
+66608,OneWeb 0171,48070,2021-025AE,,Payload,148,Box + 2 Pan,,,,,5.2931349405062,1,2.88533333333333
+66609,OneWeb 0172,48071,2021-025AF,,Payload,148,Box + 2 Pan,,,,,5.2931349405062,1,2.88533333333333
+66610,OneWeb 0174,48072,2021-025AG,,Payload,148,Box + 2 Pan,,,,,5.2931349405062,1,2.88533333333333
+66611,OneWeb 0175,48073,2021-025AH,,Payload,148,Box + 2 Pan,,,,,5.2931349405062,1,2.88533333333333
+66612,OneWeb 0177,48074,2021-025AJ,,Payload,148,Box + 2 Pan,,,,,5.2931349405062,1,2.88533333333333
+66613,OneWeb 0178,48075,2021-025AK,,Payload,148,Box + 2 Pan,,,,,5.2931349405062,1,2.88533333333333
+66614,OneWeb 0108,48076,2021-025AL,,Payload,148,Box + 2 Pan,,,,,5.2931349405062,1,2.88533333333333
+66615,OneWeb 0169,48077,2021-025AM,,Payload,148,Box + 2 Pan,,,,,5.2931349405062,1,2.88533333333333
+66616,Zenit-2 operational debris,48078,1996-051Q,,Rocket Mission Related Object,,,,,,,,,
+66617,,,,145218,Unknown,,,,,,,,,
+66618,,,,148002,Unknown,,,,,,,,,
+66619,,,,143750,Unknown,,,,,,,,,
+66620,,,,142921,Unknown,,,,,,,,,
+66621,,,,78030,Unknown,,,,,,,,,
+66622,,,,58807,Unknown,,,,,,,,,
+66623,,,,143832,Unknown,,,,,,,,,
+66624,1KUNS-3,47958,2021-022AC,,Payload,1,Box,,,,,0.0173205080756888,0.01,0.015
+66625,BeeSat 6,47959,2021-022AD,,Payload,0.3,Box,,,,,0.0106066017177982,0.0025,0.0075
+66626,OrbiKraft-Zorkiy,47960,2021-022AE,,Payload,10,Box + 2 Pan,,,,,0.0435889894354067,0.01,0.035
+66627,KSU-Cubesat,47961,2021-022AF,,Payload,1,Box,,,,,0.0173205080756888,0.01,0.015
+66628,SAMSON 1,47962,2021-022AG,,Payload,12,Box + 4 Pan,,,,,0.254248210484393,0.04,0.1388
+66629,DIY-1,47963,2021-022AH,,Payload,0.2,Box,,,,,0.00433012701892219,0.0025,0.00375
+66630,Smog-1,47964,2021-022AJ,,Payload,0.25,Box,,,,,0.00433012701892219,0.0025,0.00375
+66631,Starlink 2087,47977,2021-024A,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66632,Starlink 1647,47978,2021-024B,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66633,Starlink 2325,47979,2021-024C,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66634,Starlink 2312,47980,2021-024D,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66635,Starlink 2303,47981,2021-024E,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66636,Starlink 2317,47982,2021-024F,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66637,Starlink 2289,47983,2021-024G,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66638,Starlink 2316,47984,2021-024H,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66639,Starlink 2308,47985,2021-024J,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66640,Starlink 2313,47986,2021-024K,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66641,Starlink 2311,47987,2021-024L,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66642,Starlink 2306,47988,2021-024M,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66643,Starlink 2305,47989,2021-024N,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66644,Starlink 2307,47990,2021-024P,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66645,Starlink 2279,47991,2021-024Q,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66646,Starlink 2229,47992,2021-024R,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66647,Starlink 2273,47993,2021-024S,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66648,Starlink 2290,47994,2021-024T,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66649,Starlink 2309,47995,2021-024U,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66650,Starlink 2260,47996,2021-024V,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66651,Starlink 2266,47997,2021-024W,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66652,Starlink 2296,47998,2021-024X,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66653,Starlink 2218,47999,2021-024Y,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66654,Starlink 2270,48000,2021-024Z,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66655,Starlink 2262,48001,2021-024AA,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66656,Starlink 2265,48002,2021-024AB,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66657,Starlink 2263,48003,2021-024AC,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66658,Starlink 2261,48004,2021-024AD,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66659,Starlink 2254,48005,2021-024AE,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66660,Starlink 2277,48006,2021-024AF,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66661,Starlink 2259,48007,2021-024AG,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66662,Starlink 2271,48008,2021-024AH,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66663,Starlink 2153,48009,2021-024AJ,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66664,Starlink 2226,48010,2021-024AK,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66665,Starlink 2272,48011,2021-024AL,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66666,Starlink 2216,48012,2021-024AM,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66667,Starlink 2243,48013,2021-024AN,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66668,Starlink 2283,48014,2021-024AP,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66669,Starlink 2281,48015,2021-024AQ,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66670,Starlink 2284,48016,2021-024AR,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66671,Starlink 2239,48017,2021-024AS,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66672,Starlink 2282,48018,2021-024AT,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66673,Starlink 2285,48019,2021-024AU,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66674,Starlink 2294,48020,2021-024AV,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66675,Starlink 2301,48021,2021-024AW,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66676,Starlink 2298,48022,2021-024AX,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66677,Starlink 2292,48023,2021-024AY,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66678,Starlink 2302,48024,2021-024AZ,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66679,Starlink 2318,48025,2021-024BA,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66680,Starlink 2278,48026,2021-024BB,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66681,Starlink 2300,48027,2021-024BC,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66682,Starlink 2264,48028,2021-024BD,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66683,Starlink 2299,48029,2021-024BE,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66684,Starlink 2268,48030,2021-024BF,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66685,Starlink 2267,48031,2021-024BG,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66686,Starlink 2297,48032,2021-024BH,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66687,Starlink 2286,48033,2021-024BJ,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66688,Starlink 2288,48034,2021-024BK,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66689,Starlink 2287,48035,2021-024BL,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66690,Starlink 2295,48036,2021-024BM,,Payload,260,Box + 1 Pan,,,,,27.5921076312379,0.56,11.0874666666667
+66691,Starlink operational debris (deployment rail),48037,2021-024BN,,Rocket Mission Related Object,5,Cyl,,,,,0.140000352485428,0.000314159265358979,0.110112822508322
+66692,Starlink operational debris (deployment rail),48038,2021-024BP,,Rocket Mission Related Object,5,Cyl,,,,,0.140000352485428,0.000314159265358979,0.110112822508322
+66693,Starlink operational debris (deployment rail),48039,2021-024BQ,,Rocket Mission Related Object,5,Cyl,,,,,0.140000352485428,0.000314159265358979,0.110112822508322
+66694,Starlink operational debris (deployment rail),48040,2021-024BR,,Rocket Mission Related Object,5,Cyl,,,,,0.140000352485428,0.000314159265358979,0.110112822508322
+66695,Gaofen 12-02,48079,2021-026A,,Payload,3000,Box + 3 Pan,,,,,21.3285644757443,4,10.846
+66696,L-14B-res (YF40B-res) (Long March (CZ) 4C),48080,2021-026B,,Rocket Body,1000,Cyl,2.9,1.92,2.9,,8.63893928327101,5.568,7.67569625088326
+66697,CZ-4C operational debris (sep motor cover),48081,2021-026C,,Rocket Mission Related Object,,,,,,,,,
+66698,FEES,48041,2021-022AK,,Payload,0.3,Box,,,,,0.0108627804912002,0.003,0.008
+66699,BCCSAT-1,48082,2021-022AL,,Payload,1,Box,,,,,0.0173205080756888,0.01,0.015
+66700,,,,139408,Unknown,,,,,,,,,
+66701,,,,127004,Unknown,,,,,,,,,
+66702,,,,126302,Unknown,,,,,,,,,
+66703,,,,64606,Unknown,,,,,,,,,
+66704,,,,117602,Unknown,,,,,,,,,
+66705,,,,130406,Unknown,,,,,,,,,
+66706,,,,139816,Unknown,,,,,,,,,
+66707,,,,65004,Unknown,,,,,,,,,
+66708,,,,66609,Unknown,,,,,,,,,
+66709,,,,62005,Unknown,,,,,,,,,
+66710,,,,136505,Unknown,,,,,,,,,
+66711,STECCO,48083,2021-022AM,,Payload,1,Box,,,,,0.0234680634054027,0.0025,0.01775
+66712,Soyuz-2-1A operational debris,48084,2021-022AN,,Rocket Mission Related Object,,,,,,,,,
+66713,Soyuz-2-1A operational debris,48085,2021-022AP,,Rocket Mission Related Object,,,,,,,,,
+66714,,48086,1973-086JG,,Unknown,,,,,,,,,
+66715,,48087,1975-052MX,,Unknown,,,,,,,,,
+66716,,48088,1976-077GT,,Unknown,,,,,,,,,
+66717,,48089,1977-047T,,Unknown,,,,,,,,,
+66718,,48090,1978-066J,,Unknown,,,,,,,,,
+66719,,48091,1979-058Y,,Unknown,,,,,,,,,
+66720,,48156,2019-022P,,Unknown,,,,,,,,,
+66721,,48160,2021-029B,,Unknown,,,,,,,,,
+66722,,48159,2021-029A,,Unknown,,,,,,,,,
+66723,,48157,2021-028A,,Unknown,,,,,,,,,
+66724,,48158,2021-028B,,Unknown,,,,,,,,,
+66725,,,,155904,Unknown,,,,,,,,,
+66726,,,,61506,Unknown,,,,,,,,,
+66727,,,,138709,Unknown,,,,,,,,,
+66728,,,,145622,Unknown,,,,,,,,,
+66729,,,,137113,Unknown,,,,,,,,,
+66730,,,,63710,Unknown,,,,,,,,,
+66731,,,,52004,Unknown,,,,,,,,,
+66732,,,,131302,Unknown,,,,,,,,,
+66733,,,,128104,Unknown,,,,,,,,,
+66734,,,,59504,Unknown,,,,,,,,,
+66735,,,,71608,Unknown,,,,,,,,,
+66736,Falcon 9 Merlin-V (1D+) (Falcon 9 v1.2),,2021-006IA,,Rocket Body,4300,Cyl,3.6,16,16,,58.4924538651002,10.1787601976309,50.3283143105085
+66737,Falcon 9 Merlin-V (1D+) (Falcon 9 v1.2),,2021-012IA,,Rocket Body,4300,Cyl,3.6,16,16,,58.4924538651002,10.1787601976309,50.3283143105085
+66738,Falcon 9 Merlin-V (1D+) (Falcon 9 v1.2),47782,2021-017BN,,Rocket Body,4300,Cyl,3.6,16,16,26/03/2021,58.4924538651002,10.1787601976309,50.3283143105085
+66739,,48128,2021-027AN,,Unknown,,,,,,,,,
+66740,,48129,2021-027AP,,Unknown,,,,,,,,,
+66741,,48130,2021-027AQ,,Unknown,,,,,,,,,
+66742,,48131,2021-027AR,,Unknown,,,,,,,,,
+66743,,48132,2021-027AS,,Unknown,,,,,,,,,
+66744,,48133,2021-027AT,,Unknown,,,,,,,,,
+66745,,48134,2021-027AU,,Unknown,,,,,,,,,
+66746,,48135,2021-027AV,,Unknown,,,,,,,,,
+66747,,48136,2021-027AW,,Unknown,,,,,,,,,
+66748,,48137,2021-027AX,,Unknown,,,,,,,,,
+66749,,48138,2021-027AY,,Unknown,,,,,,,,,
+66750,,48139,2021-027AZ,,Unknown,,,,,,,,,
+66751,,48140,2021-027BA,,Unknown,,,,,,,,,
+66752,,48141,2021-027BB,,Unknown,,,,,,,,,
+66753,,48142,2021-027BC,,Unknown,,,,,,,,,
+66754,,48143,2021-027BD,,Unknown,,,,,,,,,
+66755,,48144,2021-027BE,,Unknown,,,,,,,,,
+66756,,48145,2021-027BF,,Unknown,,,,,,,,,
+66757,,48146,2021-027BG,,Unknown,,,,,,,,,
+66758,,48147,2021-027BH,,Unknown,,,,,,,,,
+66759,,48148,2021-027BJ,,Unknown,,,,,,,,,
+66760,,48149,2021-027BK,,Unknown,,,,,,,,,
+66761,,48150,2021-027BL,,Unknown,,,,,,,,,
+66762,,48151,2021-027BM,,Unknown,,,,,,,,,
+66763,,48152,2021-027BN,,Unknown,,,,,,,,,
+66764,,48153,2021-027BP,,Unknown,,,,,,,,,
+66765,,48154,2021-027BQ,,Unknown,,,,,,,,,
+66766,,48155,2021-027BR,,Unknown,,,,,,,,,
+66767,,48124,2021-027AJ,,Unknown,,,,,,,,,
+66768,,48092,2021-027A,,Unknown,,,,,,,,,
+66769,,48093,2021-027B,,Unknown,,,,,,,,,
+66770,,48094,2021-027C,,Unknown,,,,,,,,,
+66771,,48095,2021-027D,,Unknown,,,,,,,,,
+66772,,48096,2021-027E,,Unknown,,,,,,,,,
+66773,,48097,2021-027F,,Unknown,,,,,,,,,
+66774,,48098,2021-027G,,Unknown,,,,,,,,,
+66775,,48099,2021-027H,,Unknown,,,,,,,,,
+66776,,48100,2021-027J,,Unknown,,,,,,,,,
+66777,,48101,2021-027K,,Unknown,,,,,,,,,
+66778,,48102,2021-027L,,Unknown,,,,,,,,,
+66779,,48103,2021-027M,,Unknown,,,,,,,,,
+66780,,48104,2021-027N,,Unknown,,,,,,,,,
+66781,,48105,2021-027P,,Unknown,,,,,,,,,
+66782,,48106,2021-027Q,,Unknown,,,,,,,,,
+66783,,48107,2021-027R,,Unknown,,,,,,,,,
+66784,,48108,2021-027S,,Unknown,,,,,,,,,
+66785,,48109,2021-027T,,Unknown,,,,,,,,,
+66786,,48110,2021-027U,,Unknown,,,,,,,,,
+66787,,48111,2021-027V,,Unknown,,,,,,,,,
+66788,,48112,2021-027W,,Unknown,,,,,,,,,
+66789,,48113,2021-027X,,Unknown,,,,,,,,,
+66790,,48114,2021-027Y,,Unknown,,,,,,,,,
+66791,,48115,2021-027Z,,Unknown,,,,,,,,,
+66792,,48116,2021-027AA,,Unknown,,,,,,,,,
+66793,,48117,2021-027AB,,Unknown,,,,,,,,,
+66794,,48119,2021-027AD,,Unknown,,,,,,,,,
+66795,,48120,2021-027AE,,Unknown,,,,,,,,,
+66796,,48121,2021-027AF,,Unknown,,,,,,,,,
+66797,,48122,2021-027AG,,Unknown,,,,,,,,,
+66798,,48123,2021-027AH,,Unknown,,,,,,,,,
+66799,,48118,2021-027AC,,Unknown,,,,,,,,,
+66800,,48125,2021-027AK,,Unknown,,,,,,,,,
+66801,,48126,2021-027AL,,Unknown,,,,,,,,,
+66802,,48127,2021-027AM,,Unknown,,,,,,,,,
+66803,Fregat SBB debris,47330,2011-037NM,,Rocket Fragmentation Debris,,,,,,,,,
+66804,,48161,1983-044GW,,Unknown,,,,,,,,,
+66805,Falcon 9 Merlin-V (1D+) (Falcon 9 v1.2),,2021-021IA,,Rocket Body,4300,Cyl,3.6,16,16,,58.4924538651002,10.1787601976309,50.3283143105085
+66806,Falcon 9 Merlin-V (1D+) (Falcon 9 v1.2),,2021-024IA,,Rocket Body,4300,Cyl,3.6,16,16,,58.4924538651002,10.1787601976309,50.3283143105085
+66807,Electron Photon-LEO 2,47972,2021-023H,,Payload,50,Trunc Cone,,,,,1.13097335529233,0.375,0.792483871320858
+66808,BlackSky Global 9,47971,2021-023G,,Payload,55,Box,,,,,0.75,0.25,0.625
+66809,Veery Hatchling v0.2,47970,2021-023F,,Payload,1,Box,,,,,0.0173205080756888,0.01,0.015
+66810,Gunsmoke-J 1,47969,2021-023E,,Payload,4,Box,,,,,0.0435889894354067,0.01,0.035
+66811,Myriota 7,47968,2021-023D,,Payload,5,Box,,,,,0.0435889894354067,0.01,0.035
+66812,RAAF M2 A,47967,2021-023C,,Payload,10,Box + 2 Pan + 1 Ant,,,,,0.220867469476665,0.03,0.111733333333333
+66813,Centauri 3,47966,2021-023B,,Payload,10,Box + 2 Pan,,,,,0.0938083151964686,0.04,0.08
+66814,Electron second stage (Electron (Curie)),47965,2021-023A,,Rocket Body,250,Cyl,1.2,2.4,1.2,,3.09410742062734,1.13097335529233,2.82743338823081
+66815,Fregat (Soyuz-2-1A Fregat),,2021-022IA,,Rocket Body,1000,Cyl,2.7,1.5,6.7,,,,
+66816,,48162,2002-032C,,Unknown,,,,,,,,,
+66817,,48163,2002-032D,,Unknown,,,,,,,,,
+66818,,48164,2002-032E,,Unknown,,,,,,,,,
+66819,,48165,2002-032F,,Unknown,,,,,,,,,
+66820,,48166,2002-032G,,Unknown,,,,,,,,,
+66821,,48167,2002-032H,,Unknown,,,,,,,,,
+66822,,48168,2002-032J,,Unknown,,,,,,,,,
+66823,,48169,2002-032K,,Unknown,,,,,,,,,
+66824,,48170,2002-032L,,Unknown,,,,,,,,,
+66825,,48171,2002-032M,,Unknown,,,,,,,,,
+66826,,48172,2002-032N,,Unknown,,,,,,,,,
+66827,,48173,2002-032P,,Unknown,,,,,,,,,
+66828,,48174,2002-032Q,,Unknown,,,,,,,,,
+66829,,48175,2002-032R,,Unknown,,,,,,,,,
+66830,,48176,2002-032S,,Unknown,,,,,,,,,
+66831,,48177,2002-032T,,Unknown,,,,,,,,,
+66832,,48178,2002-032U,,Unknown,,,,,,,,,
+66833,,48179,2002-032V,,Unknown,,,,,,,,,
+66834,,48180,2002-032W,,Unknown,,,,,,,,,
+66835,,48181,2002-032X,,Unknown,,,,,,,,,
+66836,,48182,2002-032Y,,Unknown,,,,,,,,,
+66837,,48183,2002-032Z,,Unknown,,,,,,,,,
+66838,,48184,2002-032AA,,Unknown,,,,,,,,,
+66839,,48185,2002-032AB,,Unknown,,,,,,,,,
+66840,,48186,2002-032AC,,Unknown,,,,,,,,,
+66841,,48187,2019-063F,,Unknown,,,,,,,,,
+66842,,48188,2019-063G,,Unknown,,,,,,,,,
+66843,,48189,2019-063H,,Unknown,,,,,,,,,
+66844,,48190,2019-063J,,Unknown,,,,,,,,,
+66845,,48191,2019-063K,,Unknown,,,,,,,,,
+66846,,48192,2019-063L,,Unknown,,,,,,,,,
+66847,,48193,2019-063M,,Unknown,,,,,,,,,
+66848,,48194,2019-063N,,Unknown,,,,,,,,,
+66849,,48195,2019-063P,,Unknown,,,,,,,,,
+66850,,48196,2019-063Q,,Unknown,,,,,,,,,
+66851,,48197,2019-063R,,Unknown,,,,,,,,,
+66852,,48198,2019-063S,,Unknown,,,,,,,,,
+66853,,48199,2019-063T,,Unknown,,,,,,,,,
+66854,,48200,2019-063U,,Unknown,,,,,,,,,
+66855,,48201,2019-063V,,Unknown,,,,,,,,,
+66856,,48202,2019-063W,,Unknown,,,,,,,,,
+66857,,48203,2019-063X,,Unknown,,,,,,,,,
+66858,,48204,2019-063Y,,Unknown,,,,,,,,,
+66859,,48205,2019-063Z,,Unknown,,,,,,,,,
+66860,,48206,2019-063AA,,Unknown,,,,,,,,,
+66861,,48207,2019-063AB,,Unknown,,,,,,,,,
+66862,,48208,2019-063AC,,Unknown,,,,,,,,,
+66863,,,,50708,Unknown,,,,,,,,,
+66864,,,,134906,Unknown,,,,,,,,,
+66865,,,,64109,Unknown,,,,,,,,,
+66867,,48209,2021-030A,,Unknown,,,,,,,,,
+66868,,,,62209,Unknown,,,,,,,,,
+66869,,,,47106,Unknown,,,,,,,,,
+66870,,,,89602,Unknown,,,,,,,,,
+66871,,,,142732,Unknown,,,,,,,,,
+66872,,,,114903,Unknown,,,,,,,,,
+66873,,,,141211,Unknown,,,,,,,,,
+66874,,,,59803,Unknown,,,,,,,,,
+66875,,,,71006,Unknown,,,,,,,,,
+66876,,,,77421,Unknown,,,,,,,,,
+66877,,,,146417,Unknown,,,,,,,,,
+66878,,,,146418,Unknown,,,,,,,,,
+66879,,,,101501,Unknown,,,,,,,,,
+66880,,48210,2021-031A,,Unknown,,,,,,,,,
+66881,,48211,2021-031B,,Unknown,,,,,,,,,
+66882,,48212,2021-031C,,Unknown,,,,,,,,,
+66883,,48213,2021-031D,,Unknown,,,,,,,,,
+66884,,48214,2021-031E,,Unknown,,,,,,,,,
+66885,,48215,2021-031F,,Unknown,,,,,,,,,
+66886,,48216,2021-031G,,Unknown,,,,,,,,,
+66887,,48217,2021-031H,,Unknown,,,,,,,,,
+66888,,48218,2021-031J,,Unknown,,,,,,,,,
+66889,,48219,2021-031K,,Unknown,,,,,,,,,
+66890,,48220,2021-031L,,Unknown,,,,,,,,,
+66891,,48221,2021-031M,,Unknown,,,,,,,,,
+66892,,48222,2021-031N,,Unknown,,,,,,,,,
+66893,,48223,2021-031P,,Unknown,,,,,,,,,
+66894,,48224,2021-031Q,,Unknown,,,,,,,,,
+66895,,48225,2021-031R,,Unknown,,,,,,,,,
+66896,,48226,2021-031S,,Unknown,,,,,,,,,
+66897,,48227,2021-031T,,Unknown,,,,,,,,,
+66898,,48228,2021-031U,,Unknown,,,,,,,,,
+66899,,48229,2021-031V,,Unknown,,,,,,,,,
+66900,,48230,2021-031W,,Unknown,,,,,,,,,
+66901,,48231,2021-031X,,Unknown,,,,,,,,,
+66902,,48232,2021-031Y,,Unknown,,,,,,,,,
+66903,,48233,2021-031Z,,Unknown,,,,,,,,,
+66904,,48234,2021-031AA,,Unknown,,,,,,,,,
+66905,,48235,2021-031AB,,Unknown,,,,,,,,,
+66906,,48236,2021-031AC,,Unknown,,,,,,,,,
+66907,,48237,2021-031AD,,Unknown,,,,,,,,,
+66908,,48238,2021-031AE,,Unknown,,,,,,,,,
+66909,,48239,2021-031AF,,Unknown,,,,,,,,,
+66910,,48240,2021-031AG,,Unknown,,,,,,,,,
+66911,,48241,2021-031AH,,Unknown,,,,,,,,,
+66912,,48242,2021-031AJ,,Unknown,,,,,,,,,
+66913,,48243,2021-031AK,,Unknown,,,,,,,,,
+66914,,48244,2021-031AL,,Unknown,,,,,,,,,
+66915,,48245,2021-031AM,,Unknown,,,,,,,,,
+66916,,48256,2021-033J,,Unknown,,,,,,,,,
+66917,,48257,2021-033K,,Unknown,,,,,,,,,
+66918,,48250,2021-033C,,Unknown,,,,,,,,,
+66919,,48248,2021-033A,,Unknown,,,,,,,,,
+66920,,48249,2021-033B,,Unknown,,,,,,,,,
+66921,,48251,2021-033D,,Unknown,,,,,,,,,
+66922,,48252,2021-033E,,Unknown,,,,,,,,,
+66923,,48253,2021-033F,,Unknown,,,,,,,,,
+66924,,48254,2021-033G,,Unknown,,,,,,,,,
+66925,,48255,2021-033H,,Unknown,,,,,,,,,
+66926,,48247,2021-032A,,Unknown,,,,,,,,,
+66927,,48258,1977-047U,,Unknown,,,,,,,,,
+66928,,48259,1979-077J,,Unknown,,,,,,,,,
+66929,,48260,1979-104AL,,Unknown,,,,,,,,,
+66930,,48261,1980-063E,,Unknown,,,,,,,,,
+66931,,48262,1980-063F,,Unknown,,,,,,,,,
+66932,,48263,1981-016M,,Unknown,,,,,,,,,
+66933,,48264,1981-031P,,Unknown,,,,,,,,,
+66934,,48265,1981-123E,,Unknown,,,,,,,,,
+66935,,48266,1982-045E,,Unknown,,,,,,,,,
+66936,,48267,1982-055BR,,Unknown,,,,,,,,,
+66937,L-165 (H5-1) (Long March (CZ) 5B),48275,2021-035B,,Rocket Body,21600,Cyl,,,,,156.238700141538,19.6349540849362,131.554192369073
+66938,,48274,2021-035A,,Unknown,,,,,,,,,
+66939,,48272,2021-034E,,Unknown,,,,,,,,,
+66940,,48271,2021-034D,,Unknown,,,,,,,,,
+66941,,48270,2021-034C,,Unknown,,,,,,,,,
+66942,,48269,2021-034B,,Unknown,,,,,,,,,
+66943,,48268,2021-034A,,Unknown,,,,,,,,,
+66944,,48273,2021-034F,,Unknown,,,,,,,,,
+66945,,48340,2021-037A,,Unknown,,,,,,,,,
+66946,,48341,2021-037B,,Unknown,,,,,,,,,
+66947,,,,40000,Unknown,,,,,,,,,
+66948,,,,67208,Unknown,,,,,,,,,
+66949,,,,147215,Unknown,,,,,,,,,
+66950,,,,166800,Unknown,,,,,,,,,
+66951,,,,134609,Unknown,,,,,,,,,
+66952,,,,148308,Unknown,,,,,,,,,
+66953,,,,72217,Unknown,,,,,,,,,
+66954,,,,141914,Unknown,,,,,,,,,
+66955,,,,143335,Unknown,,,,,,,,,
+66956,,,,142824,Unknown,,,,,,,,,
+66957,,,,100201,Unknown,,,,,,,,,
+66958,,,,140713,Unknown,,,,,,,,,
+66959,,,,145715,Unknown,,,,,,,,,
+66960,,,,137909,Unknown,,,,,,,,,
+66961,,,,55101,Unknown,,,,,,,,,
+66962,,48342,2020-084B,,Unknown,,,,,,,,,
+66963,,48352,1991-003U,,Unknown,,,,,,,,,
+66964,,48346,1983-105C,,Unknown,,,,,,,,,
+66965,,48343,1981-057G,,Unknown,,,,,,,,,
+66966,,48344,1983-070L,,Unknown,,,,,,,,,
+66967,,48345,1983-070M,,Unknown,,,,,,,,,
+66968,,48347,1984-081G,,Unknown,,,,,,,,,
+66969,,48348,1984-081H,,Unknown,,,,,,,,,
+66970,,48349,1985-071G,,Unknown,,,,,,,,,
+66971,,48350,1988-063K,,Unknown,,,,,,,,,
+66972,,48351,1988-109X,,Unknown,,,,,,,,,
+66973,,48417,1990-045J,,Unknown,,,,,,,,,
+66974,,48418,1996-022C,,Unknown,,,,,,,,,
+66975,,48419,1991-075Q,,Unknown,,,,,,,,,
+66976,,48421,1996-040E,,Unknown,,,,,,,,,
+66977,,48422,2007-044E,,Unknown,,,,,,,,,
+66978,,48276,2021-036A,,Unknown,,,,,,,,,
+66979,,48277,2021-036B,,Unknown,,,,,,,,,
+66980,,48278,2021-036C,,Unknown,,,,,,,,,
+66981,,48279,2021-036D,,Unknown,,,,,,,,,
+66982,,48280,2021-036E,,Unknown,,,,,,,,,
+66983,,48281,2021-036F,,Unknown,,,,,,,,,
+66984,,48282,2021-036G,,Unknown,,,,,,,,,
+66985,,48283,2021-036H,,Unknown,,,,,,,,,
+66986,,48284,2021-036J,,Unknown,,,,,,,,,
+66987,,48285,2021-036K,,Unknown,,,,,,,,,
+66988,,48286,2021-036L,,Unknown,,,,,,,,,
+66989,,48287,2021-036M,,Unknown,,,,,,,,,
+66990,,48288,2021-036N,,Unknown,,,,,,,,,
+66991,,48289,2021-036P,,Unknown,,,,,,,,,
+66992,,48290,2021-036Q,,Unknown,,,,,,,,,
+66993,,48291,2021-036R,,Unknown,,,,,,,,,
+66994,,48292,2021-036S,,Unknown,,,,,,,,,
+66995,,48293,2021-036T,,Unknown,,,,,,,,,
+66996,,48294,2021-036U,,Unknown,,,,,,,,,
+66997,,48295,2021-036V,,Unknown,,,,,,,,,
+66998,,48296,2021-036W,,Unknown,,,,,,,,,
+66999,,48297,2021-036X,,Unknown,,,,,,,,,
+67000,,48298,2021-036Y,,Unknown,,,,,,,,,
+67001,,48299,2021-036Z,,Unknown,,,,,,,,,
+67002,,48300,2021-036AA,,Unknown,,,,,,,,,
+67003,,48301,2021-036AB,,Unknown,,,,,,,,,
+67004,,48302,2021-036AC,,Unknown,,,,,,,,,
+67005,,48303,2021-036AD,,Unknown,,,,,,,,,
+67006,,48304,2021-036AE,,Unknown,,,,,,,,,
+67007,,48305,2021-036AF,,Unknown,,,,,,,,,
+67008,,48306,2021-036AG,,Unknown,,,,,,,,,
+67009,,48307,2021-036AH,,Unknown,,,,,,,,,
+67010,,48308,2021-036AJ,,Unknown,,,,,,,,,
+67011,,48309,2021-036AK,,Unknown,,,,,,,,,
+67012,,48310,2021-036AL,,Unknown,,,,,,,,,
+67013,,48311,2021-036AM,,Unknown,,,,,,,,,
+67014,,48312,2021-036AN,,Unknown,,,,,,,,,
+67015,,48313,2021-036AP,,Unknown,,,,,,,,,
+67016,,48314,2021-036AQ,,Unknown,,,,,,,,,
+67017,,48315,2021-036AR,,Unknown,,,,,,,,,
+67018,,48316,2021-036AS,,Unknown,,,,,,,,,
+67019,,48317,2021-036AT,,Unknown,,,,,,,,,
+67020,,48318,2021-036AU,,Unknown,,,,,,,,,
+67021,,48319,2021-036AV,,Unknown,,,,,,,,,
+67022,,48320,2021-036AW,,Unknown,,,,,,,,,
+67023,,48321,2021-036AX,,Unknown,,,,,,,,,
+67024,,48322,2021-036AY,,Unknown,,,,,,,,,
+67025,,48323,2021-036AZ,,Unknown,,,,,,,,,
+67026,,48324,2021-036BA,,Unknown,,,,,,,,,
+67027,,48325,2021-036BB,,Unknown,,,,,,,,,
+67028,,48326,2021-036BC,,Unknown,,,,,,,,,
+67029,,48327,2021-036BD,,Unknown,,,,,,,,,
+67030,,48328,2021-036BE,,Unknown,,,,,,,,,
+67031,,48329,2021-036BF,,Unknown,,,,,,,,,
+67032,,48330,2021-036BG,,Unknown,,,,,,,,,
+67033,,48331,2021-036BH,,Unknown,,,,,,,,,
+67034,,48332,2021-036BJ,,Unknown,,,,,,,,,
+67035,,48333,2021-036BK,,Unknown,,,,,,,,,
+67036,,48334,2021-036BL,,Unknown,,,,,,,,,
+67037,,48335,2021-036BM,,Unknown,,,,,,,,,
+67038,,48336,2021-036BN,,Unknown,,,,,,,,,
+67039,,48337,2021-036BP,,Unknown,,,,,,,,,
+67040,,48338,2021-036BQ,,Unknown,,,,,,,,,
+67041,,48339,2021-036BR,,Unknown,,,,,,,,,
+67043,,48420,1993-036BYN,,Unknown,,,,,,,,,
+67044,,48423,2021-039A,,Unknown,,,,,,,,,
+67045,,48424,2021-039B,,Unknown,,,,,,,,,
+67046,,48425,2021-039C,,Unknown,,,,,,,,,
+67047,,48427,2021-039E,,Unknown,,,,,,,,,
+67048,,48426,2021-039D,,Unknown,,,,,,,,,
+67049,,,,15202,Unknown,,,,,,,,,
+67050,,,,139618,Unknown,,,,,,,,,
+67051,,,,155303,Unknown,,,,,,,,,
+67052,,,,147307,Unknown,,,,,,,,,
+67053,,,,70716,Unknown,,,,,,,,,
+67054,,,,46705,Unknown,,,,,,,,,
+67055,,,,49907,Unknown,,,,,,,,,
+67056,,,,24700,Unknown,,,,,,,,,
+67057,,,,19901,Unknown,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
